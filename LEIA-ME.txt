@@ -1,0 +1,8 @@
+DISTRIBUIÇÃO DE SALAS - ARQUITETURA E URBANISMO 2026.2
+
+1. Abra index.html em qualquer navegador.
+2. A página funciona offline e possui filtros por turno, período, dia, professor e sala/laboratório.
+3. Para publicar no GitHub Pages, envie o conteúdo desta pasta para um repositório e ative Pages na raiz do branch principal.
+4. dados.json contém a base estruturada usada na conferência dos horários.
+
+Fonte: PDFs MANHÃ e NOITE fornecidos pelo usuário.
