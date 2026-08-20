@@ -7,7 +7,7 @@
 <style>
 :root{--navy:#18314b;--navy2:#0e4c75;--ink:#14243a;--muted:#647487;--line:#dbe5ee;--bg:#f5f8fb;--card:#fff;--accent:#be3144;--free:#e9f7ef;--occ:#e9f2fb;--conf:#fde7e9;--special:#f7ecff}
 *{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
-.wrap{max-width:1500px;margin:auto}.top{background:#fff;border-bottom:1px solid var(--line);padding:17px 22px}.brand{display:flex;gap:18px;align-items:center}.mark{display:flex;align-items:center;flex:0 0 auto}.mark img{display:block;width:250px;max-width:32vw;height:auto;border-radius:4px}.title h1{margin:0;font-size:30px;color:#092d5b}.title b{color:#c51f39}.title p{margin:3px 0 0;color:var(--muted)}
+.wrap{max-width:1500px;margin:auto}.top{background:#fff;border-bottom:1px solid var(--line);padding:17px 22px}.brand{display:flex;gap:18px;align-items:center}.mark{display:flex;align-items:center;flex:0 0 auto}.mark img{display:block;width:76px;height:76px;object-fit:contain;background:#fff;border-radius:8px}.title h1{margin:0;font-size:30px;color:#092d5b}.title b{color:#c51f39}.title p{margin:3px 0 0;color:var(--muted)}
 .nav{background:#fff;border-bottom:1px solid var(--line);padding:0 22px}.nav .wrap{display:flex;gap:6px;overflow:auto}.nav button{border:0;background:transparent;padding:14px 18px;font-weight:800;color:#30455f;cursor:pointer;border-bottom:3px solid transparent}.nav button.active{color:var(--navy2);border-bottom-color:var(--navy2)}
 main{padding:20px 22px}.panel{display:none}.panel.active{display:block}
 .hero-note{margin-bottom:15px;color:var(--muted)}.layout{display:grid;grid-template-columns:1.05fr 1.55fr;gap:16px}.building-grid{grid-column:1}.room-panel{grid-column:2}
@@ -24,7 +24,7 @@ main{padding:20px 22px}.panel{display:none}.panel.active{display:block}
 .footer{margin-top:25px;background:#073b6e;color:#fff;padding:18px 22px;text-align:center;font-size:13px}
 @media(max-width:1150px){.layout{grid-template-columns:1fr}.building-grid{grid-template-columns:1fr 1fr}.filters{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:720px){
-      .brand{align-items:flex-start}.mark img{width:155px;max-width:38vw}.title h1{font-size:23px;line-height:1.08}.title p{font-size:13px}
+      .brand{align-items:flex-start}.mark img{width:58px;height:58px}.title h1{font-size:23px;line-height:1.08}.title p{font-size:13px}
       .nav .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:0}.nav button{padding:11px 5px;font-size:12px;white-space:normal}
       main{padding:13px}.layout{display:flex;flex-direction:column}.building-grid{grid-template-columns:1fr;order:2}.room-panel{order:1}
       .building{border-radius:13px}.bh{padding:13px}.floor{padding:10px 12px}.room{min-width:44px;min-height:40px}
@@ -35,7 +35,7 @@ main{padding:20px 22px}.panel{display:none}.panel.active{display:block}
 </style>
 </head>
 <body>
-<header class="top"><div class="wrap brand"><div class="mark"><img src="logo-dom-helder.png" alt="Dom Helder Centro Universitário"></div><div class="title"><h1>DISTRIBUIÇÃO DE SALAS E LABORATÓRIOS</h1><b>2º semestre de 2026</b><p>Centro Universitário Dom Helder</p></div></div></header>
+<header class="top"><div class="wrap brand"><div class="mark"><img src="logo-dom-helder.png" alt="Símbolo Dom Helder"></div><div class="title"><h1>DISTRIBUIÇÃO DE SALAS E LABORATÓRIOS</h1><b>2º semestre de 2026</b><p>Centro Universitário Dom Helder</p></div></div></header>
 <nav class="nav"><div class="wrap"><button data-tab="predios" class="active">▦ Prédios</button><button data-tab="busca">⌕ Busca avançada</button><button data-tab="conflitos">⚠ Conflitos</button><button data-tab="cursos">👥 Cursos</button></div></nav>
 <main class="wrap">
 <section id="predios" class="panel active">
