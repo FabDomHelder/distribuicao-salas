@@ -23,7 +23,15 @@ main{padding:20px 22px}.panel{display:none}.panel.active{display:block}
 .conflict{background:#fff;border:1px solid #efc3c7;border-left:5px solid #c63442;border-radius:12px;padding:13px;margin-bottom:9px}.ok{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px;color:var(--muted)}
 .footer{margin-top:25px;background:#073b6e;color:#fff;padding:18px 22px;text-align:center;font-size:13px}
 @media(max-width:1150px){.layout{grid-template-columns:1fr}.building-grid{grid-template-columns:1fr 1fr}.filters{grid-template-columns:repeat(3,1fr)}}
-@media(max-width:720px){.building-grid{grid-template-columns:1fr}.filters{grid-template-columns:1fr 1fr}.title h1{font-size:24px}.top{padding:14px}.nav{padding:0 8px}main{padding:14px}}
+@media(max-width:720px){
+      .brand{align-items:flex-start}.mark{font-size:28px}.title h1{font-size:23px;line-height:1.08}.title p{font-size:13px}
+      .nav .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:0}.nav button{padding:11px 5px;font-size:12px;white-space:normal}
+      main{padding:13px}.layout{display:flex;flex-direction:column}.building-grid{grid-template-columns:1fr}
+      .building{border-radius:13px}.bh{padding:13px}.floor{padding:10px 12px}.room{min-width:44px;min-height:40px}
+      .room-panel{min-height:0;order:2}.room-content{padding:12px}.week{border-radius:9px}
+      .filters{grid-template-columns:1fr 1fr;padding:10px}.tablewrap{border-radius:10px}
+      .hero-note{font-size:15px;margin-bottom:12px}
+    }
 </style>
 </head>
 <body>
@@ -45,7 +53,7 @@ main{padding:20px 22px}.panel{display:none}.panel.active{display:block}
 </main>
 <footer class="footer">Centro Universitário Dom Helder • Distribuição de Salas e Laboratórios • Atualizado em 20/08/2026</footer>
 <script>
-let D;const $=q=>document.querySelector(q), esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","'":"&#39;"}[m])), norm=s=>(s||"").toString().toLowerCase();
+let D;const $=q=>document.querySelector(q), esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m])), norm=s=>(s||"").toString().toLowerCase();
 document.querySelectorAll(".nav button").forEach(b=>b.addEventListener("click",()=>{document.querySelectorAll(".nav button").forEach(x=>x.classList.remove("active"));b.classList.add("active");document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));$("#"+b.dataset.tab).classList.add("active")}));
 function same(a,b){return norm(a)===norm(b)}
 function renderBuildings(){const root=$("#buildingGrid");root.innerHTML="";Object.entries(D.buildings).forEach(([key,b])=>{const c=document.createElement("article");c.className="building";c.innerHTML=`<div class="bh"><h2>${esc(b.label)}</h2><small>${esc(b.subtitle)}</small></div>`;b.floors.forEach(f=>{const x=document.createElement("div");x.className="floor";x.innerHTML=`<strong>${esc(f.andar)}</strong><div class="rooms"></div>`;f.salas.forEach(room=>{const bt=document.createElement("button");bt.className="room"+(D.records.some(r=>same(r["Sala/Laboratório"],room))?" used":"");bt.textContent=room.startsWith("Sala ")?room.slice(5):room;bt.addEventListener("click",()=>roomView(key,room));x.querySelector(".rooms").appendChild(bt)});c.appendChild(x)});root.appendChild(c)})}
@@ -58,6 +66,12 @@ function table(){const rr=filtered();$("#tb").innerHTML=rr.map(r=>`<tr><td>${esc
 function conflicts(){const m={};D.records.filter(r=>r["Dia"]&&r["Início"]&&r["Sala/Laboratório"]&&!["EAD"].includes(r["Dia"])).forEach(r=>{const k=[r["Sala/Laboratório"],r["Dia"],r["Início"],r["Fim"]].join("|");(m[k]??=[]).push(r)});const bad=Object.entries(m).filter(([k,a])=>{const uniq=new Set(a.map(r=>r["Curso"]+"|"+r["Turma"]));return uniq.size>1});$("#conflictList").innerHTML=bad.length?bad.map(([k,a])=>{const [room,day,ini,fim]=k.split("|");return `<div class="conflict"><b>${esc(room)} • ${day} • ${ini}–${fim}</b><br>${a.map(r=>esc(r["Curso"]+" — "+r["Turma"]+" — "+(r["Disciplina"]||""))).join("<br>")}</div>`}).join(""):`<div class="ok">Nenhum conflito inequívoco detectado entre os horários detalhados incorporados.</div>`}
 function courses(){const cs=[...new Set(D.records.map(r=>r["Curso"]).filter(Boolean))].sort();$("#courseList").innerHTML=cs.map(c=>{const r=D.records.filter(x=>x["Curso"]===c),det=r.filter(x=>x["Dia"]&&x["Início"]).length;return `<article class="building"><div class="bh"><h2>${esc(c)}</h2><small>${det} horários detalhados • ${r.length} registros</small></div><div class="floor">Turmas: ${[...new Set(r.map(x=>x["Turma"]).filter(Boolean))].sort().join(", ")}</div></article>`}).join("")}
 ["#fs","#fc","#ft","#fd"].forEach(x=>$(x).addEventListener("change",table));$("#fp").addEventListener("change",()=>{roomOpts();table()});$("#fq").addEventListener("input",table);
-fetch("dados.json").then(r=>r.json()).then(x=>{D=x;renderBuildings();initFilters();table();conflicts();courses()});
+fetch("dados.json")
+.then(r=>{if(!r.ok) throw new Error("dados.json não encontrado"); return r.json()})
+.then(x=>{D=x;renderBuildings();initFilters();table();conflicts();courses()})
+.catch(err=>{
+  console.error(err);
+  document.querySelector("#buildingGrid").innerHTML='<div class="ok"><b>Não foi possível carregar os dados.</b><br>Confirme se <code>dados.json</code> está no mesmo diretório do <code>index.html</code>.</div>';
+});
 </script>
 </body></html>

@@ -8,6 +8,7 @@
         {
           "andar": "2º andar",
           "salas": [
+            "Innovation Lab",
             "Lab. Metodologias Ativas I",
             "Lab. Metodologias Ativas II",
             "Lab. Metodologias Ativas III"
@@ -1071,12 +1072,12 @@
       "Fim": "20:00",
       "Disciplina": "Topografia: matemática, geometria, intervenção e representação",
       "Professor": "André",
-      "Sala/Laboratório": "Sala 87",
+      "Sala/Laboratório": "Sala 67",
       "Prédio": "Prédio 3",
-      "Andar": "8º",
+      "Andar": "6º",
       "Tipo de registro": "HORÁRIO DETALHADO",
-      "Observação": "Acesso pela Rua Domingos Vieira",
-      "Fonte": "PDF Arquitetura Noite"
+      "Observação": "Acesso pela Rua Domingos Vieira | Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2"
     },
     {
       "Curso": "Arquitetura e Urbanismo",
@@ -1156,12 +1157,12 @@
       "Fim": "22:00",
       "Disciplina": "Topografia: matemática, geometria, intervenção e representação",
       "Professor": "André",
-      "Sala/Laboratório": "Sala 87",
+      "Sala/Laboratório": "Sala 67",
       "Prédio": "Prédio 3",
-      "Andar": "8º",
+      "Andar": "6º",
       "Tipo de registro": "HORÁRIO DETALHADO",
-      "Observação": "Acesso pela Rua Domingos Vieira",
-      "Fonte": "PDF Arquitetura Noite"
+      "Observação": "Acesso pela Rua Domingos Vieira | Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2"
     },
     {
       "Curso": "Arquitetura e Urbanismo",
@@ -1258,12 +1259,12 @@
       "Fim": "20:00",
       "Disciplina": "Topografia: matemática, geometria, intervenção e representação",
       "Professor": "André",
-      "Sala/Laboratório": "Sala 87",
+      "Sala/Laboratório": "Sala 67",
       "Prédio": "Prédio 3",
-      "Andar": "8º",
+      "Andar": "6º",
       "Tipo de registro": "HORÁRIO DETALHADO",
-      "Observação": "Junto com o 1º período/calouros",
-      "Fonte": "PDF Arquitetura Noite"
+      "Observação": "Junto com o 1º período/calouros | Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2"
     },
     {
       "Curso": "Arquitetura e Urbanismo",
@@ -1343,12 +1344,12 @@
       "Fim": "22:00",
       "Disciplina": "Topografia: matemática, geometria, intervenção e representação",
       "Professor": "André",
-      "Sala/Laboratório": "Sala 87",
+      "Sala/Laboratório": "Sala 67",
       "Prédio": "Prédio 3",
-      "Andar": "8º",
+      "Andar": "6º",
       "Tipo de registro": "HORÁRIO DETALHADO",
-      "Observação": "Junto com o 1º período/calouros",
-      "Fonte": "PDF Arquitetura Noite"
+      "Observação": "Junto com o 1º período/calouros | Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2"
     },
     {
       "Curso": "Arquitetura e Urbanismo",
@@ -2465,12 +2466,12 @@
       "Fim": "20:00",
       "Disciplina": "Saneamento Ambiental, Gestão de Resíduos e Recursos",
       "Professor": "Pedro Heller",
-      "Sala/Laboratório": "Sala 87",
+      "Sala/Laboratório": "Sala 67",
       "Prédio": "Prédio 3",
-      "Andar": "8º",
+      "Andar": "6º",
       "Tipo de registro": "HORÁRIO DETALHADO",
-      "Observação": "",
-      "Fonte": "PDF Arquitetura Noite"
+      "Observação": "Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2"
     },
     {
       "Curso": "Arquitetura e Urbanismo",
@@ -2550,12 +2551,12 @@
       "Fim": "22:00",
       "Disciplina": "Saneamento Ambiental, Gestão de Resíduos e Recursos",
       "Professor": "Pedro Heller",
-      "Sala/Laboratório": "Sala 87",
+      "Sala/Laboratório": "Sala 67",
       "Prédio": "Prédio 3",
-      "Andar": "8º",
+      "Andar": "6º",
       "Tipo de registro": "HORÁRIO DETALHADO",
-      "Observação": "",
-      "Fonte": "PDF Arquitetura Noite"
+      "Observação": "Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2"
     },
     {
       "Curso": "Arquitetura e Urbanismo",
