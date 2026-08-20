@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Distribuição de Salas e Laboratórios • 2026.2</title>
+<style>
+:root{--navy:#18314b;--navy2:#0e4c75;--ink:#14243a;--muted:#647487;--line:#dbe5ee;--bg:#f5f8fb;--card:#fff;--accent:#be3144;--free:#e9f7ef;--occ:#e9f2fb;--conf:#fde7e9;--special:#f7ecff}
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink)}
+.wrap{max-width:1500px;margin:auto}.top{background:#fff;border-bottom:1px solid var(--line);padding:17px 22px}.brand{display:flex;gap:18px;align-items:center}.mark{font-size:34px;color:var(--accent);font-weight:900}.title h1{margin:0;font-size:30px;color:#092d5b}.title b{color:#c51f39}.title p{margin:3px 0 0;color:var(--muted)}
+.nav{background:#fff;border-bottom:1px solid var(--line);padding:0 22px}.nav .wrap{display:flex;gap:6px;overflow:auto}.nav button{border:0;background:transparent;padding:14px 18px;font-weight:800;color:#30455f;cursor:pointer;border-bottom:3px solid transparent}.nav button.active{color:var(--navy2);border-bottom-color:var(--navy2)}
+main{padding:20px 22px}.panel{display:none}.panel.active{display:block}
+.hero-note{margin-bottom:15px;color:var(--muted)}.layout{display:grid;grid-template-columns:1.05fr 1.55fr;gap:16px}
+.building-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;align-items:start}
+.building{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden}.building h2{font-size:20px;margin:0}.bh{padding:16px;border-bottom:1px solid var(--line)}.bh small{color:var(--muted)}.floor{padding:12px 14px;border-bottom:1px solid #eef2f6}.floor:last-child{border:0}.floor strong{display:block;margin-bottom:7px;color:#214a70}.rooms{display:flex;gap:7px;flex-wrap:wrap}
+.room{border:1px solid #c8d8e6;border-radius:9px;background:#fff;padding:7px 9px;font-weight:800;color:#174e76;cursor:pointer}.room.used{background:#eaf4fb}.room:hover{outline:2px solid #a9cadf}
+.room-panel{background:#fff;border:1px solid var(--line);border-radius:16px;overflow:hidden;min-height:450px}.room-head{background:var(--navy2);color:#fff;padding:16px 18px}.room-head h2{margin:0}.room-content{padding:16px}
+.resources{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:15px}.chip{border:1px solid var(--line);border-radius:10px;padding:9px 12px;background:#fff;font-size:13px}
+.week{overflow:auto;border:1px solid var(--line);border-radius:12px}.week table{border-collapse:collapse;width:100%;min-width:850px}.week th,.week td{border:1px solid var(--line);padding:8px;vertical-align:top}.week th{background:#f1f5f9;font-size:12px}.event{border-left:4px solid var(--navy2);background:var(--occ);border-radius:6px;padding:7px;font-size:12px;margin-bottom:5px}.event strong{display:block}.fixed{border-left-color:#7446a8;background:var(--special)}
+.filters{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px;background:#fff;border:1px solid var(--line);padding:14px;border-radius:14px;margin-bottom:13px}label{font-size:12px;font-weight:800;color:#4e6074}select,input{width:100%;margin-top:5px;padding:10px;border:1px solid #c9d7e2;border-radius:9px;background:#fff}
+.tablewrap{overflow:auto;background:#fff;border:1px solid var(--line);border-radius:14px}.list{width:100%;border-collapse:collapse;min-width:1100px}.list th,.list td{padding:10px;border-bottom:1px solid #edf1f5;text-align:left;font-size:13px}.list th{background:var(--navy);color:#fff;position:sticky;top:0}
+.badge{padding:3px 7px;border-radius:999px;font-size:11px;font-weight:800}.bdet{background:#dceefb;color:#15577e}.bfix{background:#efe5fa;color:#6e3e97}
+.conflict{background:#fff;border:1px solid #efc3c7;border-left:5px solid #c63442;border-radius:12px;padding:13px;margin-bottom:9px}.ok{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px;color:var(--muted)}
+.footer{margin-top:25px;background:#073b6e;color:#fff;padding:18px 22px;text-align:center;font-size:13px}
+@media(max-width:1150px){.layout{grid-template-columns:1fr}.building-grid{grid-template-columns:1fr 1fr}.filters{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:720px){.building-grid{grid-template-columns:1fr}.filters{grid-template-columns:1fr 1fr}.title h1{font-size:24px}.top{padding:14px}.nav{padding:0 8px}main{padding:14px}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap brand"><div class="mark">◀▶</div><div class="title"><h1>DISTRIBUIÇÃO DE SALAS E LABORATÓRIOS</h1><b>2º semestre de 2026</b><p>Centro Universitário Dom Helder</p></div></div></header>
+<nav class="nav"><div class="wrap"><button data-tab="predios" class="active">▦ Prédios</button><button data-tab="busca">⌕ Busca avançada</button><button data-tab="conflitos">⚠ Conflitos</button><button data-tab="cursos">👥 Cursos</button></div></nav>
+<main class="wrap">
+<section id="predios" class="panel active">
+<p class="hero-note">Selecione uma sala ou laboratório para visualizar sua ocupação semanal. Os Prédios 01, 02 e 03 seguem o mesmo padrão de leitura por andar.</p>
+<div class="layout"><div id="buildingGrid" class="building-grid"></div><div id="roomPanel" class="room-panel"><div class="room-head"><h2>Selecione uma sala</h2></div><div class="room-content"><p style="color:#647487">Clique em qualquer número de sala ou laboratório à esquerda.</p></div></div></div>
+</section>
+<section id="busca" class="panel"><div class="filters">
+<label>Prédio<select id="fp"></select></label><label>Sala/Lab<select id="fs"></select></label><label>Curso<select id="fc"></select></label>
+<label>Turno<select id="ft"><option>Todos</option><option>Manhã</option><option>Noite</option></select></label>
+<label>Dia<select id="fd"><option>Todos</option><option>Segunda</option><option>Terça</option><option>Quarta</option><option>Quinta</option><option>Sexta</option><option>Sábado</option><option>EAD</option></select></label>
+<label>Buscar<input id="fq" placeholder="Turma, disciplina, professor..."></label></div>
+<div class="tablewrap"><table class="list"><thead><tr><th>Prédio</th><th>Sala/Lab</th><th>Curso</th><th>Turma</th><th>Dia</th><th>Horário</th><th>Disciplina</th><th>Professor</th><th>Tipo</th></tr></thead><tbody id="tb"></tbody></table></div></section>
+<section id="conflitos" class="panel"><div id="conflictList"></div></section>
+<section id="cursos" class="panel"><div id="courseList" class="building-grid"></div></section>
+</main>
+<footer class="footer">Centro Universitário Dom Helder • Distribuição de Salas e Laboratórios • Atualizado em 20/08/2026</footer>
+<script>
+let D;const $=q=>document.querySelector(q), esc=s=>(s??"").toString().replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;","\\"":"&quot;","'":"&#39;"}[m])), norm=s=>(s||"").toString().toLowerCase();
+document.querySelectorAll(".nav button").forEach(b=>b.addEventListener("click",()=>{document.querySelectorAll(".nav button").forEach(x=>x.classList.remove("active"));b.classList.add("active");document.querySelectorAll(".panel").forEach(x=>x.classList.remove("active"));$("#"+b.dataset.tab).classList.add("active")}));
+function same(a,b){return norm(a)===norm(b)}
+function renderBuildings(){const root=$("#buildingGrid");root.innerHTML="";Object.entries(D.buildings).forEach(([key,b])=>{const c=document.createElement("article");c.className="building";c.innerHTML=`<div class="bh"><h2>${esc(b.label)}</h2><small>${esc(b.subtitle)}</small></div>`;b.floors.forEach(f=>{const x=document.createElement("div");x.className="floor";x.innerHTML=`<strong>${esc(f.andar)}</strong><div class="rooms"></div>`;f.salas.forEach(room=>{const bt=document.createElement("button");bt.className="room"+(D.records.some(r=>same(r["Sala/Laboratório"],room))?" used":"");bt.textContent=room.startsWith("Sala ")?room.slice(5):room;bt.addEventListener("click",()=>roomView(key,room));x.querySelector(".rooms").appendChild(bt)});c.appendChild(x)});root.appendChild(c)})}
+function roomView(place,room){const rec=D.records.filter(r=>same(r["Sala/Laboratório"],room));const det=rec.filter(r=>r["Dia"]&&r["Início"]), fix=rec.filter(r=>!r["Dia"]||!r["Início"]);const days=["Segunda","Terça","Quarta","Quinta","Sexta","Sábado"];const fac=D.facilities?.[room];let res=fac?`<div class="resources"><div class="chip">📺 TV: <b>${esc(fac.tv)}</b></div><div class="chip">▣ Base: <b>${esc(fac.base)}</b></div></div>`:"";const times=[...new Set(det.map(r=>`${r["Início"]}–${r["Fim"]}`))].sort();let grid=`<div class="week"><table><thead><tr><th>Horário</th>${days.map(d=>`<th>${d}</th>`).join("")}</tr></thead><tbody>`;times.forEach(t=>{grid+=`<tr><th>${t}</th>`;days.forEach(d=>{const rr=det.filter(r=>r["Dia"]===d&&`${r["Início"]}–${r["Fim"]}`===t);grid+=`<td>${rr.map(r=>`<div class="event"><strong>${esc(r["Turma"]||r["Período"])} • ${esc(r["Curso"])}</strong>${esc(r["Disciplina"]||"")}</div>`).join("")}</td>`});grid+="</tr>"});grid+="</tbody></table></div>";let fixed=fix.length?`<h3>Alocações-base</h3>${fix.map(r=>`<div class="event fixed"><strong>${esc(r["Turma"])} • ${esc(r["Curso"])}</strong>${esc(r["Turno"])}${r["Observação"]?`<br>${esc(r["Observação"])}`:""}</div>`).join("")}`:"";$("#roomPanel").innerHTML=`<div class="room-head"><h2>${esc(room)} • ${esc(place)}</h2></div><div class="room-content">${res}${det.length?grid:"<div class='ok'>Ainda não há horário semanal detalhado para este espaço.</div>"}${fixed}</div>`}
+function opts(sel,vals){$(sel).innerHTML=`<option>Todos</option>`+vals.map(v=>`<option>${esc(v)}</option>`).join("")}
+function initFilters(){opts("#fp",Object.keys(D.buildings));opts("#fc",[...new Set(D.records.map(r=>r["Curso"]).filter(Boolean))].sort());roomOpts()}
+function roomOpts(){const p=$("#fp").value;let a=p==="Todos"?Object.values(D.buildings).flatMap(b=>b.floors.flatMap(f=>f.salas)):(D.buildings[p]?.floors.flatMap(f=>f.salas)||[]);opts("#fs",[...new Set(a)])}
+function filtered(){const p=$("#fp").value,s=$("#fs").value,c=$("#fc").value,t=$("#ft").value,d=$("#fd").value,q=norm($("#fq").value);return D.records.filter(r=>(p==="Todos"||r["Prédio"]===p)&&(s==="Todos"||same(r["Sala/Laboratório"],s))&&(c==="Todos"||r["Curso"]===c)&&(t==="Todos"||r["Turno"]===t)&&(d==="Todos"||r["Dia"]===d)&&(!q||norm(Object.values(r).join(" ")).includes(q)))}
+function table(){const rr=filtered();$("#tb").innerHTML=rr.map(r=>`<tr><td>${esc(r["Prédio"]||"—")}</td><td><b>${esc(r["Sala/Laboratório"]||"—")}</b></td><td>${esc(r["Curso"])}</td><td>${esc(r["Turma"]||r["Período"])}</td><td>${esc(r["Dia"]||"—")}</td><td>${r["Início"]?esc(r["Início"]+"–"+r["Fim"]):"—"}</td><td>${esc(r["Disciplina"]||"—")}</td><td>${esc(r["Professor"]||"—")}</td><td><span class="badge ${r["Tipo de registro"]==="HORÁRIO DETALHADO"?"bdet":"bfix"}">${r["Tipo de registro"]==="HORÁRIO DETALHADO"?"detalhado":"base"}</span></td></tr>`).join("")||`<tr><td colspan="9">Nenhum resultado.</td></tr>`}
+function conflicts(){const m={};D.records.filter(r=>r["Dia"]&&r["Início"]&&r["Sala/Laboratório"]&&!["EAD"].includes(r["Dia"])).forEach(r=>{const k=[r["Sala/Laboratório"],r["Dia"],r["Início"],r["Fim"]].join("|");(m[k]??=[]).push(r)});const bad=Object.entries(m).filter(([k,a])=>{const uniq=new Set(a.map(r=>r["Curso"]+"|"+r["Turma"]));return uniq.size>1});$("#conflictList").innerHTML=bad.length?bad.map(([k,a])=>{const [room,day,ini,fim]=k.split("|");return `<div class="conflict"><b>${esc(room)} • ${day} • ${ini}–${fim}</b><br>${a.map(r=>esc(r["Curso"]+" — "+r["Turma"]+" — "+(r["Disciplina"]||""))).join("<br>")}</div>`}).join(""):`<div class="ok">Nenhum conflito inequívoco detectado entre os horários detalhados incorporados.</div>`}
+function courses(){const cs=[...new Set(D.records.map(r=>r["Curso"]).filter(Boolean))].sort();$("#courseList").innerHTML=cs.map(c=>{const r=D.records.filter(x=>x["Curso"]===c),det=r.filter(x=>x["Dia"]&&x["Início"]).length;return `<article class="building"><div class="bh"><h2>${esc(c)}</h2><small>${det} horários detalhados • ${r.length} registros</small></div><div class="floor">Turmas: ${[...new Set(r.map(x=>x["Turma"]).filter(Boolean))].sort().join(", ")}</div></article>`}).join("")}
+["#fs","#fc","#ft","#fd"].forEach(x=>$(x).addEventListener("change",table));$("#fp").addEventListener("change",()=>{roomOpts();table()});$("#fq").addEventListener("input",table);
+fetch("dados.json").then(r=>r.json()).then(x=>{D=x;renderBuildings();initFilters();table();conflicts();courses()});
+</script>
+</body></html>
