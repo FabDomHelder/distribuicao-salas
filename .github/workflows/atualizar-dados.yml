@@ -15,11 +15,22 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Atualizar dados.json
+      - name: Baixar dados atualizados do OneDrive
         env:
-          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          URL: ${{ github.event.client_payload.url }}
         run: |
-          printf '%s\n' "$PAYLOAD" > dados.json
+          if [[ "$URL" == *"?"* ]]; then
+            DOWNLOAD_URL="${URL}&download=1"
+          else
+            DOWNLOAD_URL="${URL}?download=1"
+          fi
+
+          curl -L --fail "$DOWNLOAD_URL" -o dados-novos.json
+
+      - name: Validar arquivo JSON
+        run: |
+          jq empty dados-novos.json
+          mv dados-novos.json dados.json
 
       - name: Salvar alteração
         run: |
