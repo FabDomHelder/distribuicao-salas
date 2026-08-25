@@ -15,17 +15,17 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-      - name: Baixar dados atualizados do OneDrive
+           - name: Baixar dados atualizados do OneDrive
         env:
           URL: ${{ github.event.client_payload.url }}
         run: |
-          if [[ "$URL" == *"?"* ]]; then
-            DOWNLOAD_URL="${URL}&download=1"
-          else
-            DOWNLOAD_URL="${URL}?download=1"
-          fi
-
-          curl -L --fail "$DOWNLOAD_URL" -o dados-novos.json
+          echo "Baixando arquivo compartilhado..."
+          curl -L \
+            -A "Mozilla/5.0" \
+            -H "Accept: application/octet-stream" \
+            --fail-with-body \
+            "$URL" \
+            -o dados-novos.json
 
       - name: Validar arquivo JSON
         run: |
