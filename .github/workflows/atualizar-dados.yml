@@ -15,7 +15,7 @@ jobs:
       - name: Baixar repositório
         uses: actions/checkout@v4
 
-           - name: Baixar dados atualizados do OneDrive
+      - name: Baixar dados atualizados do OneDrive
         env:
           URL: ${{ github.event.client_payload.url }}
         run: |
