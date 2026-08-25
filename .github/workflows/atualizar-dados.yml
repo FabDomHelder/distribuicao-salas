@@ -2,10 +2,14 @@ name: Atualizar dados das salas
 
 on:
   repository_dispatch:
-    types: [atualizar-dados]
+    types: [atualizar-dados-parte]
 
 permissions:
   contents: write
+
+concurrency:
+  group: atualizar-dados-salas
+  cancel-in-progress: false
 
 jobs:
   atualizar:
@@ -14,29 +18,63 @@ jobs:
     steps:
       - name: Baixar repositório
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Baixar dados atualizados do OneDrive
+      - name: Preparar pasta temporária
+        run: mkdir -p .dados-partes
+
+      - name: Salvar parte recebida
         env:
-          URL: ${{ github.event.client_payload.url }}
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: |
-          echo "Baixando arquivo compartilhado..."
-          curl -L \
-            -A "Mozilla/5.0" \
-            -H "Accept: application/octet-stream" \
-            --fail-with-body \
-            "$URL" \
-            -o dados-novos.json
+          CHUNK=$(printf '%s' "$PAYLOAD" | jq -r '.chunk')
+          printf '%s\n' "$PAYLOAD" > ".dados-partes/parte-${CHUNK}.json"
 
-      - name: Validar arquivo JSON
-        run: |
-          jq empty dados-novos.json
-          mv dados-novos.json dados.json
-
-      - name: Salvar alteração
+      - name: Salvar parte no repositório
         run: |
           git config user.name "Power Automate"
           git config user.email "powerautomate@domhelder.edu.br"
-          git add dados.json
-          git diff --cached --quiet && exit 0
+          git add .dados-partes/
+          git commit -m "Receber parte da distribuição de salas" || true
+          git pull --rebase origin main
+          git push
+
+      - name: Verificar se chegaram as cinco partes
+        id: verificar
+        run: |
+          git pull origin main
+          TOTAL=$(find .dados-partes -name 'parte-*.json' | wc -l)
+          echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
+
+      - name: Montar dados.json
+        if: steps.verificar.outputs.total == '5'
+        run: |
+          jq -s '
+          {
+            semestre: .[0].semestre,
+            atualizadoEm: (now | todate),
+            salas: .[0].salas,
+            records: (
+              [.[].records[]]
+            )
+          }
+          ' \
+          .dados-partes/parte-1.json \
+          .dados-partes/parte-2.json \
+          .dados-partes/parte-3.json \
+          .dados-partes/parte-4.json \
+          .dados-partes/parte-5.json \
+          > dados-novos.json
+
+          jq empty dados-novos.json
+          mv dados-novos.json dados.json
+
+      - name: Publicar atualização final
+        if: steps.verificar.outputs.total == '5'
+        run: |
+          rm -rf .dados-partes
+          git add dados.json .dados-partes
           git commit -m "Atualização automática da distribuição de salas"
+          git pull --rebase origin main
           git push
