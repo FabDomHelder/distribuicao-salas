@@ -54,12 +54,36 @@ jobs:
             echo "Parte já estava atualizada."
           else
             git commit -m "Receber parte da distribuição de salas"
-            git push origin main
+
+            SUCESSO=0
+
+            for TENTATIVA in 1 2 3 4 5; do
+              echo "Tentativa de envio $TENTATIVA de 5..."
+
+              git fetch origin main
+              git rebase origin/main
+
+              if git push origin HEAD:main; then
+                SUCESSO=1
+                echo "Parte enviada com sucesso."
+                break
+              fi
+
+              echo "Outro processo atualizou a branch. Aguardando para tentar novamente..."
+              sleep $((TENTATIVA * 3))
+            done
+
+            if [ "$SUCESSO" -ne 1 ]; then
+              echo "ERRO: não foi possível enviar a parte após 5 tentativas."
+              exit 1
+            fi
           fi
 
       - name: Atualizar estado antes da montagem
         run: |
-          git pull --rebase origin main
+          git fetch origin main
+          git reset --hard origin/main
+
           echo "Partes disponíveis:"
           ls -la .dados-partes/ || true
 
@@ -105,6 +129,7 @@ jobs:
           mv dados-novos.json dados.json
 
           echo "dados.json criado com sucesso."
+          echo "Quantidade de registros:"
           jq '.records | length' dados.json
 
       - name: Publicar atualização final
@@ -115,7 +140,27 @@ jobs:
           git add dados.json
           git add -A .dados-partes
 
-          git commit -m "Atualização automática da distribuição de salas"
+          git commit -m "Atualização automática da distribuição de salas" || true
 
-          git pull --rebase origin main
-          git push origin main
+          SUCESSO=0
+
+          for TENTATIVA in 1 2 3 4 5; do
+            echo "Tentativa de publicação final $TENTATIVA de 5..."
+
+            git fetch origin main
+            git rebase origin/main
+
+            if git push origin HEAD:main; then
+              SUCESSO=1
+              echo "Atualização final publicada com sucesso."
+              break
+            fi
+
+            echo "Outro processo atualizou a branch. Aguardando nova tentativa..."
+            sleep $((TENTATIVA * 3))
+          done
+
+          if [ "$SUCESSO" -ne 1 ]; then
+            echo "ERRO: não foi possível publicar a atualização final."
+            exit 1
+          fi
