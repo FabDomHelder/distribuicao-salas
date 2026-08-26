@@ -21,43 +21,81 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Preparar pasta temporária
-        run: mkdir -p .dados-partes
+      - name: Sincronizar repositório
+        run: |
+          git pull --rebase origin main
 
-      - name: Salvar parte recebida
+      - name: Validar e salvar parte recebida
         env:
           PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: |
+          mkdir -p .dados-partes
+
           CHUNK=$(printf '%s' "$PAYLOAD" | jq -r '.chunk')
+          TOTAL_ESPERADO=$(printf '%s' "$PAYLOAD" | jq -r '.total')
+
+          echo "Parte recebida: $CHUNK"
+          echo "Total esperado: $TOTAL_ESPERADO"
+
+          if ! [[ "$CHUNK" =~ ^[1-5]$ ]]; then
+            echo "ERRO: chunk inválido: $CHUNK"
+            exit 1
+          fi
+
           printf '%s\n' "$PAYLOAD" > ".dados-partes/parte-${CHUNK}.json"
+
+          echo "Arquivos atualmente presentes:"
+          ls -la .dados-partes/
 
       - name: Salvar parte no repositório
         run: |
           git config user.name "Power Automate"
           git config user.email "powerautomate@domhelder.edu.br"
-          git add .dados-partes/
-          git commit -m "Receber parte da distribuição de salas" || true
-          git pull --rebase origin main
-          git push
 
-      - name: Verificar se chegaram as cinco partes
+          git add .dados-partes/
+
+          if git diff --cached --quiet; then
+            echo "Parte já estava atualizada."
+          else
+            git commit -m "Receber parte da distribuição de salas"
+            git push origin main
+          fi
+
+      - name: Atualizar estado antes da montagem
+        run: |
+          git pull --rebase origin main
+          echo "Partes disponíveis:"
+          ls -la .dados-partes/ || true
+
+      - name: Verificar partes
         id: verificar
         run: |
-          git pull origin main
-          TOTAL=$(find .dados-partes -name 'parte-*.json' | wc -l)
-          echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
+          FALTANDO=0
+
+          for N in 1 2 3 4 5; do
+            if [ ! -f ".dados-partes/parte-${N}.json" ]; then
+              echo "Faltando parte $N"
+              FALTANDO=1
+            else
+              echo "Parte $N encontrada"
+            fi
+          done
+
+          if [ "$FALTANDO" -eq 0 ]; then
+            echo "completo=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "completo=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Montar dados.json
-        if: steps.verificar.outputs.total == '5'
+        if: steps.verificar.outputs.completo == 'true'
         run: |
           jq -s '
           {
             semestre: .[0].semestre,
             atualizadoEm: (now | todate),
             salas: .[0].salas,
-            records: (
-              [.[].records[]]
-            )
+            records: [.[].records[]]
           }
           ' \
           .dados-partes/parte-1.json \
@@ -70,11 +108,18 @@ jobs:
           jq empty dados-novos.json
           mv dados-novos.json dados.json
 
+          echo "dados.json criado com sucesso."
+          jq '.records | length' dados.json
+
       - name: Publicar atualização final
-        if: steps.verificar.outputs.total == '5'
+        if: steps.verificar.outputs.completo == 'true'
         run: |
           rm -rf .dados-partes
-          git add dados.json .dados-partes
+
+          git add dados.json
+          git add -A .dados-partes
+
           git commit -m "Atualização automática da distribuição de salas"
+
           git pull --rebase origin main
-          git push
+          git push origin main
