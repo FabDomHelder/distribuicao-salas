@@ -7,10 +7,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: atualizar-dados-salas
-  cancel-in-progress: false
-
 jobs:
   atualizar:
     runs-on: ubuntu-latest
