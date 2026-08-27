@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T18:27:12Z",
+  "atualizadoEm": "2026-08-27T18:28:42Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -1854,7 +1854,7 @@
       "Fim": "18:00",
       "Disciplina": "Trabalho de Curso II (Coord. mediante agenda)",
       "Sala/Laboratório": "Mezanino",
-      "Prédio": "",
+      "Prédio": "Prédio 1",
       "Andar": "",
       "Professor": "Rosamônica",
       "Observação": "Mediante agenda",
