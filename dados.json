@@ -1,321 +1,321 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T01:37:16Z",
+  "atualizadoEm": "2026-08-27T01:58:02Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
       "Andar": "2º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Innovation Lab"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "2º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Metodologias Ativas I"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "2º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Metodologias Ativas II"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "2º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Metodologias Ativas III"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "3º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 31"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "3º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 32"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 41"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 42"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 44"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 51"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 52"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 61"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 62"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "7º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 71"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "7º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 72"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "8º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 81"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "8º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 82"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "9º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 91"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "9º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 92"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "11º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 111"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "11º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 112"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. II (antigo VI)"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. IV"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. V"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. VI"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. X"
     },
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Engenharia III - S2"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "1º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 13"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "1º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 14"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "2º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 23"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "2º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 24"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "3º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 33"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "3º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 34"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 43"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 44"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 53"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
-    },
-    {
-      "Prédio": "Prédio 2",
-      "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 54"
     },
     {
       "Prédio": "Prédio 2",
       "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 63"
+    },
+    {
+      "Prédio": "Prédio 2",
+      "Andar": "6º andar",
+      "Sala/Laboratório": "Sala 64"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 45"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 46"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 47"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "4º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 48"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 55"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 56"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 57"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "5º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 58"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 65"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 66"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "6º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 67"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "7º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 75"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "7º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 76"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "7º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 77"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "8º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 85"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "8º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 86"
     },
     {
       "Prédio": "Prédio 3",
       "Andar": "8º andar",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala 87"
     },
     {
       "Prédio": "Biblioteca",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Sala OAB"
     },
     {
       "Prédio": "Biblioteca",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Tec 7 - Biblioteca"
     },
     {
       "Prédio": "Anexo Ceará",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. XI"
     },
     {
       "Prédio": "Anexo Ceará",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. XII"
     },
     {
       "Prédio": "Anexo Ceará",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Tec 8 - Anexo Ceará"
     },
     {
       "Prédio": "Anexo Ceará",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Tec 9 - Anexo Ceará"
     },
     {
       "Prédio": "Anexo Ceará",
       "Andar": "Ambientes",
-      "Sala/Laboratório": null
+      "Sala/Laboratório": "Lab. Tec 11 - Anexo Ceará"
     }
   ],
   "records": [
