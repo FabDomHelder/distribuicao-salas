@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T18:24:24Z",
+  "atualizadoEm": "2026-08-27T18:25:39Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2140,7 +2140,7 @@
       "Dia": "",
       "Início": "",
       "Fim": "",
-      "Disciplina": "",
+      "Disciplina": "Direito Empresarial II",
       "Sala/Laboratório": "Sala 32",
       "Prédio": "Prédio 1",
       "Andar": "3º",
@@ -2156,11 +2156,11 @@
       "Dia": "",
       "Início": "",
       "Fim": "",
-      "Disciplina": "",
+      "Disciplina": "Direito Empresarial II",
       "Sala/Laboratório": "Sala 112",
       "Prédio": "Prédio 1",
       "Andar": "11º",
-      "Professor": "",
+      "Professor": "Alex Floriano Neto",
       "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
