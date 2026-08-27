@@ -17,99 +17,149 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Configurar Git
+        run: |
+          git config user.name "Power Automate"
+          git config user.email "powerautomate@domhelder.edu.br"
+
       - name: Sincronizar repositório
         run: |
           git pull --rebase origin main
 
-      - name: Validar e salvar parte recebida
+      - name: Identificar parte recebida
+        id: parte
         env:
           PAYLOAD: ${{ toJson(github.event.client_payload) }}
         run: |
-          mkdir -p .dados-partes
-
           CHUNK=$(printf '%s' "$PAYLOAD" | jq -r '.chunk')
-          TOTAL_ESPERADO=$(printf '%s' "$PAYLOAD" | jq -r '.total')
+          TOTAL=$(printf '%s' "$PAYLOAD" | jq -r '.total')
+
+          echo "chunk=$CHUNK" >> "$GITHUB_OUTPUT"
+          echo "total=$TOTAL" >> "$GITHUB_OUTPUT"
 
           echo "Parte recebida: $CHUNK"
-          echo "Total esperado: $TOTAL_ESPERADO"
+          echo "Total esperado: $TOTAL"
 
           if ! [[ "$CHUNK" =~ ^[1-5]$ ]]; then
             echo "ERRO: chunk inválido: $CHUNK"
             exit 1
           fi
 
+      - name: Salvar parte recebida
+        env:
+          PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          CHUNK: ${{ steps.parte.outputs.chunk }}
+        run: |
+          mkdir -p .dados-partes
+
           printf '%s\n' "$PAYLOAD" > ".dados-partes/parte-${CHUNK}.json"
 
-          echo "Arquivos atualmente presentes:"
+          echo "Parte $CHUNK preparada."
           ls -la .dados-partes/
 
-      - name: Salvar parte no repositório
+      - name: Publicar parte recebida
         run: |
-          git config user.name "Power Automate"
-          git config user.email "powerautomate@domhelder.edu.br"
-
           git add .dados-partes/
 
           if git diff --cached --quiet; then
-            echo "Parte já estava atualizada."
-          else
-            git commit -m "Receber parte da distribuição de salas"
-
-            SUCESSO=0
-
-            for TENTATIVA in 1 2 3 4 5; do
-              echo "Tentativa de envio $TENTATIVA de 5..."
-
-              git fetch origin main
-              git rebase origin/main
-
-              if git push origin HEAD:main; then
-                SUCESSO=1
-                echo "Parte enviada com sucesso."
-                break
-              fi
-
-              echo "Outro processo atualizou a branch. Aguardando para tentar novamente..."
-              sleep $((TENTATIVA * 3))
-            done
-
-            if [ "$SUCESSO" -ne 1 ]; then
-              echo "ERRO: não foi possível enviar a parte após 5 tentativas."
-              exit 1
-            fi
+            echo "A parte recebida já está atualizada."
+            exit 0
           fi
 
-      - name: Atualizar estado antes da montagem
+          git commit -m "Receber parte ${{ steps.parte.outputs.chunk }} da distribuição de salas"
+
+          SUCESSO=0
+
+          for TENTATIVA in 1 2 3 4 5 6 7 8; do
+            echo "Tentativa $TENTATIVA de publicar a parte..."
+
+            git fetch origin main
+
+            if git rebase origin/main; then
+              echo "Rebase realizado."
+            else
+              echo "Conflito durante rebase."
+              git rebase --abort || true
+              sleep $((TENTATIVA * 2))
+              continue
+            fi
+
+            if git push origin HEAD:main; then
+              SUCESSO=1
+              echo "Parte publicada com sucesso."
+              break
+            fi
+
+            echo "Outro processo atualizou a branch."
+            echo "Aguardando nova tentativa..."
+            sleep $((TENTATIVA * 2))
+          done
+
+          if [ "$SUCESSO" -ne 1 ]; then
+            echo "ERRO: não foi possível publicar a parte."
+            exit 1
+          fi
+
+      - name: Aguardar partes anteriores
+        if: steps.parte.outputs.chunk == '5'
+        run: |
+          echo "Parte 5 recebida."
+          echo "Aguardando as partes anteriores terminarem..."
+          sleep 15
+
+      - name: Atualizar repositório para montagem
+        if: steps.parte.outputs.chunk == '5'
         run: |
           git fetch origin main
           git reset --hard origin/main
 
-          echo "Partes disponíveis:"
+          echo "Conteúdo da pasta .dados-partes:"
           ls -la .dados-partes/ || true
 
-      - name: Verificar partes
+      - name: Verificar cinco partes
+        if: steps.parte.outputs.chunk == '5'
         id: verificar
         run: |
-          FALTANDO=0
+          COMPLETO=true
 
           for N in 1 2 3 4 5; do
-            if [ ! -f ".dados-partes/parte-${N}.json" ]; then
-              echo "Faltando parte $N"
-              FALTANDO=1
+            if [ -f ".dados-partes/parte-${N}.json" ]; then
+              echo "Parte $N encontrada."
             else
-              echo "Parte $N encontrada"
+              echo "Parte $N ainda não encontrada."
+              COMPLETO=false
             fi
           done
 
-          if [ "$FALTANDO" -eq 0 ]; then
-            echo "completo=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "completo=false" >> "$GITHUB_OUTPUT"
-          fi
+          echo "completo=$COMPLETO" >> "$GITHUB_OUTPUT"
+
+      - name: Aguardar partes faltantes
+        if: steps.parte.outputs.chunk == '5' && steps.verificar.outputs.completo != 'true'
+        run: |
+          echo "Ainda faltam partes. Aguardando mais 20 segundos..."
+          sleep 20
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          echo "Verificando novamente..."
+
+          for N in 1 2 3 4 5; do
+            if [ ! -f ".dados-partes/parte-${N}.json" ]; then
+              echo "ERRO: parte $N não chegou."
+              exit 1
+            else
+              echo "Parte $N encontrada."
+            fi
+          done
+
+          echo "Todas as cinco partes foram encontradas."
 
       - name: Montar dados.json
-        if: steps.verificar.outputs.completo == 'true'
+        if: steps.parte.outputs.chunk == '5'
         run: |
+          echo "Montando dados.json..."
+
           jq -s '
           {
             semestre: .[0].semestre,
@@ -126,41 +176,57 @@ jobs:
           > dados-novos.json
 
           jq empty dados-novos.json
+
           mv dados-novos.json dados.json
 
           echo "dados.json criado com sucesso."
-          echo "Quantidade de registros:"
+          echo "Quantidade total de registros:"
           jq '.records | length' dados.json
 
       - name: Publicar atualização final
-        if: steps.verificar.outputs.completo == 'true'
+        if: steps.parte.outputs.chunk == '5'
         run: |
           rm -rf .dados-partes
 
           git add dados.json
           git add -A .dados-partes
 
-          git commit -m "Atualização automática da distribuição de salas" || true
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração final encontrada."
+            exit 0
+          fi
+
+          git commit -m "Atualização automática da distribuição de salas"
 
           SUCESSO=0
 
           for TENTATIVA in 1 2 3 4 5; do
-            echo "Tentativa de publicação final $TENTATIVA de 5..."
+            echo "Tentativa $TENTATIVA de publicar dados.json..."
 
             git fetch origin main
-            git rebase origin/main
+
+            if git rebase origin/main; then
+              echo "Repositório sincronizado."
+            else
+              echo "ERRO durante o rebase da publicação final."
+              git rebase --abort || true
+              exit 1
+            fi
 
             if git push origin HEAD:main; then
               SUCESSO=1
-              echo "Atualização final publicada com sucesso."
+              echo "======================================"
+              echo "ATUALIZAÇÃO CONCLUÍDA COM SUCESSO!"
+              echo "dados.json publicado."
+              echo "======================================"
               break
             fi
 
-            echo "Outro processo atualizou a branch. Aguardando nova tentativa..."
+            echo "Aguardando nova tentativa..."
             sleep $((TENTATIVA * 3))
           done
 
           if [ "$SUCESSO" -ne 1 ]; then
-            echo "ERRO: não foi possível publicar a atualização final."
+            echo "ERRO: não foi possível publicar dados.json."
             exit 1
           fi
