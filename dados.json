@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T01:20:03Z",
+  "atualizadoEm": "2026-08-27T01:26:41Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2433,7 +2433,7 @@
     },
     {
       "Curso": "Direito",
-      "Turno": "Manhã",
+      "Turno": "Noite",
       "Período": "4º",
       "Turma": "D4MD",
       "Dia": "",
