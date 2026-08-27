@@ -1,7 +1,12 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T18:07:51Z",
+  "atualizadoEm": "2026-08-27T18:08:59Z",
   "salas": [
+    {
+      "Prédio": "Prédio 1",
+      "Andar": "Hall",
+      "Sala/Laboratório": "Mezanino"
+    },
     {
       "Prédio": "Prédio 1",
       "Andar": "2º andar",
