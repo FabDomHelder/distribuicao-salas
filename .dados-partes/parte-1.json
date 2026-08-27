@@ -829,6 +829,11 @@
       "Sala": "Lab. Metodologias Ativas III"
     },
     {
+      "Andar": "",
+      "Prédio": "",
+      "Sala": ""
+    },
+    {
       "Andar": "3º andar",
       "Prédio": "Prédio 1",
       "Sala": "Sala 31"
