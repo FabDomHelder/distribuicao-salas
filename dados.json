@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T18:15:39Z",
+  "atualizadoEm": "2026-08-27T18:17:17Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -26,11 +26,6 @@
       "Prédio": "Prédio 1",
       "Andar": "2º andar",
       "Sala/Laboratório": "Lab. Metodologias Ativas III"
-    },
-    {
-      "Prédio": "",
-      "Andar": "",
-      "Sala/Laboratório": ""
     },
     {
       "Prédio": "Prédio 1",
