@@ -205,22 +205,18 @@ jobs:
       - name: Publicar atualização final
         if: steps.parte.outputs.chunk == '5'
         run: |
-          rm -rf .dados-partes
+          cp dados.json /tmp/dados-final.json
 
           for TENTATIVA in 1 2 3 4 5; do
             echo "Tentativa de publicação final $TENTATIVA de 5..."
 
             git fetch origin main
-
-            cp dados.json /tmp/dados-final.json
-
             git reset --hard origin/main
 
             cp /tmp/dados-final.json dados.json
             rm -rf .dados-partes
 
-            git add dados.json
-            git add -A .dados-partes
+            git add -A
 
             if git diff --cached --quiet; then
               echo "Nenhuma alteração final necessária."
