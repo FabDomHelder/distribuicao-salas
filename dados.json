@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T02:32:27Z",
+  "atualizadoEm": "2026-08-27T02:32:26Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2465,7 +2465,7 @@
     },
     {
       "Curso": "Direito",
-      "Turno": "Manhã",
+      "Turno": "Noite",
       "Período": "8º",
       "Turma": "8DI",
       "Dia": "",
@@ -2481,7 +2481,7 @@
     },
     {
       "Curso": "Direito",
-      "Turno": "Manhã",
+      "Turno": "Noite",
       "Período": "8º",
       "Turma": "D8MA",
       "Dia": "",
@@ -2497,7 +2497,7 @@
     },
     {
       "Curso": "Direito",
-      "Turno": "Manhã",
+      "Turno": "Noite",
       "Período": "10º",
       "Turma": "10DI",
       "Dia": "",
@@ -2513,7 +2513,7 @@
     },
     {
       "Curso": "Direito",
-      "Turno": "Manhã",
+      "Turno": "Noite",
       "Período": "10º",
       "Turma": "D10MA",
       "Dia": "",
