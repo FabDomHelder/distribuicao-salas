@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T00:01:21Z",
+  "atualizadoEm": "2026-08-27T00:04:47Z",
   "salas": [
     {
       "Andar": "2º andar",
@@ -2493,7 +2493,7 @@
       "Prédio": "Prédio 2",
       "Sala/Laboratório": null,
       "Turma": "D8MA",
-      "Turno": "Manhã"
+      "Turno": "Noite"
     },
     {
       "Andar": "3º",
