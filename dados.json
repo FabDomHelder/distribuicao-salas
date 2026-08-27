@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T18:25:39Z",
+  "atualizadoEm": "2026-08-27T18:27:12Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -1822,7 +1822,7 @@
       "Fim": "18:00",
       "Disciplina": "Trabalho de Curso II (Coord. mediante agenda)",
       "Sala/Laboratório": "Mezanino",
-      "Prédio": "",
+      "Prédio": "Prédio 1",
       "Andar": "",
       "Professor": "Rosamônica",
       "Observação": "Mediante agenda",
@@ -1838,7 +1838,7 @@
       "Fim": "18:00",
       "Disciplina": "Trabalho de Curso II (Coord. mediante agenda)",
       "Sala/Laboratório": "Mezanino",
-      "Prédio": "",
+      "Prédio": "Prédio 1",
       "Andar": "",
       "Professor": "Rosamônica",
       "Observação": "Mediante agenda",
@@ -2172,11 +2172,11 @@
       "Dia": "",
       "Início": "",
       "Fim": "",
-      "Disciplina": "",
+      "Disciplina": "Alex Floriano Neto",
       "Sala/Laboratório": "Sala 92",
       "Prédio": "Prédio 1",
       "Andar": "9º",
-      "Professor": "",
+      "Professor": "Alex Floriano Neto",
       "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
