@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-27T18:28:42Z",
+  "atualizadoEm": "2026-08-27T18:34:03Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2508,11 +2508,11 @@
       "Dia": "",
       "Início": "",
       "Fim": "",
-      "Disciplina": "",
+      "Disciplina": "Tópicos em Controle de Constitucionalidade",
       "Sala/Laboratório": "Sala 34",
       "Prédio": "Prédio 2",
       "Andar": "3º",
-      "Professor": "",
+      "Professor": "Ana Virginia Gabrich Fonseca Freire Ramos",
       "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
