@@ -2,6 +2,22 @@
   "chunk": 5,
   "records": [
     {
+      "Andar": "7º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Segunda",
+      "Disciplina": "de Transportes e Logistica - (junto com 6° e 7°) Sala",
+      "Fim": "22:00",
+      "Fonte": "Capturas Engenharia Civil",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "6º",
+      "Professor": "Elias Carlos Correa Temponi",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 77 - P3",
+      "Turma": "ENG6N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "2º",
       "Curso": "Engenharia Civil",
       "Dia": "Terça",
