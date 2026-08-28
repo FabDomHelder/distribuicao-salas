@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:28:53Z",
+  "atualizadoEm": "2026-08-28T22:29:19Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2012,11 +2012,11 @@
       "Dia": "Segunda",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Português",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Carolina Ferreira Reis",
       "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
@@ -2109,9 +2109,9 @@
       "Início": "08:00",
       "Fim": "09:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
@@ -2125,9 +2125,9 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
