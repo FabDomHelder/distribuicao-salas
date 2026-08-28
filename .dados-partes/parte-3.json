@@ -2,6 +2,22 @@
   "chunk": 3,
   "records": [
     {
+      "Andar": "6º",
+      "Curso": "Direito",
+      "Dia": "",
+      "Disciplina": "Direito Constitucional III",
+      "Fim": "",
+      "Fonte": "PDF Distribuição Geral",
+      "Início": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Período": "4º",
+      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 61",
+      "Turma": "D4NA",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "9º",
       "Curso": "Direito",
       "Dia": "",
@@ -878,22 +894,6 @@
       "Professor": "Edyene Cely Amaro Oliveira",
       "Prédio": "Prédio 3",
       "Sala": "Sala 76 - P3",
-      "Turma": "CC2M",
-      "Turno": "Manhã"
-    },
-    {
-      "Andar": "2º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "Paradigms de Programaclo - Turms A",
-      "Fim": "09:40",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "08:00",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "2º",
-      "Professor": "Flávia Cordeiro Martins",
-      "Prédio": "Prédio 1",
-      "Sala": "Lab. Metodologias Ativas I",
       "Turma": "CC2M",
       "Turno": "Manhã"
     },
