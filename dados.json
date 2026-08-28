@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:29:56Z",
+  "atualizadoEm": "2026-08-28T22:29:53Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2028,7 +2028,7 @@
       "Dia": "Segunda",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "Introdução ao Pensamento Filosófico",
+      "Disciplina": "",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
