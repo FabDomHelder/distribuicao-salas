@@ -2,6 +2,22 @@
   "chunk": 5,
   "records": [
     {
+      "Andar": "7º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Quarta",
+      "Disciplina": "Aplicada sala72-P1",
+      "Fim": "22:00",
+      "Fonte": "Capturas Engenharia Civil",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "2º",
+      "Professor": "Lino Rodrigues de Freitas",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 72 - P1",
+      "Turma": "ENG2N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "3º",
       "Curso": "Engenharia Civil",
       "Dia": "Quinta",
