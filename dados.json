@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:40:19Z",
+  "atualizadoEm": "2026-08-28T23:40:40Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3212,11 +3212,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Processual Civil I",
       "Sala/Laboratório": "Sala 91",
       "Prédio": "Prédio 1",
       "Andar": "9º",
-      "Professor": "",
+      "Professor": "Fernando Lage Tolentino",
       "Observação": "",
       "Fonte": ""
     },
@@ -3228,11 +3228,11 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Civil III",
       "Sala/Laboratório": "Sala 91",
       "Prédio": "Prédio 1",
       "Andar": "9º",
-      "Professor": "",
+      "Professor": "Michael Cesar da Silva",
       "Observação": "",
       "Fonte": ""
     },
