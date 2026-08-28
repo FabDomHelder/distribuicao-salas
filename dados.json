@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:14:52Z",
+  "atualizadoEm": "2026-08-28T22:14:49Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -4301,22 +4301,6 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "e Estruturas de Dados Ill Lab.",
-      "Sala/Laboratório": "Lab. Metodologias Ativas III",
-      "Prédio": "Prédio 1",
-      "Andar": "2º",
-      "Professor": "Edyene Cely Amaro Oliveira",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Fonte": "Capturas Ciência da Computação"
-    },
-    {
-      "Curso": "Ciência da Computação",
-      "Turno": "Noite",
-      "Período": "4º",
-      "Turma": "CC4N",
-      "Dia": "Sexta",
-      "Início": "20:20",
-      "Fim": "22:00",
-      "Disciplina": "e Estruturas de Dados Il! Lab.",
       "Sala/Laboratório": "Lab. Metodologias Ativas III",
       "Prédio": "Prédio 1",
       "Andar": "2º",
