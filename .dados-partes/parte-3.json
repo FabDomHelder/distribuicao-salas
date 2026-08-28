@@ -834,6 +834,22 @@
       "Turno": ""
     },
     {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
+    },
+    {
       "Andar": "8º",
       "Curso": "Direito",
       "Dia": "",
@@ -879,22 +895,6 @@
       "Prédio": "Prédio 1",
       "Sala": "Sala 112",
       "Turma": "D6MB",
-      "Turno": "Manhã"
-    },
-    {
-      "Andar": "9º",
-      "Curso": "Direito",
-      "Dia": "",
-      "Disciplina": "Direito Empresarial II",
-      "Fim": "",
-      "Fonte": "PDF Distribuição Geral",
-      "Início": "",
-      "Observação": "",
-      "Período": "6º",
-      "Professor": "Alex Floriano Neto",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 92",
-      "Turma": "D6MC",
       "Turno": "Manhã"
     },
     {
