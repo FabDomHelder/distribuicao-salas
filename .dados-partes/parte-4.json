@@ -2,6 +2,22 @@
   "chunk": 4,
   "records": [
     {
+      "Andar": "2º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Sexta",
+      "Disciplina": "e Estruturas de Dados Il! Lab.",
+      "Fim": "22:00",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "4º",
+      "Professor": "Edyene Cely Amaro Oliveira",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas III",
+      "Turma": "CC4N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "",
       "Curso": "Ciência da Computação",
       "Dia": "EAD",
@@ -1582,22 +1598,6 @@
       "Professor": "Pedro Gasparini Barbosa Heller",
       "Prédio": "Prédio 2",
       "Sala": "Sala 24 - P2",
-      "Turma": "ENG5N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "7º",
-      "Curso": "Engenharia Civil",
-      "Dia": "Terça",
-      "Disciplina": "Gestio Ambiental - to com 12,3°,2° 858) Sala",
-      "Fim": "20:00",
-      "Fonte": "Capturas Engenharia Civil",
-      "Início": "18:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "5º",
-      "Professor": "Izabel Cristina de Matos Andrade",
-      "Prédio": "Prédio 3",
-      "Sala": "Sala 76 - P3",
       "Turma": "ENG5N",
       "Turno": "Noite"
     }
