@@ -2,6 +2,22 @@
   "chunk": 3,
   "records": [
     {
+      "Andar": "5º",
+      "Curso": "Psicologia",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "Atualização fornecida em 20/08/2026",
+      "Início": "",
+      "Observação": "Alocação-base atualizada pelas imagens fornecidas.",
+      "Período": "2º",
+      "Professor": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 51",
+      "Turma": "PSIC2N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "1º",
       "Curso": "Fonoaudiologia",
       "Dia": "",
@@ -1582,22 +1598,6 @@
       "Professor": "Presleyson Plínio de Lima",
       "Prédio": "Prédio 1",
       "Sala": "Sala 41 - P1",
-      "Turma": "CC5N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "2º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "Andie de Algorimos",
-      "Fim": "22:00",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "20:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "5º",
-      "Professor": "Marcos Wander Rodrigues",
-      "Prédio": "Prédio 1",
-      "Sala": "Lab. Metodologias Ativas II",
       "Turma": "CC5N",
       "Turno": "Noite"
     }
