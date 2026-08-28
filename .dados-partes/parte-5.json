@@ -1796,6 +1796,22 @@
     {
       "Andar": "2º",
       "Curso": "Engenharia Civil",
+      "Dia": "Quinta",
+      "Disciplina": "dos Slo II-Gunto com 6° 7)",
+      "Fim": "22:00",
+      "Fonte": "Capturas Engenharia Civil",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "7º",
+      "Professor": "Manoela Cristina do Amaral Neves",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 24 - P2",
+      "Turma": "ENG7N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Engenharia Civil",
       "Dia": "Sexta",
       "Disciplina": "das Constugdes (6,72, 8° 10\")",
       "Fim": "20:00",
