@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:28:36Z",
+  "atualizadoEm": "2026-08-28T22:28:56Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2045,9 +2045,9 @@
       "Início": "08:00",
       "Fim": "09:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
@@ -2061,9 +2061,9 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
@@ -2077,9 +2077,9 @@
       "Início": "08:00",
       "Fim": "09:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
@@ -2093,9 +2093,9 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
