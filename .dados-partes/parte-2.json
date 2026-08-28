@@ -914,6 +914,22 @@
       "Turno": "Manhã"
     },
     {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
+    },
+    {
       "Andar": "5º",
       "Curso": "Direito",
       "Dia": "Quarta",
@@ -1584,22 +1600,6 @@
       "Sala": "Sala 51",
       "Turma": "PSIC2M",
       "Turno": "Manhã"
-    },
-    {
-      "Andar": "9º",
-      "Curso": "Psicologia",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "Atualização fornecida em 20/08/2026",
-      "Início": "",
-      "Observação": "Alocação-base atualizada pelas imagens fornecidas.",
-      "Período": "1º",
-      "Professor": "",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 91",
-      "Turma": "PSIC1N",
-      "Turno": "Noite"
     }
   ],
   "total": 5
