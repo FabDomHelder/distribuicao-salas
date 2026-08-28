@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:11:57Z",
+  "atualizadoEm": "2026-08-28T23:12:54Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2661,52 +2661,68 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2ME",
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
       "Dia": "",
       "Início": "",
       "Fim": "",
       "Disciplina": "",
-      "Sala/Laboratório": "Sala 71",
-      "Prédio": "Prédio 1",
-      "Andar": "7º",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
       "Professor": "",
       "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
+      "Fonte": ""
     },
     {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "3º",
-      "Turma": "D3M",
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
       "Dia": "",
       "Início": "",
       "Fim": "",
       "Disciplina": "",
-      "Sala/Laboratório": "Sala 72",
-      "Prédio": "Prédio 1",
-      "Andar": "7º",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
       "Professor": "",
       "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
+      "Fonte": ""
     },
     {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "4º",
-      "Turma": "D4MA",
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
       "Dia": "",
       "Início": "",
       "Fim": "",
       "Disciplina": "",
-      "Sala/Laboratório": "Sala 91",
-      "Prédio": "Prédio 1",
-      "Andar": "9º",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
       "Professor": "",
       "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
     },
     {
       "Curso": "Direito",
@@ -2801,7 +2817,7 @@
       "Prédio": "Prédio 1",
       "Andar": "3º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2817,7 +2833,7 @@
       "Prédio": "Prédio 1",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2833,7 +2849,7 @@
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2865,7 +2881,7 @@
       "Prédio": "Prédio 1",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2881,7 +2897,7 @@
       "Prédio": "Prédio 1",
       "Andar": "6º",
       "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2897,7 +2913,7 @@
       "Prédio": "Prédio 1",
       "Andar": "9º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2913,7 +2929,7 @@
       "Prédio": "Prédio 1",
       "Andar": "11º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2929,7 +2945,7 @@
       "Prédio": "Prédio 1",
       "Andar": "8º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2945,7 +2961,7 @@
       "Prédio": "Prédio 1",
       "Andar": "11º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2961,7 +2977,7 @@
       "Prédio": "Prédio 2",
       "Andar": "3º",
       "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2977,7 +2993,7 @@
       "Prédio": "Prédio 2",
       "Andar": "6º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2993,7 +3009,7 @@
       "Prédio": "Prédio 2",
       "Andar": "2º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3009,7 +3025,7 @@
       "Prédio": "Prédio 2",
       "Andar": "5º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3025,7 +3041,7 @@
       "Prédio": "Prédio 2",
       "Andar": "6º",
       "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3041,7 +3057,7 @@
       "Prédio": "Prédio 2",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3057,7 +3073,7 @@
       "Prédio": "Prédio 2",
       "Andar": "2º",
       "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3073,7 +3089,7 @@
       "Prédio": "Prédio 2",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3565,6 +3581,38 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "Algoritmos e Estruturas de Dados",
+      "Sala/Laboratório": "Lab. Metodologias Ativas I",
+      "Prédio": "Prédio 1",
+      "Andar": "2º",
+      "Professor": "Ricardo Luiz de Freitas",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Ciência da Computação"
+    },
+    {
+      "Curso": "Ciência da Computação",
+      "Turno": "Noite",
+      "Período": "1º",
+      "Turma": "CC1N",
+      "Dia": "Terça",
+      "Início": "20:20",
+      "Fim": "22:00",
+      "Disciplina": "OPTATIVA - Engenharia de Prompt",
+      "Sala/Laboratório": "Lab. Metodologias Ativas I",
+      "Prédio": "Prédio 1",
+      "Andar": "2º",
+      "Professor": "Mateus de Queiroz Bernardes",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Ciência da Computação"
+    },
+    {
+      "Curso": "Ciência da Computação",
+      "Turno": "Noite",
+      "Período": "1º",
+      "Turma": "CC1N",
+      "Dia": "Quarta",
+      "Início": "18:20",
+      "Fim": "20:00",
+      "Disciplina": "AlgorioseEstruturas de Dads",
       "Sala/Laboratório": "Lab. Metodologias Ativas I",
       "Prédio": "Prédio 1",
       "Andar": "2º",
@@ -5793,6 +5841,86 @@
       "Prédio": "Prédio 1",
       "Andar": "3º",
       "Professor": "",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "1º",
+      "Turma": "ENG1N",
+      "Dia": "Sexta",
+      "Início": "18:20",
+      "Fim": "20:00",
+      "Disciplina": "eProvabdade -Gunto com Cléncia da Computacio)",
+      "Sala/Laboratório": "Sala 32 - P1",
+      "Prédio": "Prédio 1",
+      "Andar": "3º",
+      "Professor": "Mateus de Queiroz Bernardes",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "1º",
+      "Turma": "ENG1N",
+      "Dia": "Sexta",
+      "Início": "20:20",
+      "Fim": "22:00",
+      "Disciplina": "Gunto com Ciéncia da Computagio)",
+      "Sala/Laboratório": "Sala 32 - P1",
+      "Prédio": "Prédio 1",
+      "Andar": "3º",
+      "Professor": "",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "2º",
+      "Turma": "ENG2N",
+      "Dia": "Segunda",
+      "Início": "18:20",
+      "Fim": "20:00",
+      "Disciplina": "I!",
+      "Sala/Laboratório": "Sala 72 - P1",
+      "Prédio": "Prédio 1",
+      "Andar": "7º",
+      "Professor": "Lino Rodrigues de Freitas",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "2º",
+      "Turma": "ENG2N",
+      "Dia": "Segunda",
+      "Início": "20:20",
+      "Fim": "22:00",
+      "Disciplina": "Empresarial -Gunto com 1° 2%)",
+      "Sala/Laboratório": "Sala 24 - P2",
+      "Prédio": "Prédio 2",
+      "Andar": "2º",
+      "Professor": "eS",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "2º",
+      "Turma": "ENG2N",
+      "Dia": "Terça",
+      "Início": "18:20",
+      "Fim": "20:00",
+      "Disciplina": "eFnancas na Engenharia",
+      "Sala/Laboratório": "Sala 72 - P1",
+      "Prédio": "Prédio 1",
+      "Andar": "7º",
+      "Professor": "nertrnrtecenent tard",
       "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
       "Fonte": "Capturas Engenharia Civil"
     },
