@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T21:50:36Z",
+  "atualizadoEm": "2026-08-28T22:00:47Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2025,8 +2025,8 @@
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "D2MA",
-      "Dia": "",
-      "Início": "",
+      "Dia": "Terça",
+      "Início": "0.333333333333333",
       "Fim": "",
       "Disciplina": "Direito Constitucional I",
       "Sala/Laboratório": "Sala 44",
