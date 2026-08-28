@@ -914,20 +914,20 @@
       "Turno": "Manhã"
     },
     {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
+      "Andar": "5º",
+      "Curso": "Direito",
+      "Dia": "Quinta",
+      "Disciplina": "Direito Constitucional I",
+      "Fim": "0.402777777777778",
       "Fonte": "",
-      "Início": "",
+      "Início": "0.333333333333333",
       "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
+      "Período": "2º",
+      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 44",
+      "Turma": "D2MA",
+      "Turno": "Manhã"
     },
     {
       "Andar": "5º",
