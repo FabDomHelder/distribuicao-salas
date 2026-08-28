@@ -2,6 +2,22 @@
   "chunk": 5,
   "records": [
     {
+      "Andar": "",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "de Computndoes- unto com 07 e8%)-Turma®",
+      "Fim": "20:00",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "18:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "6º",
+      "Professor": "leer ere ieee",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 11 - Anexo Ceará",
+      "Turma": "CC6N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "2º",
       "Curso": "Ciência da Computação",
       "Dia": "Terça",
@@ -1774,22 +1790,6 @@
       "Professor": "Luciana Nunes de Magalhães",
       "Prédio": "Prédio 3",
       "Sala": "Sala 87 - P3",
-      "Turma": "ENG8N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "7º",
-      "Curso": "Engenharia Civil",
-      "Dia": "Terça",
-      "Disciplina": "InstalagSes Hidro-Sanitériae",
-      "Fim": "20:00",
-      "Fonte": "Capturas Engenharia Civil",
-      "Início": "18:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "8º",
-      "Professor": "Pedro Gasparini Barbosa Heller",
-      "Prédio": "Prédio 3",
-      "Sala": "Sala 77 - P3",
       "Turma": "ENG8N",
       "Turno": "Noite"
     },
