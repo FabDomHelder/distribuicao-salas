@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:45:14Z",
+  "atualizadoEm": "2026-08-28T23:45:46Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3324,11 +3324,11 @@
       "Dia": "Terça",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Penal III",
       "Sala/Laboratório": "Sala 53",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Licia Jocilene das Neves",
       "Observação": "",
       "Fonte": ""
     },
@@ -3340,11 +3340,11 @@
       "Dia": "Terça",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Civil III",
       "Sala/Laboratório": "Sala 53",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Pedro Alexandre Moreira",
       "Observação": "",
       "Fonte": ""
     },
