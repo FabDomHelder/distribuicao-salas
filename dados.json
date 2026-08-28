@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:54:09Z",
+  "atualizadoEm": "2026-08-28T22:56:23Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2334,8 +2334,8 @@
       "Fim": "09:40",
       "Disciplina": "Direito Penal I",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Bruno Tasca Cabral",
       "Observação": "",
       "Fonte": ""
@@ -2350,8 +2350,8 @@
       "Fim": "11:40",
       "Disciplina": "Direito Civil I",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Pedro Alexandre Moreira",
       "Observação": "",
       "Fonte": ""
@@ -2366,8 +2366,8 @@
       "Fim": "09:40",
       "Disciplina": "Direito Constitucional I",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Luis Andre de Araújo Vasconcelos",
       "Observação": "",
       "Fonte": ""
@@ -2382,8 +2382,8 @@
       "Fim": "11:40",
       "Disciplina": "Sociologia Jurídica",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Eduardo Morato Fonseca",
       "Observação": "",
       "Fonte": ""
@@ -2398,8 +2398,8 @@
       "Fim": "09:40",
       "Disciplina": "Direito Penal I",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Bruno Tasca Cabral",
       "Observação": "",
       "Fonte": ""
@@ -2414,8 +2414,8 @@
       "Fim": "11:40",
       "Disciplina": "Teoria Geral do Direito",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Bruno Torquato de Oliveira Naves",
       "Observação": "",
       "Fonte": ""
@@ -2430,8 +2430,8 @@
       "Fim": "09:40",
       "Disciplina": "Direito Civil I",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Pedro Alexandre Moreira",
       "Observação": "",
       "Fonte": ""
@@ -2446,8 +2446,8 @@
       "Fim": "11:40",
       "Disciplina": "Direito Constitucional I",
       "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
       "Professor": "Luis Andre de Araújo Vasconcelos",
       "Observação": "",
       "Fonte": ""
@@ -2464,7 +2464,7 @@
       "Sala/Laboratório": "EAD",
       "Prédio": "Prédio 1",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Marcelo Antônio Rocha",
       "Observação": "",
       "Fonte": ""
     },
@@ -2480,7 +2480,7 @@
       "Sala/Laboratório": "EAD",
       "Prédio": "Prédio 1",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Leonardo Mendes",
       "Observação": "",
       "Fonte": ""
     },
