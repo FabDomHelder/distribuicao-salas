@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:51:49Z",
+  "atualizadoEm": "2026-08-28T22:52:23Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2400,7 +2400,7 @@
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Bruno Tasca Cabral",
       "Observação": "",
       "Fonte": ""
     },
@@ -2412,11 +2412,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Teoria Geral do Direito",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Bruno Torquato de Oliveira Naves",
       "Observação": "",
       "Fonte": ""
     },
