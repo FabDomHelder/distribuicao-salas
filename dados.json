@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:29:53Z",
+  "atualizadoEm": "2026-08-28T22:30:23Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2028,11 +2028,11 @@
       "Dia": "Segunda",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Introdução ao Pensamento Filosófico",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Marcelo Antônio Rocha",
       "Observação": "",
       "Fonte": ""
     },
