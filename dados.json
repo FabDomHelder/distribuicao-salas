@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:55:19Z",
+  "atualizadoEm": "2026-08-28T23:55:39Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3628,7 +3628,7 @@
       "Dia": "Segunda",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Penal III",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 2",
       "Andar": "4º",
@@ -3644,11 +3644,11 @@
       "Dia": "Terça",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Civil III",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 2",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Renato Campos Andrade",
       "Observação": "",
       "Fonte": ""
     },
