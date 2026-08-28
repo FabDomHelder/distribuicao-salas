@@ -2,6 +2,22 @@
   "chunk": 3,
   "records": [
     {
+      "Andar": "9º",
+      "Curso": "Psicologia",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "Atualização fornecida em 20/08/2026",
+      "Início": "",
+      "Observação": "Alocação-base atualizada pelas imagens fornecidas.",
+      "Período": "1º",
+      "Professor": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 91",
+      "Turma": "PSIC1N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "5º",
       "Curso": "Psicologia",
       "Dia": "",
@@ -1582,22 +1598,6 @@
       "Professor": "Ricardo Martins Ramos",
       "Prédio": "Anexo Ceará",
       "Sala": "Lab. Tec 8 - Anexo Ceará",
-      "Turma": "CC5N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "4º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "de Software",
-      "Fim": "20:00",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "18:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "5º",
-      "Professor": "Presleyson Plínio de Lima",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 41 - P1",
       "Turma": "CC5N",
       "Turno": "Noite"
     }
