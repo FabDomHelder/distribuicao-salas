@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:53:45Z",
+  "atualizadoEm": "2026-08-28T23:53:44Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5929,22 +5929,6 @@
       "Turno": "Noite",
       "Período": "5º",
       "Turma": "CC5N",
-      "Dia": "Terça",
-      "Início": "20:20",
-      "Fim": "22:00",
-      "Disciplina": "e Orgaizagdo de Computadores!",
-      "Sala/Laboratório": "Lab. Tec 8 - Anexo Ceará",
-      "Prédio": "Anexo Ceará",
-      "Andar": "",
-      "Professor": "Ricardo Martins Ramos",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Fonte": "Capturas Ciência da Computação"
-    },
-    {
-      "Curso": "Ciência da Computação",
-      "Turno": "Noite",
-      "Período": "5º",
-      "Turma": "CC5N",
       "Dia": "Quarta",
       "Início": "18:20",
       "Fim": "20:00",
@@ -7709,6 +7693,22 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "Engenharia de Transportes e Logistica - (junto com 6° e 7°)",
+      "Sala/Laboratório": "Sala 77 - P3",
+      "Prédio": "Prédio 3",
+      "Andar": "7º",
+      "Professor": "Elias Carlos Correa Temponi",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "7º",
+      "Turma": "ENG7N",
+      "Dia": "Segunda",
+      "Início": "20:20",
+      "Fim": "22:00",
+      "Disciplina": "Engenharia de Transportes  Logistica - (junto com 6° e 7°)",
       "Sala/Laboratório": "Sala 77 - P3",
       "Prédio": "Prédio 3",
       "Andar": "7º",
