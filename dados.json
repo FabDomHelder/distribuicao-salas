@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:36:04Z",
+  "atualizadoEm": "2026-08-28T22:37:19Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2140,11 +2140,11 @@
       "Dia": "Sexta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Introdução à Ciência Jurídica",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Willio Campos Anselmo",
       "Observação": "",
       "Fonte": ""
     },
@@ -2156,11 +2156,11 @@
       "Dia": "Sexta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Português",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Maria Carolina Ferreira Reis",
       "Observação": "",
       "Fonte": ""
     },
