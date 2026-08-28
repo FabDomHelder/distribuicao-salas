@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:46:11Z",
+  "atualizadoEm": "2026-08-28T22:47:38Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2453,6 +2453,22 @@
       "Fonte": ""
     },
     {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
       "Curso": "Direito",
       "Turno": "Manhã",
       "Período": "2º",
@@ -2689,6 +2705,22 @@
       "Prédio": "Prédio 1",
       "Andar": "4º",
       "Professor": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Fonte": "PDF Distribuição Geral"
+    },
+    {
+      "Curso": "Direito",
+      "Turno": "Noite",
+      "Período": "4º",
+      "Turma": "D4NA",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "Direito Constitucional III",
+      "Sala/Laboratório": "Sala 61",
+      "Prédio": "Prédio 1",
+      "Andar": "6º",
+      "Professor": "Aghisan Xavier Ferreira Pinto",
       "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
