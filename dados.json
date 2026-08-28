@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:52:04Z",
+  "atualizadoEm": "2026-08-28T23:52:01Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3552,7 +3552,7 @@
       "Sala/Laboratório": "Sala 64",
       "Prédio": "Prédio 2",
       "Andar": "6º",
-      "Professor": "Adriana Freitas Antunes",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
