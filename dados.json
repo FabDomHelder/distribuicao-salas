@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:18:34Z",
+  "atualizadoEm": "2026-08-28T23:18:59Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2752,7 +2752,7 @@
       "Sala/Laboratório": "Sala 62",
       "Prédio": "Prédio 1",
       "Andar": "6º",
-      "Professor": "",
+      "Professor": "Bruno Tasca Cabral",
       "Observação": "",
       "Fonte": ""
     },
