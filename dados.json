@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:11:14Z",
+  "atualizadoEm": "2026-08-28T22:11:46Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2076,11 +2076,11 @@
       "Dia": "Terça",
       "Início": "0.416666666666667",
       "Fim": "0.486111111111111",
-      "Disciplina": "Direito Civil 1",
+      "Disciplina": "Teoria Geral do Direito",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "Gesun Fernando Prestes",
+      "Professor": "Willio Campos Anselmo",
       "Observação": "",
       "Fonte": ""
     },
