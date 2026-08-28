@@ -2,22 +2,6 @@
   "chunk": 3,
   "records": [
     {
-      "Andar": "8º",
-      "Curso": "Direito",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "PDF Distribuição Geral",
-      "Início": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
-      "Período": "5º",
-      "Professor": "",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 81",
-      "Turma": "D5M",
-      "Turno": "Manhã"
-    },
-    {
       "Andar": "3º",
       "Curso": "Direito",
       "Dia": "",
@@ -1598,6 +1582,22 @@
       "Professor": "Presleyson Plínio de Lima",
       "Prédio": "Prédio 1",
       "Sala": "Sala 32 - P1",
+      "Turma": "CC3N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "e Estruturss de Dados Lab. Metodologias",
+      "Fim": "22:00",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "3º",
+      "Professor": "Eduardo Campos dos Santos",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas I",
       "Turma": "CC3N",
       "Turno": "Noite"
     }
