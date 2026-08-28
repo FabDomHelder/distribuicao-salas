@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:32:06Z",
+  "atualizadoEm": "2026-08-28T22:33:21Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2092,11 +2092,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Teoria Geral do Estado e Ciência Política",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Caio Marcio Brandão Albuquerque",
       "Observação": "",
       "Fonte": ""
     },
@@ -2108,11 +2108,11 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Metologia da Pesquisa",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Camila Martins de Oliveira",
       "Observação": "",
       "Fonte": ""
     },
