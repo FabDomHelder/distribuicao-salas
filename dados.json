@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:17:10Z",
+  "atualizadoEm": "2026-08-28T22:17:33Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2140,7 +2140,7 @@
       "Dia": "Quinta",
       "Início": "0.416666666666667",
       "Fim": "0.486111111111111",
-      "Disciplina": "Direito Constitucional I",
+      "Disciplina": "Sociologia Jurídica",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 1",
       "Andar": "5º",
@@ -2160,7 +2160,7 @@
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
@@ -2176,7 +2176,7 @@
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
