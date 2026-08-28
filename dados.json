@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:56:54Z",
+  "atualizadoEm": "2026-08-28T22:57:05Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2397,7 +2397,7 @@
       "Início": "08:00",
       "Fim": "09:40",
       "Disciplina": "Direito Penal I",
-      "Sala/Laboratório": "",
+      "Sala/Laboratório": "Sala 63",
       "Prédio": "Prédio 1",
       "Andar": "6º",
       "Professor": "Bruno Tasca Cabral",
@@ -2413,7 +2413,7 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "Teoria Geral do Direito",
-      "Sala/Laboratório": "",
+      "Sala/Laboratório": "Sala 63",
       "Prédio": "Prédio 1",
       "Andar": "6º",
       "Professor": "Bruno Torquato de Oliveira Naves",
@@ -2429,7 +2429,7 @@
       "Início": "08:00",
       "Fim": "09:40",
       "Disciplina": "Direito Civil I",
-      "Sala/Laboratório": "",
+      "Sala/Laboratório": "Sala 63",
       "Prédio": "Prédio 1",
       "Andar": "6º",
       "Professor": "Pedro Alexandre Moreira",
@@ -2445,7 +2445,7 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "Direito Constitucional I",
-      "Sala/Laboratório": "",
+      "Sala/Laboratório": "Sala 63",
       "Prédio": "Prédio 1",
       "Andar": "6º",
       "Professor": "Luis Andre de Araújo Vasconcelos",
