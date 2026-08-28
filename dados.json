@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:39:00Z",
+  "atualizadoEm": "2026-08-28T23:39:15Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3132,11 +3132,11 @@
       "Dia": "Segunda",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Processual Civil I",
       "Sala/Laboratório": "Sala 91",
       "Prédio": "Prédio 1",
       "Andar": "9º",
-      "Professor": "",
+      "Professor": "Fernando Lage Tolentino",
       "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
