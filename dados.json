@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:59:45Z",
+  "atualizadoEm": "2026-08-28T22:59:42Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2502,70 +2502,6 @@
     },
     {
       "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "",
-      "Turma": "D2MC",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "",
-      "Turma": "D2MC",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "",
-      "Turma": "D2MC",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "",
-      "Turma": "D2MC",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
       "Turno": "",
       "Período": "",
       "Turma": "D2MC",
@@ -2581,7 +2517,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "",
       "Turno": "",
       "Período": "",
       "Turma": "D2MC",
@@ -2597,7 +2533,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "",
       "Turno": "",
       "Período": "",
       "Turma": "D2MC",
@@ -2613,7 +2549,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "",
       "Turno": "",
       "Período": "",
       "Turma": "D2MC",
@@ -2629,7 +2565,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "",
       "Turno": "",
       "Período": "",
       "Turma": "D2MC",
@@ -2645,7 +2581,71 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "D2MC",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "D2MC",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "D2MC",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "D2MC",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
       "Turno": "",
       "Período": "",
       "Turma": "D2MC",
