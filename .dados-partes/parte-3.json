@@ -66,22 +66,6 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "",
-      "Início": "",
-      "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
-    },
-    {
       "Andar": "7º",
       "Curso": "Direito",
       "Dia": "",
@@ -894,6 +878,22 @@
       "Professor": "Ricardo Luiz de Freitas",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Metodologias Ativas I",
+      "Turma": "CC1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Ciência da Computação",
+      "Dia": "Quinta",
+      "Disciplina": "OPTATIVA - Programacio, Automacio e Robética",
+      "Fim": "11:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "10:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "1º",
+      "Professor": "Fischer Stefan Meira",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Engenharia III - S2",
       "Turma": "CC1M",
       "Turno": "Manhã"
     },
