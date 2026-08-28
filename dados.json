@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:24:57Z",
+  "atualizadoEm": "2026-08-28T22:26:11Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2021,6 +2021,22 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
       "Curso": "Direito",
       "Turno": "Manhã",
       "Período": "2º",
@@ -3585,6 +3601,22 @@
       "Prédio": "Anexo Ceará",
       "Andar": "",
       "Professor": "Eduardo Campos dos Santos",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Ciência da Computação"
+    },
+    {
+      "Curso": "Ciência da Computação",
+      "Turno": "Noite",
+      "Período": "2º",
+      "Turma": "CC2N",
+      "Dia": "Quinta",
+      "Início": "20:20",
+      "Fim": "22:00",
+      "Disciplina": "de Programacdo- Turma A",
+      "Sala/Laboratório": "Lab. Tec 11 - Anexo Ceará",
+      "Prédio": "Anexo Ceará",
+      "Andar": "",
+      "Professor": "Fem Conte are",
       "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
       "Fonte": "Capturas Ciência da Computação"
     },
