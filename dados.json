@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:29:20Z",
+  "atualizadoEm": "2026-08-28T22:29:56Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2016,7 +2016,7 @@
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
-      "Professor": "Carolina Ferreira Reis",
+      "Professor": "Maria Carolina Ferreira Reis",
       "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
@@ -2028,7 +2028,7 @@
       "Dia": "Segunda",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Introdução ao Pensamento Filosófico",
       "Sala/Laboratório": "Sala 42",
       "Prédio": "Prédio 1",
       "Andar": "4º",
