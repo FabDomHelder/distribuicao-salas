@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:13:07Z",
+  "atualizadoEm": "2026-08-28T23:13:11Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2773,6 +2773,38 @@
       "Fonte": ""
     },
     {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
       "Curso": "Direito",
       "Turno": "Manhã",
       "Período": "2º",
@@ -3601,22 +3633,6 @@
       "Prédio": "Prédio 1",
       "Andar": "S2",
       "Professor": "Fischer Stefan Meira",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Fonte": "Capturas Ciência da Computação"
-    },
-    {
-      "Curso": "Ciência da Computação",
-      "Turno": "Manhã",
-      "Período": "1º",
-      "Turma": "CC1M",
-      "Dia": "Sexta",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "OPTATIVA - Fundamentos de Inteligéncia Artificial",
-      "Sala/Laboratório": "Lab. Metodologias Ativas I",
-      "Prédio": "Prédio 1",
-      "Andar": "2º",
-      "Professor": "Edyene Cely Amaro Oliveira",
       "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
       "Fonte": "Capturas Ciência da Computação"
     },
@@ -5901,22 +5917,6 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "e Probabidade - unto com Ciécia da Computagdo)",
-      "Sala/Laboratório": "Sala 32 - P1",
-      "Prédio": "Prédio 1",
-      "Andar": "3º",
-      "Professor": "",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Fonte": "Capturas Engenharia Civil"
-    },
-    {
-      "Curso": "Engenharia Civil",
-      "Turno": "Noite",
-      "Período": "1º",
-      "Turma": "ENG1N",
-      "Dia": "Quinta",
-      "Início": "20:20",
-      "Fim": "22:00",
-      "Disciplina": "com Ciéncia da Computaco)",
       "Sala/Laboratório": "Sala 32 - P1",
       "Prédio": "Prédio 1",
       "Andar": "3º",
