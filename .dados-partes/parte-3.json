@@ -898,6 +898,22 @@
       "Turno": "Manhã"
     },
     {
+      "Andar": "3º",
+      "Curso": "Direito",
+      "Dia": "",
+      "Disciplina": "Direito Empresarial II",
+      "Fim": "",
+      "Fonte": "PDF Distribuição Geral",
+      "Início": "",
+      "Observação": "",
+      "Período": "6º",
+      "Professor": "Alex Floriano Neto",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 32",
+      "Turma": "D6MA",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "11º",
       "Curso": "Direito",
       "Dia": "",
@@ -1582,22 +1598,6 @@
       "Professor": "Ricardo Luiz de Freitas",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Engenharia III - S2",
-      "Turma": "CC1M",
-      "Turno": "Manhã"
-    },
-    {
-      "Andar": "2º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "Algoritmos e Estruturas de Dados",
-      "Fim": "09:40",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "08:00",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "1º",
-      "Professor": "Ricardo Luiz de Freitas",
-      "Prédio": "Prédio 1",
-      "Sala": "Lab. Metodologias Ativas I",
       "Turma": "CC1M",
       "Turno": "Manhã"
     }
