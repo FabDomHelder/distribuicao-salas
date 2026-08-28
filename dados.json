@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:24:15Z",
+  "atualizadoEm": "2026-08-28T23:24:49Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2892,11 +2892,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Sociologia Jurídica",
       "Sala/Laboratório": "Sala 71",
       "Prédio": "Prédio 1",
       "Andar": "7º",
-      "Professor": "",
+      "Professor": "Marcelo Antônio Rocha",
       "Observação": "",
       "Fonte": ""
     },
@@ -2908,11 +2908,11 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Constitucional I",
       "Sala/Laboratório": "Sala 71",
       "Prédio": "Prédio 1",
       "Andar": "7º",
-      "Professor": "",
+      "Professor": "Paulo Antônio Grahl M.de Castro",
       "Observação": "",
       "Fonte": ""
     },
