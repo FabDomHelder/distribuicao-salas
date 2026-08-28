@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:23:42Z",
+  "atualizadoEm": "2026-08-28T23:24:15Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2876,11 +2876,11 @@
       "Dia": "Quarta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Penal I",
       "Sala/Laboratório": "Sala 71",
       "Prédio": "Prédio 1",
       "Andar": "7º",
-      "Professor": "",
+      "Professor": "Franklin Higino Caldeira Filho",
       "Observação": "",
       "Fonte": ""
     },
