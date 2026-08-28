@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:56:20Z",
+  "atualizadoEm": "2026-08-28T23:56:52Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3676,11 +3676,11 @@
       "Dia": "Quarta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Processual Civil I",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 2",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Vinicius Lott Thibau",
       "Observação": "",
       "Fonte": ""
     },
@@ -3692,11 +3692,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Constitucional III",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 2",
       "Andar": "4º",
-      "Professor": "",
+      "Professor": "Luiz Gustavo Levate",
       "Observação": "",
       "Fonte": ""
     },
@@ -3708,7 +3708,7 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direitos Humanos",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 2",
       "Andar": "4º",
