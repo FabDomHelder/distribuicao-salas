@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:15:47Z",
+  "atualizadoEm": "2026-08-28T23:16:06Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2649,192 +2649,16 @@
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "D2MD",
-      "Dia": "Segunda",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "Sociologia Jurídica",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
       "Sala/Laboratório": "Sala 62",
       "Prédio": "Prédio 1",
       "Andar": "6º",
-      "Professor": "Marcelo Antônio Rocha",
+      "Professor": "",
       "Observação": "",
       "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Segunda",
-      "Início": "10:00",
-      "Fim": "11:40",
-      "Disciplina": "Direito Constitucional I",
-      "Sala/Laboratório": "Sala 63",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "Luis Andre de Araújo Vasconcelos",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Terça",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 64",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Terça",
-      "Início": "10:00",
-      "Fim": "11:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 65",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Quarta",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 66",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Quarta",
-      "Início": "10:00",
-      "Fim": "11:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 67",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Quinta",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 68",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Quinta",
-      "Início": "10:00",
-      "Fim": "11:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 69",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Sexta",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "Filosofia do Direito",
-      "Sala/Laboratório": "EAD",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "Marcelo Antônio Rocha",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MD",
-      "Dia": "Sexta",
-      "Início": "10:00",
-      "Fim": "11:40",
-      "Disciplina": "História do Direito",
-      "Sala/Laboratório": "EAD",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "Leonardo Mendes",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
     },
     {
       "Curso": "Direito",
@@ -3041,7 +2865,7 @@
       "Prédio": "Prédio 1",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3057,7 +2881,7 @@
       "Prédio": "Prédio 1",
       "Andar": "6º",
       "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3073,7 +2897,7 @@
       "Prédio": "Prédio 1",
       "Andar": "9º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3089,7 +2913,7 @@
       "Prédio": "Prédio 1",
       "Andar": "11º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3105,7 +2929,7 @@
       "Prédio": "Prédio 1",
       "Andar": "8º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3121,7 +2945,7 @@
       "Prédio": "Prédio 1",
       "Andar": "11º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3137,7 +2961,7 @@
       "Prédio": "Prédio 2",
       "Andar": "3º",
       "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3153,7 +2977,7 @@
       "Prédio": "Prédio 2",
       "Andar": "6º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3169,7 +2993,7 @@
       "Prédio": "Prédio 2",
       "Andar": "2º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3185,7 +3009,7 @@
       "Prédio": "Prédio 2",
       "Andar": "5º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3201,7 +3025,7 @@
       "Prédio": "Prédio 2",
       "Andar": "6º",
       "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3217,7 +3041,7 @@
       "Prédio": "Prédio 2",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3233,7 +3057,7 @@
       "Prédio": "Prédio 2",
       "Andar": "2º",
       "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -3249,7 +3073,7 @@
       "Prédio": "Prédio 2",
       "Andar": "4º",
       "Professor": "",
-      "Observação": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
       "Fonte": "PDF Distribuição Geral"
     },
     {
