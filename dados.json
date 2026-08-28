@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:13:57Z",
+  "atualizadoEm": "2026-08-28T23:14:06Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2757,10 +2757,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "2º",
+      "Turma": "D2MD",
       "Dia": "",
       "Início": "",
       "Fim": "",
@@ -2773,10 +2773,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "2º",
+      "Turma": "D2MD",
       "Dia": "",
       "Início": "",
       "Fim": "",
@@ -2789,10 +2789,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "2º",
+      "Turma": "D2MD",
       "Dia": "",
       "Início": "",
       "Fim": "",
