@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:28:22Z",
+  "atualizadoEm": "2026-08-28T22:28:36Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2029,9 +2029,9 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
