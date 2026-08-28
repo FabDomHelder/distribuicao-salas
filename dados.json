@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:40:18Z",
+  "atualizadoEm": "2026-08-28T23:40:16Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3196,11 +3196,11 @@
       "Dia": "Quarta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "Direito Penal III",
+      "Disciplina": "",
       "Sala/Laboratório": "Sala 91",
       "Prédio": "Prédio 1",
       "Andar": "9º",
-      "Professor": "Licia Jocilene das Neves",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
