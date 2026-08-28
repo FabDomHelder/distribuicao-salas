@@ -1346,6 +1346,22 @@
       "Turno": ""
     },
     {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
+    },
+    {
       "Andar": "6º",
       "Curso": "Direito",
       "Dia": "",
@@ -1583,22 +1599,6 @@
       "Prédio": "Prédio 1",
       "Sala": "Sala 42",
       "Turma": "D2NB",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "6º",
-      "Curso": "Direito",
-      "Dia": "",
-      "Disciplina": "Direito Constitucional III",
-      "Fim": "",
-      "Fonte": "PDF Distribuição Geral",
-      "Início": "",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
-      "Período": "4º",
-      "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 61",
-      "Turma": "D4NA",
       "Turno": "Noite"
     }
   ],
