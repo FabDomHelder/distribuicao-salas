@@ -2,6 +2,22 @@
   "chunk": 3,
   "records": [
     {
+      "Andar": "1º",
+      "Curso": "Direito",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "PDF Distribuição Geral",
+      "Início": "",
+      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Período": "8º",
+      "Professor": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 14",
+      "Turma": "D8MA",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "3º",
       "Curso": "Direito",
       "Dia": "",
@@ -878,22 +894,6 @@
       "Professor": "Maria Carolina Ferreira Reis",
       "Prédio": "Prédio 1",
       "Sala": "Sala 31 - P1",
-      "Turma": "CC2N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "de Apicagdo Web Front-End-TurmaA",
-      "Fim": "22:00",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "20:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "2º",
-      "Professor": "Fem Conte are",
-      "Prédio": "Anexo Ceará",
-      "Sala": "Lab. Tec 11 - Anexo Ceará",
       "Turma": "CC2N",
       "Turno": "Noite"
     },
