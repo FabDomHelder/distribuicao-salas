@@ -978,7 +978,7 @@
       "Turno": "Manhã"
     },
     {
-      "Andar": "",
+      "Andar": "4º",
       "Curso": "Direito",
       "Dia": "Quinta",
       "Disciplina": "",
@@ -988,8 +988,8 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 42",
       "Turma": "D1MA/B",
       "Turno": "Manhã"
     },
