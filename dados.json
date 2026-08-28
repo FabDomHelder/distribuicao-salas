@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:45:47Z",
+  "atualizadoEm": "2026-08-28T22:46:10Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2312,15 +2312,15 @@
       "Curso": "Direito",
       "Turno": "Manhã",
       "Período": "2º",
-      "Turma": "",
+      "Turma": "D2MA",
       "Dia": "Sexta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "História do Direito",
       "Sala/Laboratório": "EAD",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Leonardo Mendes",
       "Observação": "",
       "Fonte": ""
     },
