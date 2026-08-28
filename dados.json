@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:34:43Z",
+  "atualizadoEm": "2026-08-28T22:36:04Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2129,6 +2129,38 @@
       "Prédio": "Prédio 1",
       "Andar": "4º",
       "Professor": "Willio Campos Anselmo",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "1º",
+      "Turma": "D1MA/B",
+      "Dia": "Sexta",
+      "Início": "08:00",
+      "Fim": "09:40",
+      "Disciplina": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "1º",
+      "Turma": "D1MA/B",
+      "Dia": "Sexta",
+      "Início": "10:00",
+      "Fim": "11:40",
+      "Disciplina": "",
+      "Sala/Laboratório": "Sala 42",
+      "Prédio": "Prédio 1",
+      "Andar": "4º",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
