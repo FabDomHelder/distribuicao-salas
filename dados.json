@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:49:50Z",
+  "atualizadoEm": "2026-08-28T22:51:26Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2352,7 +2352,7 @@
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Pedro Alexandre Moreira",
       "Observação": "",
       "Fonte": ""
     },
@@ -2364,11 +2364,11 @@
       "Dia": "Terça",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Constitucional I",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Luis Andre de Araújo Vasconcelos",
       "Observação": "",
       "Fonte": ""
     },
@@ -2380,11 +2380,11 @@
       "Dia": "Terça",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Sociologia Jurídica",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Eduardo Morato Fonseca",
       "Observação": "",
       "Fonte": ""
     },
