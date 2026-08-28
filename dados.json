@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:07:11Z",
+  "atualizadoEm": "2026-08-28T22:08:24Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2060,6 +2060,22 @@
       "Dia": "Quarta",
       "Início": "0.333333333333333",
       "Fim": "0.402777777777778",
+      "Disciplina": "Direito Constitucional I",
+      "Sala/Laboratório": "Sala 44",
+      "Prédio": "Prédio 1",
+      "Andar": "5º",
+      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Observação": "",
+      "Fonte": "PDF Distribuição Geral"
+    },
+    {
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "2º",
+      "Turma": "D2MA",
+      "Dia": "Quarta",
+      "Início": "0.416666666666667",
+      "Fim": "0.486111111111111",
       "Disciplina": "Direito Constitucional I",
       "Sala/Laboratório": "Sala 44",
       "Prédio": "Prédio 1",
