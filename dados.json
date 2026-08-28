@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:52:32Z",
+  "atualizadoEm": "2026-08-28T23:52:33Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3580,11 +3580,11 @@
       "Dia": "Sexta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Processual Civil I",
       "Sala/Laboratório": "Sala 64",
       "Prédio": "Prédio 2",
       "Andar": "6º",
-      "Professor": "",
+      "Professor": "Vinicius Lott Thibau",
       "Observação": "",
       "Fonte": ""
     },
