@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:43:33Z",
+  "atualizadoEm": "2026-08-28T22:45:47Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2296,15 +2296,15 @@
       "Curso": "Direito",
       "Turno": "Manhã",
       "Período": "2º",
-      "Turma": "",
+      "Turma": "D2MA",
       "Dia": "Sexta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 44",
+      "Disciplina": "Filosofia do Direito",
+      "Sala/Laboratório": "EAD",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Marcelo Antônio Rocha",
       "Observação": "",
       "Fonte": ""
     },
@@ -2317,7 +2317,7 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "",
-      "Sala/Laboratório": "Sala 44",
+      "Sala/Laboratório": "EAD",
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "",
