@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:05:14Z",
+  "atualizadoEm": "2026-08-28T22:05:48Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2037,6 +2037,22 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
       "Curso": "Direito",
       "Turno": "Manhã",
       "Período": "2º",
@@ -2057,7 +2073,7 @@
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "D2MA",
-      "Dia": "Quarta",
+      "Dia": "Quinta",
       "Início": "0.333333333333333",
       "Fim": "0.402777777777778",
       "Disciplina": "Direito Constitucional I",
