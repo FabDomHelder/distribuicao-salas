@@ -2,6 +2,22 @@
   "chunk": 4,
   "records": [
     {
+      "Andar": "S2",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "OPTATIVA - Programacio, Automacio e Robética",
+      "Fim": "11:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "10:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "1º",
+      "Professor": "Ricardo Luiz de Freitas",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Engenharia III - S2",
+      "Turma": "CC1M",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "2º",
       "Curso": "Ciência da Computação",
       "Dia": "Quarta",
@@ -1582,22 +1598,6 @@
       "Professor": "Ricardo Martins Ramos",
       "Prédio": "Anexo Ceará",
       "Sala": "Lab. Tec 8 - Anexo Ceará",
-      "Turma": "CC6N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "2º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Terça",
-      "Disciplina": "de Computadores- unto com 07 e89-TurmaA",
-      "Fim": "20:00",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "18:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "6º",
-      "Professor": "Elson de Abreu Rocha Junior",
-      "Prédio": "Prédio 1",
-      "Sala": "Lab. Metodologias Ativas II",
       "Turma": "CC6N",
       "Turno": "Noite"
     }
