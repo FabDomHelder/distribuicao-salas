@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:18:07Z",
+  "atualizadoEm": "2026-08-28T23:18:32Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2748,7 +2748,7 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Penal I",
       "Sala/Laboratório": "Sala 62",
       "Prédio": "Prédio 1",
       "Andar": "6º",
@@ -2764,11 +2764,11 @@
       "Dia": "Quinta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Teoria Geral do Direito",
       "Sala/Laboratório": "Sala 62",
       "Prédio": "Prédio 1",
       "Andar": "6º",
-      "Professor": "",
+      "Professor": "Gesun Fernando Prestes",
       "Observação": "",
       "Fonte": ""
     },
