@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:18:59Z",
+  "atualizadoEm": "2026-08-28T23:19:35Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2503,7 +2503,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Segunda",
       "Início": "10:00",
@@ -2519,7 +2519,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Terça",
       "Início": "08:00",
@@ -2535,7 +2535,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Terça",
       "Início": "10:00",
@@ -2551,7 +2551,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Quarta",
       "Início": "08:00",
@@ -2567,7 +2567,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Quarta",
       "Início": "10:00",
@@ -2583,7 +2583,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Quinta",
       "Início": "08:00",
@@ -2599,7 +2599,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Quinta",
       "Início": "10:00",
@@ -2615,7 +2615,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Sexta",
       "Início": "08:00",
@@ -2631,7 +2631,7 @@
     {
       "Curso": "Direito",
       "Turno": "Manhã",
-      "Período": "",
+      "Período": "2º",
       "Turma": "D2MC",
       "Dia": "Sexta",
       "Início": "10:00",
