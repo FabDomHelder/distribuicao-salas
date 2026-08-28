@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T22:02:00Z",
+  "atualizadoEm": "2026-08-28T22:03:28Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -2033,7 +2033,7 @@
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
@@ -2049,7 +2049,7 @@
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Observação": "Alocação-base; dia/horário detalhado ainda não incorporado.",
+      "Observação": "",
       "Fonte": "PDF Distribuição Geral"
     },
     {
