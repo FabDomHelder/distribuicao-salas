@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:34:36Z",
+  "atualizadoEm": "2026-08-28T23:35:09Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3052,11 +3052,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Constitucional II",
       "Sala/Laboratório": "Sala 72",
       "Prédio": "Prédio 1",
       "Andar": "7º",
-      "Professor": "",
+      "Professor": "Leonardo de Andrade Rezende Alvim",
       "Observação": "",
       "Fonte": ""
     },
