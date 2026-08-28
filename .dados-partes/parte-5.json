@@ -2,6 +2,38 @@
   "chunk": 5,
   "records": [
     {
+      "Andar": "2º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Quinta",
+      "Disciplina": "Gunto com 364° 5%) Lab.",
+      "Fim": "22:00",
+      "Fonte": "Capturas Engenharia Civil",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "5º",
+      "Professor": "Ricardo Luiz de Freitas",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas II",
+      "Turma": "ENG5N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "7º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Sexta",
+      "Disciplina": "ds Puios -Gunto com 3,4 9) sala",
+      "Fim": "20:00",
+      "Fonte": "Capturas Engenharia Civil",
+      "Início": "18:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "5º",
+      "Professor": "Lino Rodrigues de Freitas",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 72 - P1",
+      "Turma": "ENG5N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "4º",
       "Curso": "Engenharia Civil",
       "Dia": "Sexta",
