@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-28T23:39:15Z",
+  "atualizadoEm": "2026-08-28T23:39:35Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3148,11 +3148,11 @@
       "Dia": "Segunda",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Constitucional III ",
       "Sala/Laboratório": "Sala 91",
       "Prédio": "Prédio 1",
       "Andar": "9º",
-      "Professor": "",
+      "Professor": "David Oliveira Lima Rocha",
       "Observação": "",
       "Fonte": ""
     },
