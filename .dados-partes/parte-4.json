@@ -306,6 +306,22 @@
       "Turno": "Manhã"
     },
     {
+      "Andar": "",
+      "Curso": "Direito",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "9º",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "D8MA",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "1º",
       "Curso": "Direito",
       "Dia": "Quarta",
@@ -1582,22 +1598,6 @@
       "Professor": "Flávia Cordeiro Martins",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Metodologias Ativas I",
-      "Turma": "CC2M",
-      "Turno": "Manhã"
-    },
-    {
-      "Andar": "",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "de Programagio -Turma 8",
-      "Fim": "09:40",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "08:00",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "2º",
-      "Professor": "Edyene Cely Amaro Oliveira",
-      "Prédio": "Anexo Ceará",
-      "Sala": "Lab. Tec 11 - Anexo Ceará",
       "Turma": "CC2M",
       "Turno": "Manhã"
     }
