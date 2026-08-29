@@ -795,14 +795,14 @@
       "Início": "08:00",
       "Observação": "",
       "Período": "10º",
-      "Professor": "Ligia Maria ",
+      "Professor": "Ligia Maria Veloso F. de Oliveira",
       "Prédio": "Prédio 2",
       "Sala": "Sala 13",
       "Turma": "D10MA",
       "Turno": "Manhã"
     },
     {
-      "Andar": "",
+      "Andar": "1º",
       "Curso": "Direito",
       "Dia": "Segunda",
       "Disciplina": "",
@@ -812,8 +812,8 @@
       "Observação": "",
       "Período": "10º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 13",
       "Turma": "D10MA",
       "Turno": "Manhã"
     },
