@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:11:13Z",
+  "atualizadoEm": "2026-08-29T16:11:30Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5356,11 +5356,11 @@
       "Dia": "Quarta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Internacional II",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Kiwonghi Bizawu",
       "Observação": "",
       "Fonte": ""
     },
