@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T00:12:15Z",
+  "atualizadoEm": "2026-08-29T00:12:35Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -4048,7 +4048,7 @@
       "Sala/Laboratório": "Sala 32",
       "Prédio": "Prédio 1",
       "Andar": "3º",
-      "Professor": " Ligia Maria Veloso",
+      "Professor": " Ligia Maria Veloso F. de Oliveira",
       "Observação": "",
       "Fonte": ""
     },
@@ -4060,11 +4060,11 @@
       "Dia": "Sexta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Processual Penal II",
       "Sala/Laboratório": "Sala 32",
       "Prédio": "Prédio 1",
       "Andar": "3º",
-      "Professor": "",
+      "Professor": "Maurício Lopes de Paula",
       "Observação": "",
       "Fonte": ""
     },
@@ -4076,11 +4076,11 @@
       "Dia": "Sexta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Administrativo II",
       "Sala/Laboratório": "Sala 32",
       "Prédio": "Prédio 1",
       "Andar": "3º",
-      "Professor": "",
+      "Professor": " Ligia Maria Veloso F. de Oliveira",
       "Observação": "",
       "Fonte": ""
     },
