@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:05:35Z",
+  "atualizadoEm": "2026-08-29T16:05:58Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5212,11 +5212,11 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "Mediação, Conciliação",
+      "Disciplina": "Mediação, Conciliação e Arbitragem",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "André de Paiva Toledo",
       "Observação": "",
       "Fonte": ""
     },
@@ -5228,7 +5228,7 @@
       "Dia": "Quinta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito e Tecnologia na Contemporaneidade",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
