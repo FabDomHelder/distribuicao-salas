@@ -1506,22 +1506,6 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "",
-      "Início": "",
-      "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
-    },
-    {
       "Andar": "11º",
       "Curso": "Direito",
       "Dia": "",
@@ -1600,6 +1584,22 @@
       "Sala": "Sala 41",
       "Turma": "D9M",
       "Turno": "Manhã"
+    },
+    {
+      "Andar": "5º",
+      "Curso": "Direito",
+      "Dia": "",
+      "Disciplina": "Português",
+      "Fim": "",
+      "Fonte": "PDF Distribuição Geral",
+      "Início": "",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 52",
+      "Turma": "D1NA/B",
+      "Turno": "Noite"
     }
   ],
   "total": 5
