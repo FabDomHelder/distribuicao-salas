@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:11:30Z",
+  "atualizadoEm": "2026-08-29T16:11:51Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5372,11 +5372,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Previdênciário",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Stephanie Rodrigues Venâncio",
       "Observação": "",
       "Fonte": ""
     },
@@ -5388,11 +5388,11 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito e Tecnologia na Contemporaneidade",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Caio Augusto Souza Lara",
       "Observação": "",
       "Fonte": ""
     },
@@ -5404,11 +5404,11 @@
       "Dia": "Quinta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Estágio IV (Prática Simulada)",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Daniela Victor de Souza Melo",
       "Observação": "",
       "Fonte": ""
     },
