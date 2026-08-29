@@ -1794,6 +1794,22 @@
       "Turno": "Noite"
     },
     {
+      "Andar": "2º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Segunda",
+      "Disciplina": "e Programacdo - (junto com 3°, 4° = 5°) Lab.",
+      "Fim": "20:00",
+      "Fonte": "Capturas Engenharia Civil",
+      "Início": "18:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "5º",
+      "Professor": "Ricardo Luiz de Freitas",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas II",
+      "Turma": "ENG5N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "7º",
       "Curso": "Engenharia Civil",
       "Dia": "Segunda",
