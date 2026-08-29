@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T00:01:17Z",
+  "atualizadoEm": "2026-08-29T00:01:30Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3765,10 +3765,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "5º",
+      "Turma": "D5M",
       "Dia": "",
       "Início": "",
       "Fim": "",
