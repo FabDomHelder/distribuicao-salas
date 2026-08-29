@@ -1042,6 +1042,22 @@
       "Turno": ""
     },
     {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
+    },
+    {
       "Andar": "5º",
       "Curso": "Direito",
       "Dia": "",
@@ -1583,22 +1599,6 @@
       "Prédio": "Prédio 3",
       "Sala": "Sala 58",
       "Turma": "FONO3N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "Biblioteca",
-      "Curso": "Administração",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "Atualização fornecida em 20/08/2026",
-      "Início": "",
-      "Observação": "Andar B corresponde à Biblioteca; sala OAB.",
-      "Período": "1º",
-      "Professor": "",
-      "Prédio": "Biblioteca",
-      "Sala": "Sala OAB",
-      "Turma": "ADM1N",
       "Turno": "Noite"
     }
   ],
