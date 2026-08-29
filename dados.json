@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T00:04:09Z",
+  "atualizadoEm": "2026-08-29T00:04:32Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3852,11 +3852,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Empresarial I",
       "Sala/Laboratório": "Sala 81",
       "Prédio": "Prédio 1",
       "Andar": "8º",
-      "Professor": "",
+      "Professor": "Gustavo Ribeiro Rocha",
       "Observação": "",
       "Fonte": ""
     },
@@ -3868,11 +3868,11 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Administrativo I",
       "Sala/Laboratório": "Sala 81",
       "Prédio": "Prédio 1",
       "Andar": "8º",
-      "Professor": "",
+      "Professor": "Livia Maria Cruz ",
       "Observação": "",
       "Fonte": ""
     },
