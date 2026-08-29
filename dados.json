@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:06:22Z",
+  "atualizadoEm": "2026-08-29T16:06:49Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5248,7 +5248,7 @@
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "Maraluce Maria Custódio",
       "Observação": "",
       "Fonte": ""
     },
@@ -5260,7 +5260,7 @@
       "Dia": "Sexta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Tópicos em Controle de Constitucionalidade",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
