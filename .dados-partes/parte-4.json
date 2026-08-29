@@ -587,7 +587,7 @@
       "Início": "11:40",
       "Observação": "",
       "Período": "8º",
-      "Professor": "",
+      "Professor": "Camila Menezes de Oliveira",
       "Prédio": "Prédio 1",
       "Sala": "Sala 31",
       "Turma": "D8MB",
@@ -595,19 +595,19 @@
     },
     {
       "Andar": "",
-      "Curso": "",
+      "Curso": "Direito",
       "Dia": "",
-      "Disciplina": "",
+      "Disciplina": "Prática Real - Atividades Realizadas no Núcleo",
       "Fim": "",
       "Fonte": "",
       "Início": "",
       "Observação": "",
-      "Período": "",
+      "Período": "8º",
       "Professor": "",
       "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
+      "Sala": "NPJ",
+      "Turma": "D8MB",
+      "Turno": "Manhã"
     },
     {
       "Andar": "4º",
@@ -640,6 +640,22 @@
       "Sala": "Sala 52",
       "Turma": "D1NA/B",
       "Turno": "Noite"
+    },
+    {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
     },
     {
       "Andar": "4º",
@@ -1582,22 +1598,6 @@
       "Professor": "Flávia Cordeiro Martins",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Metodologias Ativas I",
-      "Turma": "CC2M",
-      "Turno": "Manhã"
-    },
-    {
-      "Andar": "",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "de Programagio -Turma 8",
-      "Fim": "09:40",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "08:00",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "2º",
-      "Professor": "Edyene Cely Amaro Oliveira",
-      "Prédio": "Anexo Ceará",
-      "Sala": "Lab. Tec 11 - Anexo Ceará",
       "Turma": "CC2M",
       "Turno": "Manhã"
     }
