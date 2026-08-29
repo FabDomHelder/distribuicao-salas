@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:01:09Z",
+  "atualizadoEm": "2026-08-29T16:01:42Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5173,10 +5173,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "Quarta",
       "Início": "08:00",
       "Fim": "09:40",
@@ -5189,10 +5189,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
@@ -5205,10 +5205,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
@@ -5221,10 +5221,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "Quinta",
       "Início": "10:00",
       "Fim": "11:40",
@@ -5237,10 +5237,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "Sexta",
       "Início": "08:00",
       "Fim": "09:40",
@@ -5253,10 +5253,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "Sexta",
       "Início": "10:00",
       "Fim": "11:40",
@@ -5269,10 +5269,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "",
       "Início": "",
       "Fim": "",
@@ -5285,10 +5285,10 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
+      "Curso": "Direito",
+      "Turno": "Manhã",
+      "Período": "10º",
+      "Turma": "D10MA",
       "Dia": "",
       "Início": "",
       "Fim": "",
