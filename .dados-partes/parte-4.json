@@ -578,7 +578,7 @@
       "Turno": "Manhã"
     },
     {
-      "Andar": "",
+      "Andar": "3º",
       "Curso": "Direito",
       "Dia": "Sexta",
       "Disciplina": "Trabalho de Conclusão de Curso (TCC)",
@@ -588,8 +588,8 @@
       "Observação": "",
       "Período": "8º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 31",
       "Turma": "D8MB",
       "Turno": "Manhã"
     },
