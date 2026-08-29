@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:04:57Z",
+  "atualizadoEm": "2026-08-29T16:05:35Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5180,11 +5180,11 @@
       "Dia": "Quarta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Financeiro",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "Pedro Eliezer Maia",
       "Observação": "",
       "Fonte": ""
     },
@@ -5196,11 +5196,11 @@
       "Dia": "Quarta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Internacional II",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "Kiwonghi Bizawu",
       "Observação": "",
       "Fonte": ""
     },
@@ -5212,7 +5212,7 @@
       "Dia": "Quinta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Mediação, Conciliação",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
