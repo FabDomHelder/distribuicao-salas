@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T00:03:13Z",
+  "atualizadoEm": "2026-08-29T00:03:35Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3820,11 +3820,11 @@
       "Dia": "Terça",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Empresarial I",
       "Sala/Laboratório": "Sala 81",
       "Prédio": "Prédio 1",
       "Andar": "8º",
-      "Professor": "",
+      "Professor": "Gustavo Ribeiro Rocha",
       "Observação": "",
       "Fonte": ""
     },
