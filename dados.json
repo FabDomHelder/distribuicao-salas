@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:01:42Z",
+  "atualizadoEm": "2026-08-29T16:02:05Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5276,8 +5276,8 @@
       "Dia": "",
       "Início": "",
       "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
+      "Disciplina": "Prática Real - Atividades Realizadas no Núcleo",
+      "Sala/Laboratório": "NPJ",
       "Prédio": "",
       "Andar": "",
       "Professor": "",
