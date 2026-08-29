@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:10:15Z",
+  "atualizadoEm": "2026-08-29T16:11:13Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5292,11 +5292,11 @@
       "Dia": "Segunda",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Previdênciário",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Stephanie Rodrigues Venâncio",
       "Observação": "",
       "Fonte": ""
     },
@@ -5308,11 +5308,11 @@
       "Dia": "Segunda",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Financeiro",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Pedro Eliezer Maia",
       "Observação": "",
       "Fonte": ""
     },
@@ -5324,11 +5324,11 @@
       "Dia": "Terça",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Tópicos em Controle de Constitucionalidade",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Caio Márcio Brandão Albuquerque",
       "Observação": "",
       "Fonte": ""
     },
@@ -5340,11 +5340,11 @@
       "Dia": "Terça",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Estágio IV (Prática Simulada)",
       "Sala/Laboratório": "Sala 54",
       "Prédio": "Prédio 2",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Daniela Victor de Souza Melo",
       "Observação": "",
       "Fonte": ""
     },
