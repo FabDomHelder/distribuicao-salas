@@ -1586,20 +1586,20 @@
       "Turno": ""
     },
     {
-      "Andar": "11º",
-      "Curso": "Direito",
+      "Andar": "",
+      "Curso": "",
       "Dia": "",
-      "Disciplina": "Direito Empresarial III",
+      "Disciplina": "",
       "Fim": "",
-      "Fonte": "PDF Distribuição Geral",
+      "Fonte": "",
       "Início": "",
       "Observação": "",
-      "Período": "7º",
-      "Professor": "Alex Floriano Neto",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 111",
-      "Turma": "D7M",
-      "Turno": "Manhã"
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
     }
   ],
   "total": 5
