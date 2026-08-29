@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T16:02:05Z",
+  "atualizadoEm": "2026-08-29T16:03:36Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5116,11 +5116,11 @@
       "Dia": "Segunda",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Estágio IV (Prática Simulada)",
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "Ligia Maria Veloso F. de Oliveira",
       "Observação": "",
       "Fonte": "Secretaria acadêmica"
     },
@@ -5133,9 +5133,9 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala 13",
+      "Prédio": "Prédio 2",
+      "Andar": "1º",
       "Professor": "",
       "Observação": "",
       "Fonte": ""
