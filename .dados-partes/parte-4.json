@@ -2,22 +2,6 @@
   "chunk": 4,
   "records": [
     {
-      "Andar": "5º",
-      "Curso": "Direito",
-      "Dia": "",
-      "Disciplina": "Português",
-      "Fim": "",
-      "Fonte": "PDF Distribuição Geral",
-      "Início": "",
-      "Observação": "",
-      "Período": "1º",
-      "Professor": "Aghisan Xavier Ferreira Pinto",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 52",
-      "Turma": "D1NA/B",
-      "Turno": "Noite"
-    },
-    {
       "Andar": "4º",
       "Curso": "Direito",
       "Dia": "",
@@ -1600,6 +1584,22 @@
       "Sala": "Sala 32 - P1",
       "Turma": "CC3N",
       "Turno": "Noite"
+    },
+    {
+      "Andar": "7º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Segunda",
+      "Disciplina": "‘Computador e Sociedade Sala",
+      "Fim": "09:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "08:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "4º",
+      "Professor": "Érica Rodrigues de Oliveira",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 77 - P3",
+      "Turma": "CC4M",
+      "Turno": "Manhã"
     }
   ],
   "total": 5
