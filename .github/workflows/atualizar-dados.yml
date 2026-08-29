@@ -40,8 +40,13 @@ jobs:
           echo "Parte recebida: $CHUNK"
           echo "Total esperado: $TOTAL"
 
-          if ! [[ "$CHUNK" =~ ^[1-5]$ ]]; then
+          if ! [[ "$CHUNK" =~ ^[1-7]$ ]]; then
             echo "ERRO: chunk inválido: $CHUNK"
+            exit 1
+          fi
+
+          if [ "$TOTAL" != "7" ]; then
+            echo "ERRO: total inválido: $TOTAL. Esperado: 7"
             exit 1
           fi
 
@@ -90,13 +95,13 @@ jobs:
           done
 
       - name: Aguardar partes anteriores
-        if: steps.parte.outputs.chunk == '5'
+        if: steps.parte.outputs.chunk == '7'
         run: |
           echo "Última parte recebida. Aguardando sincronização das demais partes..."
           sleep 15
 
       - name: Atualizar repositório para montagem
-        if: steps.parte.outputs.chunk == '5'
+        if: steps.parte.outputs.chunk == '7'
         run: |
           git fetch origin main
           git reset --hard origin/main
@@ -104,13 +109,13 @@ jobs:
           echo "Partes disponíveis:"
           ls -la .dados-partes/ || true
 
-      - name: Verificar cinco partes
-        if: steps.parte.outputs.chunk == '5'
+      - name: Verificar sete partes
+        if: steps.parte.outputs.chunk == '7'
         id: verificar
         run: |
           FALTANDO=0
 
-          for N in 1 2 3 4 5; do
+          for N in 1 2 3 4 5 6 7; do
             if [ ! -f ".dados-partes/parte-${N}.json" ]; then
               echo "Faltando parte $N"
               FALTANDO=1
@@ -126,7 +131,7 @@ jobs:
           fi
 
       - name: Aguardar partes faltantes
-        if: steps.parte.outputs.chunk == '5' && steps.verificar.outputs.completo != 'true'
+        if: steps.parte.outputs.chunk == '7' && steps.verificar.outputs.completo != 'true'
         run: |
           echo "Nem todas as partes chegaram. Aguardando mais 20 segundos..."
           sleep 20
@@ -134,7 +139,7 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
 
-          for N in 1 2 3 4 5; do
+          for N in 1 2 3 4 5 6 7; do
             if [ ! -f ".dados-partes/parte-${N}.json" ]; then
               echo "ERRO: parte $N ainda está faltando."
               exit 1
@@ -142,7 +147,7 @@ jobs:
           done
 
       - name: Montar dados.json
-        if: steps.parte.outputs.chunk == '5'
+        if: steps.parte.outputs.chunk == '7'
         run: |
           jq -s '
           {
@@ -184,6 +189,8 @@ jobs:
           .dados-partes/parte-3.json \
           .dados-partes/parte-4.json \
           .dados-partes/parte-5.json \
+          .dados-partes/parte-6.json \
+          .dados-partes/parte-7.json \
           > dados-novos.json
 
           jq empty dados-novos.json
@@ -203,7 +210,7 @@ jobs:
           mv dados-novos.json dados.json
 
       - name: Publicar atualização final
-        if: steps.parte.outputs.chunk == '5'
+        if: steps.parte.outputs.chunk == '7'
         run: |
           cp dados.json /tmp/dados-final.json
 
