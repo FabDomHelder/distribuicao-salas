@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-08-29T00:04:32Z",
+  "atualizadoEm": "2026-08-29T00:05:03Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -3872,7 +3872,7 @@
       "Sala/Laboratório": "Sala 81",
       "Prédio": "Prédio 1",
       "Andar": "8º",
-      "Professor": "Livia Maria Cruz ",
+      "Professor": "Livia Maria Cruz Gonçalves de Souza",
       "Observação": "",
       "Fonte": ""
     },
@@ -3884,11 +3884,11 @@
       "Dia": "Quinta",
       "Início": "10:00",
       "Fim": "11:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Processual Civil II",
       "Sala/Laboratório": "Sala 81",
       "Prédio": "Prédio 1",
       "Andar": "8º",
-      "Professor": "",
+      "Professor": "Newton Teixeira Carvalho",
       "Observação": "",
       "Fonte": ""
     },
@@ -3900,11 +3900,11 @@
       "Dia": "Sexta",
       "Início": "08:00",
       "Fim": "09:40",
-      "Disciplina": "",
+      "Disciplina": "Direito Administrativo I",
       "Sala/Laboratório": "Sala 81",
       "Prédio": "Prédio 1",
       "Andar": "8º",
-      "Professor": "",
+      "Professor": "Livia Maria Cruz Gonçalves de Souza",
       "Observação": "",
       "Fonte": ""
     },
