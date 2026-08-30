@@ -82,20 +82,20 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
+      "Andar": "2º",
+      "Curso": "Direito",
       "Dia": "",
       "Disciplina": "",
       "Fim": "",
-      "Fonte": "",
+      "Fonte": "PDF Distribuição Geral",
       "Início": "",
       "Observação": "",
-      "Período": "",
+      "Período": "4º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 23",
+      "Turma": "4DI",
+      "Turno": "Manhã"
     },
     {
       "Andar": "",
