@@ -2,6 +2,22 @@
   "chunk": 6,
   "records": [
     {
+      "Andar": "",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "Paradigmas de Programaggo - Turma B",
+      "Fim": "09:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "08:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "2º",
+      "Professor": "ene Colt eet meen",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 11 - Anexo Ceará",
+      "Turma": "CC2M",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "7º",
       "Curso": "Ciência da Computação",
       "Dia": "Terça",
@@ -178,18 +194,18 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "",
+      "Andar": "3º",
       "Curso": "Ciência da Computação",
-      "Dia": "Terça",
-      "Disciplina": "de Programacio- Turms 8",
-      "Fim": "20:00",
+      "Dia": "Segunda",
+      "Disciplina": "de Modelagem de Problemas",
+      "Fim": "22:00",
       "Fonte": "Capturas Ciência da Computação",
-      "Início": "18:20",
+      "Início": "20:20",
       "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
       "Período": "2º",
-      "Professor": "Eduardo Campos dos Santos",
-      "Prédio": "Anexo Ceará",
-      "Sala": "Lab. Tec 9 - Anexo Ceará",
+      "Professor": "João Luiz de Oliveira Gomes",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 31 - P1",
       "Turma": "CC2N",
       "Turno": "Noite"
     },
@@ -1582,22 +1598,6 @@
       "Professor": "enor",
       "Prédio": "Anexo Ceará",
       "Sala": "Lab. Tec 11 - Anexo Ceará",
-      "Turma": "CC7N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "7º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "da Computagio- unto com 6®) «Sala",
-      "Fim": "20:00",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "18:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "7º",
-      "Professor": "Marcos Wander Rodrigues",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 71 - P1",
       "Turma": "CC7N",
       "Turno": "Noite"
     }
