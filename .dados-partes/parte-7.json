@@ -2,6 +2,22 @@
   "chunk": 7,
   "records": [
     {
+      "Andar": "",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "de Computadores (unto com 06°«72)-TurmaB ——LabTec",
+      "Fim": "22:00",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "20:20",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "8º",
+      "Professor": "",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 11 - Anexo Ceará",
+      "Turma": "CC8N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "2º",
       "Curso": "Ciência da Computação",
       "Dia": "Quarta",
