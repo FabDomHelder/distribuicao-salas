@@ -196,6 +196,22 @@
     {
       "Andar": "11º",
       "Curso": "Direito",
+      "Dia": "Quarta",
+      "Disciplina": "",
+      "Fim": "20:00",
+      "Fonte": "",
+      "Início": "18:20",
+      "Observação": "",
+      "Período": "8º",
+      "Professor": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 111",
+      "Turma": "D8N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "11º",
+      "Curso": "Direito",
       "Dia": "Quinta",
       "Disciplina": "",
       "Fim": "20:00",
@@ -1584,22 +1600,6 @@
       "Sala": "Sala 34",
       "Turma": "10DI",
       "Turno": "Manhã"
-    },
-    {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "",
-      "Início": "",
-      "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
     }
   ],
   "total": 15
