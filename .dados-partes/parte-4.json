@@ -1570,7 +1570,7 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "",
+      "Andar": "4º",
       "Curso": "Direito",
       "Dia": "Terça",
       "Disciplina": "",
@@ -1580,13 +1580,13 @@
       "Observação": "",
       "Período": "2º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 42",
       "Turma": "D2NB",
       "Turno": "Noite"
     },
     {
-      "Andar": "",
+      "Andar": "4º",
       "Curso": "Direito",
       "Dia": "Quarta",
       "Disciplina": "",
@@ -1596,8 +1596,8 @@
       "Observação": "",
       "Período": "2º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 42",
       "Turma": "D2NB",
       "Turno": "Noite"
     }
