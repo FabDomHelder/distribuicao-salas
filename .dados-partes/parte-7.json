@@ -2,6 +2,22 @@
   "chunk": 7,
   "records": [
     {
+      "Andar": "7º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Sexta",
+      "Disciplina": "Célculo II Sala",
+      "Fim": "09:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "08:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "4º",
+      "Professor": "Fischer Stefan Meira",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 77 - P3",
+      "Turma": "CC4M",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "2º",
       "Curso": "Ciência da Computação",
       "Dia": "Sexta",
