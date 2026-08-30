@@ -930,7 +930,7 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "",
+      "Andar": "6º",
       "Curso": "Direito",
       "Dia": "Segunda",
       "Disciplina": "",
@@ -940,8 +940,8 @@
       "Observação": "",
       "Período": "4º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 64",
       "Turma": "D4NB",
       "Turno": "Noite"
     },
