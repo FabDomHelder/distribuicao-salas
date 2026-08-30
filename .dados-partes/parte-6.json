@@ -196,22 +196,6 @@
     {
       "Andar": "3º",
       "Curso": "Direito",
-      "Dia": "Terça",
-      "Disciplina": "",
-      "Fim": "22:00",
-      "Fonte": "",
-      "Início": "20:20",
-      "Observação": "",
-      "Período": "9º",
-      "Professor": "",
-      "Prédio": "Prédio 2",
-      "Sala": "Sala 33",
-      "Turma": "D9N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "3º",
-      "Curso": "Direito",
       "Dia": "Quarta",
       "Disciplina": "",
       "Fim": "22:00",
@@ -1599,6 +1583,22 @@
       "Prédio": "Prédio 2",
       "Sala": "Sala 63",
       "Turma": "D3NB",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Direito",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "PDF Distribuição Geral",
+      "Início": "",
+      "Observação": "",
+      "Período": "4º",
+      "Professor": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 64",
+      "Turma": "D4NB",
       "Turno": "Noite"
     }
   ],
