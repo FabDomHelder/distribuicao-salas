@@ -786,22 +786,6 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "",
-      "Início": "",
-      "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
-    },
-    {
       "Andar": "6º",
       "Curso": "Direito",
       "Dia": "",
@@ -898,20 +882,20 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
+      "Andar": "4º",
+      "Curso": "Direito",
       "Dia": "",
       "Disciplina": "",
       "Fim": "",
-      "Fonte": "",
+      "Fonte": "PDF Distribuição Geral",
       "Início": "",
       "Observação": "",
-      "Período": "",
+      "Período": "8º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 43",
+      "Turma": "8DI",
+      "Turno": "Manhã"
     },
     {
       "Andar": "1º",
@@ -1598,6 +1582,22 @@
       "Professor": "Edyene Cely Amaro Oliveira",
       "Prédio": "Prédio 3",
       "Sala": "Sala 76 - P3",
+      "Turma": "CC2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Quarta",
+      "Disciplina": "Paradigms de Programaclo - Turms A",
+      "Fim": "09:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "08:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "2º",
+      "Professor": "Flávia Cordeiro Martins",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas I",
       "Turma": "CC2M",
       "Turno": "Manhã"
     }
