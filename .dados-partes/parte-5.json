@@ -514,20 +514,20 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "Segunda",
+      "Andar": "6º",
+      "Curso": "Direito",
+      "Dia": "",
       "Disciplina": "",
-      "Fim": "20:00",
-      "Fonte": "",
-      "Início": "18:20",
+      "Fim": "",
+      "Fonte": "PDF Distribuição Geral",
+      "Início": "",
       "Observação": "",
-      "Período": "",
+      "Período": "3º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 63",
+      "Turma": "D3NB",
+      "Turno": "Noite"
     },
     {
       "Andar": "",
