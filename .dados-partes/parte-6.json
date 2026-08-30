@@ -898,20 +898,20 @@
       "Turno": ""
     },
     {
-      "Andar": "4º",
-      "Curso": "Direito",
+      "Andar": "",
+      "Curso": "",
       "Dia": "",
       "Disciplina": "",
       "Fim": "",
-      "Fonte": "PDF Distribuição Geral",
+      "Fonte": "",
       "Início": "",
       "Observação": "",
-      "Período": "8º",
+      "Período": "",
       "Professor": "",
-      "Prédio": "Prédio 2",
-      "Sala": "Sala 43",
-      "Turma": "8DI",
-      "Turno": "Manhã"
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
     },
     {
       "Andar": "1º",
@@ -939,7 +939,7 @@
       "Início": "",
       "Observação": "",
       "Período": "10º",
-      "Professor": "Ana Virginia Gabrich Fonseca Freire Ramos",
+      "Professor": "Ana Virginia Gabrich Fonseca F. Ramos",
       "Prédio": "Prédio 2",
       "Sala": "Sala 34",
       "Turma": "10DI",
