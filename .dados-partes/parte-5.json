@@ -146,20 +146,20 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "",
-      "Curso": "",
+      "Andar": "6º",
+      "Curso": "Direito",
       "Dia": "",
       "Disciplina": "",
       "Fim": "",
       "Fonte": "",
       "Início": "",
       "Observação": "",
-      "Período": "",
+      "Período": "4º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 61",
+      "Turma": "D4NA",
+      "Turno": "Noite"
     },
     {
       "Andar": "",
