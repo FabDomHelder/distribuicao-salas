@@ -1122,7 +1122,7 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "",
+      "Andar": "5º",
       "Curso": "Direito",
       "Dia": "Segunda",
       "Disciplina": "",
@@ -1132,8 +1132,8 @@
       "Observação": "",
       "Período": "4º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 54",
       "Turma": "D4NC",
       "Turno": "Noite"
     },
