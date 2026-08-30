@@ -2,22 +2,6 @@
   "chunk": 8,
   "records": [
     {
-      "Andar": "7º",
-      "Curso": "Engenharia Civil",
-      "Dia": "Quinta",
-      "Disciplina": "nstalages Hiro Saitrias sala77-P3",
-      "Fim": "22:00",
-      "Fonte": "Capturas Engenharia Civil",
-      "Início": "20:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "8º",
-      "Professor": "Pedro Gasparini Barbosa Heller",
-      "Prédio": "Prédio 3",
-      "Sala": "Sala 77 - P3",
-      "Turma": "ENG8N",
-      "Turno": "Noite"
-    },
-    {
       "Andar": "2º",
       "Curso": "Engenharia Civil",
       "Dia": "Sexta",
