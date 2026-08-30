@@ -626,38 +626,6 @@
       "Turno": ""
     },
     {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "",
-      "Início": "",
-      "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
-    },
-    {
-      "Andar": "",
-      "Curso": "",
-      "Dia": "",
-      "Disciplina": "",
-      "Fim": "",
-      "Fonte": "",
-      "Início": "",
-      "Observação": "",
-      "Período": "",
-      "Professor": "",
-      "Prédio": "",
-      "Sala": "",
-      "Turma": "",
-      "Turno": ""
-    },
-    {
       "Andar": "6º",
       "Curso": "Direito",
       "Dia": "Segunda",
@@ -1600,6 +1568,38 @@
       "Sala": "Sala 111",
       "Turma": "D8N",
       "Turno": "Noite"
+    },
+    {
+      "Andar": "11º",
+      "Curso": "Direito",
+      "Dia": "Sexta",
+      "Disciplina": "",
+      "Fim": "22:00",
+      "Fonte": "",
+      "Início": "20:20",
+      "Observação": "",
+      "Período": "8º",
+      "Professor": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 111",
+      "Turma": "D8N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
     }
   ],
   "total": 15
