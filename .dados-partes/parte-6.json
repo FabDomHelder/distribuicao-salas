@@ -2,6 +2,22 @@
   "chunk": 6,
   "records": [
     {
+      "Andar": "2º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "Extturs de Dados Lab MetodologisAtvasil",
+      "Fim": "11:40",
+      "Fonte": "Capturas Ciência da Computação",
+      "Início": "10:00",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Período": "3º",
+      "Professor": "Edyene Cely Amaro Oliveira",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas III",
+      "Turma": "CC3M",
+      "Turno": "Manhã"
+    },
+    {
       "Andar": "",
       "Curso": "Ciência da Computação",
       "Dia": "Terça",
@@ -174,22 +190,6 @@
       "Professor": "Eduardo Campos dos Santos",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Metodologias Ativas III",
-      "Turma": "CC3N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quarta",
-      "Disciplina": "Desenvolvimento de Apcagdo Web Bact-End COFERTA",
-      "Fim": "22:00",
-      "Fonte": "Capturas Ciência da Computação",
-      "Início": "20:20",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Período": "3º",
-      "Professor": "Diego Silva Caldeira Rocha",
-      "Prédio": "",
-      "Sala": "EAD",
       "Turma": "CC3N",
       "Turno": "Noite"
     },
