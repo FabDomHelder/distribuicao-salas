@@ -40,13 +40,13 @@ jobs:
           echo "Parte recebida: $CHUNK"
           echo "Total esperado: $TOTAL"
 
-          if ! [[ "$CHUNK" =~ ^[1-7]$ ]]; then
+          if ! [[ "$CHUNK" =~ ^([1-9]|1[0-5])$ ]]; then
             echo "ERRO: chunk inválido: $CHUNK"
             exit 1
           fi
 
-          if [ "$TOTAL" != "7" ]; then
-            echo "ERRO: total inválido: $TOTAL. Esperado: 7"
+          if [ "$TOTAL" != "15" ]; then
+            echo "ERRO: total inválido: $TOTAL. Esperado: 15"
             exit 1
           fi
 
@@ -95,13 +95,13 @@ jobs:
           done
 
       - name: Aguardar partes anteriores
-        if: steps.parte.outputs.chunk == '7'
+        if: steps.parte.outputs.chunk == '15'
         run: |
           echo "Última parte recebida. Aguardando sincronização das demais partes..."
           sleep 15
 
       - name: Atualizar repositório para montagem
-        if: steps.parte.outputs.chunk == '7'
+        if: steps.parte.outputs.chunk == '15'
         run: |
           git fetch origin main
           git reset --hard origin/main
@@ -109,13 +109,13 @@ jobs:
           echo "Partes disponíveis:"
           ls -la .dados-partes/ || true
 
-      - name: Verificar sete partes
-        if: steps.parte.outputs.chunk == '7'
+      - name: Verificar quinze partes
+        if: steps.parte.outputs.chunk == '15'
         id: verificar
         run: |
           FALTANDO=0
 
-          for N in 1 2 3 4 5 6 7; do
+          for N in $(seq 1 15); do
             if [ ! -f ".dados-partes/parte-${N}.json" ]; then
               echo "Faltando parte $N"
               FALTANDO=1
@@ -131,24 +131,46 @@ jobs:
           fi
 
       - name: Aguardar partes faltantes
-        if: steps.parte.outputs.chunk == '7' && steps.verificar.outputs.completo != 'true'
+        if: steps.parte.outputs.chunk == '15' && steps.verificar.outputs.completo != 'true'
         run: |
-          echo "Nem todas as partes chegaram. Aguardando mais 20 segundos..."
-          sleep 20
+          echo "Nem todas as partes chegaram. Aguardando as partes restantes..."
 
-          git fetch origin main
-          git reset --hard origin/main
+          for TENTATIVA in 1 2 3 4 5 6; do
+            echo "Verificação $TENTATIVA de 6..."
+            sleep 10
 
-          for N in 1 2 3 4 5 6 7; do
-            if [ ! -f ".dados-partes/parte-${N}.json" ]; then
-              echo "ERRO: parte $N ainda está faltando."
-              exit 1
+            git fetch origin main
+            git reset --hard origin/main
+
+            FALTANDO=0
+
+            for N in $(seq 1 15); do
+              if [ ! -f ".dados-partes/parte-${N}.json" ]; then
+                echo "Ainda falta a parte $N"
+                FALTANDO=1
+              else
+                echo "Parte $N encontrada"
+              fi
+            done
+
+            if [ "$FALTANDO" -eq 0 ]; then
+              echo "Todas as 15 partes foram recebidas."
+              exit 0
             fi
           done
 
+          echo "ERRO: nem todas as 15 partes chegaram dentro do tempo esperado."
+          exit 1
+
       - name: Montar dados.json
-        if: steps.parte.outputs.chunk == '7'
+        if: steps.parte.outputs.chunk == '15'
         run: |
+          PARTES=()
+
+          for N in $(seq 1 15); do
+            PARTES+=(".dados-partes/parte-${N}.json")
+          done
+
           jq -s '
           {
             semestre: .[0].semestre,
@@ -183,15 +205,7 @@ jobs:
                 })
             )
           }
-          ' \
-          .dados-partes/parte-1.json \
-          .dados-partes/parte-2.json \
-          .dados-partes/parte-3.json \
-          .dados-partes/parte-4.json \
-          .dados-partes/parte-5.json \
-          .dados-partes/parte-6.json \
-          .dados-partes/parte-7.json \
-          > dados-novos.json
+          ' "${PARTES[@]}" > dados-novos.json
 
           jq empty dados-novos.json
 
@@ -210,7 +224,7 @@ jobs:
           mv dados-novos.json dados.json
 
       - name: Publicar atualização final
-        if: steps.parte.outputs.chunk == '7'
+        if: steps.parte.outputs.chunk == '15'
         run: |
           cp dados.json /tmp/dados-final.json
 
