@@ -809,9 +809,9 @@
       "Sala": "Mezanino"
     },
     {
-      "Andar": "",
-      "Prédio": "",
-      "Sala": ""
+      "Andar": "1º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Espaço Arena"
     },
     {
       "Andar": "2º andar",
