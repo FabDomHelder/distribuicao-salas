@@ -1,0 +1,1134 @@
+{
+  "chunk": 1,
+  "records": [
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Desenho, Projeto, Construção e BIM",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Maurício",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Arquitetura e Cidades Pré-Industriais",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "David",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Arquitetura, Cidade e Sociedade",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Lígia",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. II ",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Arquitetura Contemporânea",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Patrícia",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Introdução aos Sistemas Estruturais e Análise dos esforços",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Desenho, Projeto, Construção e BIM",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Maurício",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Arquitetura e Cidades Pré-Industriais",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "David",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Desenho, Projeto, Construção e BIM",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Maurício",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Cidades e Comunidades Sustentáveis",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Mariza",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Introdução aos Sistemas Estruturais e Análise dos esforços",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "1º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sábado",
+      "Disciplina": "OPTATIVA: Oficina de Desenho Arquitetônico",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Pedro Lodi",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V",
+      "Turma": "ARQ1M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Introdução ao Projeto",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Rosamônica",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Arquitetura e Cidades Pré-Industriais",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "David",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Arquitetura, Cidade e Sociedade",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Lígia",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Arquitetura Contemporânea",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Patrícia",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Introdução aos Sistemas Estruturais e Análise dos esforços",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Introdução ao Projeto",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Rosamônica",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Arquitetura e Cidades Pré-Industriais",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "David",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Introdução ao Projeto",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Rosamônica",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Cidades e Comunidades Sustentáveis",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Mariza",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Introdução aos Sistemas Estruturais e Análise dos esforços",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "1º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sábado",
+      "Disciplina": "OPTATIVA: Oficina de Desenho Arquitetônico",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Pedro Lodi",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V",
+      "Turma": "ARQ2M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Teoria a Análise Urbana",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Karina",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Instalações Prediais Sustentáveis: Hidrossanitárias e Prevenção contra Incêndio",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Pedro Heller",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Sistemas Estruturais e Construtivos: Concreto in Loco",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Rafael",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Instalações Prediais Sustentáveis: Hidrossanitárias e Prevenção contra Incêndio",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Pedro Heller",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Geodesign e Mapeamento Digital",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Christian Rezende",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Teoria a Análise Urbana",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Karina",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Projeto Integrador: Edifício Institucional com Micropaisagismo",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos; 3 horas-aula seguidas conforme PDF",
+      "Período": "3º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Sistemas Estruturais e Construtivos: Concreto in Loco",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Rafael",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Projeto Integrador: Edifício Institucional com Micropaisagismo",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos; 3 horas-aula seguidas conforme PDF",
+      "Período": "3º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Geodesign e Mapeamento Digital",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Christian Rezende",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "1º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sábado",
+      "Disciplina": "OPTATIVA: Oficina de Desenho Arquitetônico",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Pedro Lodi",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sábado",
+      "Disciplina": "Metodologia Científica (EAD)",
+      "Fim": "13:20",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "11:40",
+      "Observação": "3 encontros no semestre; aula compartilhada entre 3º e 4º períodos",
+      "Período": "3º",
+      "Professor": "Rachel",
+      "Prédio": "",
+      "Sala": "EAD",
+      "Turma": "ARQ3M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Teoria a Análise Urbana",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Karina",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Instalações Prediais Sustentáveis: Hidrossanitárias e Prevenção contra Incêndio",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Pedro Heller",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Sistemas Estruturais e Construtivos: Concreto in Loco",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Rafael",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Instalações Prediais Sustentáveis: Hidrossanitárias e Prevenção contra Incêndio",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Pedro Heller",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Geodesign e Mapeamento Digital",
+      "Fim": "09:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Christian Rezende",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Teoria a Análise Urbana",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Karina",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Projeto Integrador: Edifício Institucional com Micropaisagismo",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos; 3 horas-aula seguidas conforme PDF",
+      "Período": "4º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Sistemas Estruturais e Construtivos: Concreto in Loco",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Rafael",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "2º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Projeto Integrador: Edifício Institucional com Micropaisagismo",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos; 3 horas-aula seguidas conforme PDF",
+      "Período": "4º",
+      "Professor": "Tatiana",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "S2",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sexta",
+      "Disciplina": "Geodesign e Mapeamento Digital",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "10:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Christian Rezende",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "1º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sábado",
+      "Disciplina": "OPTATIVA: Oficina de Desenho Arquitetônico",
+      "Fim": "11:40",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "08:00",
+      "Observação": "Aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Pedro Lodi",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Sábado",
+      "Disciplina": "Metodologia Científica (EAD)",
+      "Fim": "13:20",
+      "Fonte": "PDF Arquitetura Manhã",
+      "Início": "11:40",
+      "Observação": "3 encontros no semestre; aula compartilhada entre 3º e 4º períodos",
+      "Período": "4º",
+      "Professor": "Rachel",
+      "Prédio": "",
+      "Sala": "EAD",
+      "Turma": "ARQ4M",
+      "Turno": "Manhã"
+    },
+    {
+      "Andar": "6º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Segunda",
+      "Disciplina": "Topografia: matemática, geometria, intervenção e representação",
+      "Fim": "20:00",
+      "Fonte": "Atualização do usuário + PDF Arquitetura Noite 2026.2",
+      "Início": "18:20",
+      "Observação": "Acesso pela Rua Domingos Vieira | Atualização: Sala 87 substituída pela Sala 67 à noite.",
+      "Período": "1º",
+      "Professor": "André",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67",
+      "Turma": "ARQ1N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "1º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Terça",
+      "Disciplina": "Ateliê de Criação",
+      "Fim": "20:00",
+      "Fonte": "PDF Arquitetura Noite",
+      "Início": "18:20",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Sandra",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V",
+      "Turma": "ARQ1N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "1º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quarta",
+      "Disciplina": "Desenho, Projeto, Construção e BIM",
+      "Fim": "20:00",
+      "Fonte": "PDF Arquitetura Noite",
+      "Início": "18:20",
+      "Observação": "Até 09/09; depois Lab. VI, S2, Prédio 1",
+      "Período": "1º",
+      "Professor": "Diego",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V",
+      "Turma": "ARQ1N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Arquitetura e Urbanismo",
+      "Dia": "Quinta",
+      "Disciplina": "Arte, Cultura e Sociedade",
+      "Fim": "20:00",
+      "Fonte": "PDF Arquitetura Noite",
+      "Início": "18:20",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "David",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 82",
+      "Turma": "ARQ1N",
+      "Turno": "Noite"
+    }
+  ],
+  "salas": [
+    {
+      "Andar": "Hall",
+      "Prédio": "Prédio 1",
+      "Sala": "Mezanino"
+    },
+    {
+      "Andar": "",
+      "Prédio": "",
+      "Sala": ""
+    },
+    {
+      "Andar": "2º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Innovation Lab. Tec"
+    },
+    {
+      "Andar": "2º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas I"
+    },
+    {
+      "Andar": "2º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas II"
+    },
+    {
+      "Andar": "2º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Metodologias Ativas III"
+    },
+    {
+      "Andar": "3º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 31"
+    },
+    {
+      "Andar": "3º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 32"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 41"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 42"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 44"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 51"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 52"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 61"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 62"
+    },
+    {
+      "Andar": "7º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 71"
+    },
+    {
+      "Andar": "7º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 72"
+    },
+    {
+      "Andar": "8º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 81"
+    },
+    {
+      "Andar": "8º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 82"
+    },
+    {
+      "Andar": "9º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 91"
+    },
+    {
+      "Andar": "9º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 92"
+    },
+    {
+      "Andar": "11º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 111"
+    },
+    {
+      "Andar": "11º andar",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 112"
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. II "
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. IV"
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. V"
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. VI"
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Tec 10"
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Engenharia III - S2"
+    },
+    {
+      "Andar": "1º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 13"
+    },
+    {
+      "Andar": "1º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 14"
+    },
+    {
+      "Andar": "2º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 23"
+    },
+    {
+      "Andar": "2º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 24"
+    },
+    {
+      "Andar": "3º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 33"
+    },
+    {
+      "Andar": "3º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 34"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 43"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 44"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 53"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 54"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 63"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 64"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 45"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 46"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 47"
+    },
+    {
+      "Andar": "4º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 48"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 55"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 56"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 57"
+    },
+    {
+      "Andar": "5º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 58"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 65"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Lab. Tec 13"
+    },
+    {
+      "Andar": "6º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 67"
+    },
+    {
+      "Andar": "7º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 75"
+    },
+    {
+      "Andar": "7º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 76"
+    },
+    {
+      "Andar": "7º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 77"
+    },
+    {
+      "Andar": "8º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 85"
+    },
+    {
+      "Andar": "8º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 86"
+    },
+    {
+      "Andar": "8º andar",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 87"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Biblioteca",
+      "Sala": "Sala OAB"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Biblioteca",
+      "Sala": "Lab. Tec 7 - Biblioteca"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 11"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 12"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 8"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 9"
+    },
+    {
+      "Andar": "Ambientes",
+      "Prédio": "Anexo Ceará",
+      "Sala": "Lab. Tec 11"
+    }
+  ],
+  "semestre": "2026.2",
+  "total": 15
+}
