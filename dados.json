@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:45:38Z",
+  "atualizadoEm": "2026-09-01T00:53:18Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -150,7 +150,7 @@
     {
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
-      "Sala/Laboratório": "Lab. Práticas"
+      "Sala/Laboratório": "Lab. de Práticas Multiprofissional"
     },
     {
       "Prédio": "Prédio 2",
@@ -8159,7 +8159,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8175,7 +8175,7 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8191,7 +8191,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8207,7 +8207,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8223,7 +8223,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8239,7 +8239,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8255,7 +8255,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8271,7 +8271,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8287,7 +8287,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8303,7 +8303,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "2º",
       "Turma": "2DI",
@@ -8335,7 +8335,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8351,7 +8351,7 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8367,7 +8367,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8383,7 +8383,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8399,7 +8399,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8415,7 +8415,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8431,7 +8431,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8447,7 +8447,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8463,7 +8463,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8479,7 +8479,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "4º",
       "Turma": "4DI",
@@ -8511,7 +8511,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8527,7 +8527,7 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8543,7 +8543,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8559,7 +8559,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8575,7 +8575,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8591,7 +8591,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8607,7 +8607,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8623,7 +8623,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8639,7 +8639,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8655,7 +8655,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "6º",
       "Turma": "6DI",
@@ -8687,7 +8687,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8703,7 +8703,7 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8719,7 +8719,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8735,7 +8735,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8751,7 +8751,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8767,7 +8767,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8783,7 +8783,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8799,7 +8799,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8815,7 +8815,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8831,7 +8831,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "8º",
       "Turma": "8DI",
@@ -8863,7 +8863,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
