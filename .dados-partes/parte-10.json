@@ -2,6 +2,22 @@
   "chunk": 10,
   "records": [
     {
+      "Andar": "7º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Quarta",
+      "Disciplina": "Análise Estrutural II",
+      "Fim": "0.916666666666667",
+      "Fonte": "Planilha Engenharia Civil — horários 26/08/2026",
+      "Início": "0.847222222222222",
+      "Observação": "junto com 6º, 7º e 8º",
+      "Período": "7º",
+      "Professor": "Ruthe Rebello Pires",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 76",
+      "Turma": "ENG7N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "2º",
       "Curso": "Engenharia Civil",
       "Dia": "Quinta",
