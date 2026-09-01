@@ -1426,6 +1426,22 @@
       "Turno": "Noite"
     },
     {
+      "Andar": "",
+      "Curso": "",
+      "Dia": "",
+      "Disciplina": "",
+      "Fim": "",
+      "Fonte": "",
+      "Início": "",
+      "Observação": "",
+      "Período": "",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
+      "Turma": "",
+      "Turno": ""
+    },
+    {
       "Andar": "2º",
       "Curso": "Ciência da Computação",
       "Dia": "Segunda",
@@ -1583,22 +1599,6 @@
       "Prédio": "Prédio 1",
       "Sala": "Lab. Engenharia III - S2",
       "Turma": "CC1N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "3º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Segunda",
-      "Disciplina": "Geometria Analítica e Álgebra Linear",
-      "Fim": "0.833333333333333",
-      "Fonte": "Planilha Ciência da Computação — horários 19/08/2026",
-      "Início": "0.763888888888889",
-      "Observação": "",
-      "Período": "2º",
-      "Professor": "João Luiz de Oliveira Gomes",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 31",
-      "Turma": "CC2N",
       "Turno": "Noite"
     }
   ],
