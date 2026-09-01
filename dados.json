@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T22:18:43Z",
+  "atualizadoEm": "2026-09-01T22:19:20Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -299,7 +299,7 @@
     },
     {
       "Prédio": "Biblioteca",
-      "Andar": "Ambientes",
+      "Andar": "Biblioteca",
       "Sala/Laboratório": "OAB"
     },
     {
