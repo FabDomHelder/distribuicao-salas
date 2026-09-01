@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T03:32:15Z",
+  "atualizadoEm": "2026-09-01T03:32:52Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -12861,38 +12861,6 @@
       "Professor": "Renato Campos",
       "Observação": "",
       "Fonte": "Planilha Ciência da Computação — horários 19/08/2026"
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
     },
     {
       "Curso": "Ciência da Computação",
