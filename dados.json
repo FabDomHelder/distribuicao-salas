@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T03:40:15Z",
+  "atualizadoEm": "2026-09-01T03:41:01Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -9039,22 +9039,6 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
       "Curso": "Psicologia",
       "Turno": "Manhã",
       "Período": "1º",
@@ -9211,22 +9195,6 @@
       "Prédio": "Prédio 1",
       "Andar": "9º",
       "Professor": "Profa. Letícia Faleiro",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
@@ -10555,6 +10523,22 @@
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
       "Professor": "Maria Carolina Ferreira Reis",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
@@ -13910,22 +13894,6 @@
       "Dia": "Quarta",
       "Início": "0.763888888888889",
       "Fim": "0.833333333333333",
-      "Disciplina": "Análise Estrutural II",
-      "Sala/Laboratório": "Sala 76",
-      "Prédio": "Prédio 3",
-      "Andar": "7º",
-      "Professor": "Ruthe Rebello Pires",
-      "Observação": "junto com 6º, 7º e 8º",
-      "Fonte": "Planilha Engenharia Civil — horários 26/08/2026"
-    },
-    {
-      "Curso": "Engenharia Civil",
-      "Turno": "Noite",
-      "Período": "7º",
-      "Turma": "ENG7N",
-      "Dia": "Quarta",
-      "Início": "0.847222222222222",
-      "Fim": "0.916666666666667",
       "Disciplina": "Análise Estrutural II",
       "Sala/Laboratório": "Sala 76",
       "Prédio": "Prédio 3",
