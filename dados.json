@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T22:31:57Z",
+  "atualizadoEm": "2026-09-01T22:34:46Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -11271,7 +11271,7 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "Anatomia",
-      "Sala/Laboratório": "Sala 14",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 2",
       "Andar": "1º",
       "Professor": "Bruno Pereira Maia",
@@ -11287,7 +11287,7 @@
       "Início": "20:20",
       "Fim": "22:00",
       "Disciplina": "Anatomia",
-      "Sala/Laboratório": "Sala 14",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 2",
       "Andar": "1º",
       "Professor": "Bruno Pereira Maia",
@@ -11351,7 +11351,7 @@
       "Início": "20:20",
       "Fim": "22:00",
       "Disciplina": "Citologia Histologia",
-      "Sala/Laboratório": "Sala 14",
+      "Sala/Laboratório": "Lab. Prática Multiprofissional",
       "Prédio": "Prédio 2",
       "Andar": "1º",
       "Professor": "Nadja Biondine",
@@ -11367,7 +11367,7 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "Citologia Histologia",
-      "Sala/Laboratório": "Sala 14",
+      "Sala/Laboratório": "Lab. Prática Multiprofissional",
       "Prédio": "Prédio 2",
       "Andar": "1º",
       "Professor": "Nadja Biondine",
@@ -11591,7 +11591,7 @@
       "Início": "20:20",
       "Fim": "22:00",
       "Disciplina": "Neuroanatomia Básica",
-      "Sala/Laboratório": "Sala 58",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 3",
       "Andar": "5º",
       "Professor": "João Luis Barros",
@@ -11671,7 +11671,7 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "Neuroanatomia Básica",
-      "Sala/Laboratório": "Sala 58",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 3",
       "Andar": "5º",
       "Professor": "João Luis Barros",
@@ -11753,7 +11753,7 @@
       "Disciplina": "Empreendedorismo I",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Eli Helberth Penido Bichara Chagas",
       "Observação": "Andar B corresponde à Biblioteca; sala OAB.",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11769,7 +11769,7 @@
       "Disciplina": "Micro Economia",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11785,7 +11785,7 @@
       "Disciplina": "Transição Digital",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11801,7 +11801,7 @@
       "Disciplina": "Micro Economia",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11817,7 +11817,7 @@
       "Disciplina": "Engenharia de Prompt",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Mateus de Queiroz Bernardes",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11833,7 +11833,7 @@
       "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Priscila Malaguti Guerzoni",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11849,7 +11849,7 @@
       "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Priscila Malaguti Guerzoni",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11865,7 +11865,7 @@
       "Disciplina": "Empreendedorismo I",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Eli Helberth Penido Bichara Chagas",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11881,7 +11881,7 @@
       "Disciplina": "Finanças Pessoais",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Vinicius de Castro Scotta dos Passos",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11897,7 +11897,7 @@
       "Disciplina": "Português Empresarial",
       "Sala/Laboratório": "OAB",
       "Prédio": "Biblioteca",
-      "Andar": "1º",
+      "Andar": "Biblioteca",
       "Professor": "Maria Carolina Ferreira Reis",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
