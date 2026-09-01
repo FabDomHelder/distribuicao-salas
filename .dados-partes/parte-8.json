@@ -2,18 +2,18 @@
   "chunk": 8,
   "records": [
     {
-      "Andar": "Biblioteca",
+      "Andar": "",
       "Curso": "Administração",
       "Dia": "Sexta",
-      "Disciplina": "Português Empresarial",
+      "Disciplina": "",
       "Fim": "22:00",
       "Fonte": "",
       "Início": "20:20",
       "Observação": "",
       "Período": "1º",
-      "Professor": "Maria Carolina Ferreira Reis",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala OAB",
+      "Professor": "",
+      "Prédio": "",
+      "Sala": "",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
