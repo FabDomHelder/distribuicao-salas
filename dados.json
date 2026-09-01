@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:07:22Z",
+  "atualizadoEm": "2026-09-01T00:08:05Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10641,7 +10641,7 @@
       "Dia": "Terça",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "Fundamentos de Administração",
+      "Disciplina": "Micro Economia",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
@@ -10657,11 +10657,11 @@
       "Dia": "Quarta",
       "Início": "18:20",
       "Fim": "20:00",
-      "Disciplina": "",
+      "Disciplina": "Engenharia de Prompt",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Mateus de Queiroz Bernardes",
       "Observação": "",
       "Fonte": ""
     },
@@ -10673,7 +10673,7 @@
       "Dia": "Quarta",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
