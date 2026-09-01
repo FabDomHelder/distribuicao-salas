@@ -2,6 +2,22 @@
   "chunk": 10,
   "records": [
     {
+      "Andar": "7º",
+      "Curso": "Engenharia Civil",
+      "Dia": "Segunda",
+      "Disciplina": "Mecânica dos Fluidos",
+      "Fim": "0.916666666666667",
+      "Fonte": "Planilha Engenharia Civil — horários 26/08/2026",
+      "Início": "0.847222222222222",
+      "Observação": "junto com 3º, 4º e 5º",
+      "Período": "4º",
+      "Professor": "Lino Rodrigues de Freitas",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala 72",
+      "Turma": "ENG4N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "4º",
       "Curso": "Engenharia Civil",
       "Dia": "Terça",
