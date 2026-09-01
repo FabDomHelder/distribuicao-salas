@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T05:04:14Z",
+  "atualizadoEm": "2026-09-01T05:05:20Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -9583,22 +9583,6 @@
       "Fonte": ""
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
       "Curso": "Psicologia",
       "Turno": "Manhã",
       "Período": "2º",
@@ -14701,38 +14685,6 @@
       "Professor": "André Ferreira Borges",
       "Observação": "6º, 7º, 8º e 10º",
       "Fonte": "Planilha Engenharia Civil — horários 26/08/2026"
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
     }
   ]
 }
