@@ -626,6 +626,45 @@ function samePlace(a,b){
   return norm(a) === norm(b);
 }
 
+/* =====================================================
+   FORMATA HORÁRIOS VINDOS DO EXCEL/POWER AUTOMATE
+   ===================================================== */
+
+function formatTime(value){
+  if(value === null || value === undefined || value === ""){
+    return "";
+  }
+
+  const raw = String(value).trim();
+
+  if(/^\d{1,2}:\d{2}$/.test(raw)){
+    const [h,m] = raw.split(":").map(Number);
+    return `${String(h).padStart(2,"0")}:${String(m).padStart(2,"0")}`;
+  }
+
+  const num = Number(raw.replace(",", "."));
+
+  if(Number.isFinite(num) && num >= 0 && num < 1){
+    let totalMinutes = Math.round(num * 24 * 60);
+    totalMinutes = totalMinutes % (24 * 60);
+
+    const h = Math.floor(totalMinutes / 60);
+    const m = totalMinutes % 60;
+
+    return `${String(h).padStart(2,"0")}:${String(m).padStart(2,"0")}`;
+  }
+
+  return raw;
+}
+
+function timeRange(record){
+  const ini = formatTime(record["Início"]);
+  const fim = formatTime(record["Fim"]);
+
+  if(!ini) return "";
+  return fim ? `${ini}–${fim}` : ini;
+}
+
 
 /* =====================================================
    CONVERTE O ARRAY "salas" DO JSON PARA "buildings"
@@ -860,9 +899,13 @@ function roomView(place,room){
 
   const times = [
     ...new Set(
-      det.map(r => `${r["Início"]}–${r["Fim"]}`)
+      det.map(r => timeRange(r))
     )
-  ].sort();
+  ].filter(Boolean).sort((a,b) => {
+    const [ah,am] = a.split("–")[0].split(":").map(Number);
+    const [bh,bm] = b.split("–")[0].split(":").map(Number);
+    return (ah * 60 + am) - (bh * 60 + bm);
+  });
 
   let grid = `
     <div class="week">
@@ -885,7 +928,7 @@ function roomView(place,room){
       const rr = det.filter(
         r =>
           r["Dia"] === d &&
-          `${r["Início"]}–${r["Fim"]}` === t
+          timeRange(r) === t
       );
 
       grid += `
@@ -1099,7 +1142,7 @@ function table(){
           <td>
             ${
               r["Início"]
-                ? esc(r["Início"]+"–"+r["Fim"])
+                ? esc(timeRange(r))
                 : "—"
             }
           </td>
@@ -1154,8 +1197,8 @@ function conflicts(){
         r["Prédio"],
         r["Sala/Laboratório"],
         r["Dia"],
-        r["Início"],
-        r["Fim"]
+        formatTime(r["Início"]),
+        formatTime(r["Fim"])
       ].join("|");
 
       (m[k] ??= []).push(r);
