@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T04:16:44Z",
+  "atualizadoEm": "2026-09-01T04:17:14Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5482,7 +5482,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Willio Campos Anselmo",
       "Observação": "",
       "Fonte": "Secretaria acadêmica"
     },
@@ -5498,7 +5498,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "Aghisan Xavier Ferreira Pinto",
+      "Professor": "NEP",
       "Observação": "",
       "Fonte": ""
     },
@@ -5514,7 +5514,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Gabriela Emanuele de Resende",
       "Observação": "",
       "Fonte": ""
     },
@@ -5530,7 +5530,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Edmilson de Jesus Ferreira",
       "Observação": "",
       "Fonte": ""
     },
@@ -5546,7 +5546,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Willio Campos Anselmo",
       "Observação": "",
       "Fonte": ""
     },
@@ -5562,7 +5562,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Aghisan Xavier",
       "Observação": "",
       "Fonte": ""
     },
@@ -5578,7 +5578,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Gabriela Emanuele de Resende",
       "Observação": "",
       "Fonte": ""
     },
@@ -5594,7 +5594,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Edmilson de Jesus Ferreira",
       "Observação": "",
       "Fonte": ""
     },
@@ -5610,7 +5610,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Marcelo Antônio Rocha",
       "Observação": "",
       "Fonte": ""
     },
@@ -5626,7 +5626,7 @@
       "Sala/Laboratório": "Sala 52",
       "Prédio": "Prédio 1",
       "Andar": "5º",
-      "Professor": "",
+      "Professor": "Aghisan Xavier",
       "Observação": "",
       "Fonte": ""
     },
@@ -5915,22 +5915,6 @@
       "Prédio": "Prédio 1",
       "Andar": "4º",
       "Professor": "Marcelo Antônio Rocha",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Noite",
-      "Período": "2º",
-      "Turma": "D2NB",
-      "Dia": "Quinta",
-      "Início": "20:20",
-      "Fim": "22:00",
-      "Disciplina": "Direito Constitucional I",
-      "Sala/Laboratório": "Sala 42",
-      "Prédio": "Prédio 1",
-      "Andar": "4º",
-      "Professor": "Francine Figueiredo",
       "Observação": "",
       "Fonte": ""
     },
