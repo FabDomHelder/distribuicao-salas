@@ -2,7 +2,7 @@
   "chunk": 7,
   "records": [
     {
-      "Andar": "",
+      "Andar": "4º",
       "Curso": "Direito Integral",
       "Dia": "Quinta",
       "Disciplina": "Direito Civil VII (Sucessões)",
@@ -12,13 +12,13 @@
       "Observação": "",
       "Período": "8º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 43",
       "Turma": "8DI",
       "Turno": "Manhã"
     },
     {
-      "Andar": "",
+      "Andar": "4º",
       "Curso": "Direito Integral",
       "Dia": "Sexta",
       "Disciplina": "Direito do Trabalho III",
@@ -28,13 +28,13 @@
       "Observação": "",
       "Período": "8º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 43",
       "Turma": "8DI",
       "Turno": "Manhã"
     },
     {
-      "Andar": "",
+      "Andar": "4º",
       "Curso": "Direito Integral",
       "Dia": "Sexta",
       "Disciplina": "Estágio II (Prática Simulada)",
@@ -44,8 +44,8 @@
       "Observação": "",
       "Período": "8º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 2",
+      "Sala": "Sala 43",
       "Turma": "8DI",
       "Turno": "Manhã"
     },
