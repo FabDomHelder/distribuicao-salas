@@ -413,7 +413,8 @@ select,input{
     margin-bottom:12px
   }
 }
-  @media (min-width:721px){
+
+@media (min-width:721px){
 
   .top{
     position:sticky;
@@ -426,10 +427,23 @@ select,input{
     top:110px;
     z-index:999;
   }
-    .room-panel{
-  scroll-margin-top:205px;
+
+  .room-panel{
+    scroll-margin-top:210px;
+  }
+
+  .building-grid .building-biblioteca{
+    grid-column:2;
+    grid-row:2;
+  }
+
+  .building-grid .building-anexo-ceara{
+    grid-column:3;
+    grid-row:2;
+  }
 
 }
+
 </style>
 </head>
 
@@ -691,6 +705,14 @@ function renderBuildings(){
     const c = document.createElement("article");
 
     c.className = "building";
+
+    if(norm(b.label) === "biblioteca"){
+      c.classList.add("building-biblioteca");
+    }
+
+    if(norm(b.label) === "anexo ceará" || norm(b.label) === "anexo ceara"){
+      c.classList.add("building-anexo-ceara");
+    }
 
     c.innerHTML = `
       <div class="bh">
