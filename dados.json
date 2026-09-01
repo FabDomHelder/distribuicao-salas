@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:00:15Z",
+  "atualizadoEm": "2026-09-01T00:01:39Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -9989,7 +9989,7 @@
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "Prof. Cláudio Rezende",
       "Observação": "",
       "Fonte": ""
     },
@@ -10053,7 +10053,7 @@
       "Sala/Laboratório": "Sala 13",
       "Prédio": "Prédio 2",
       "Andar": "1º",
-      "Professor": "",
+      "Professor": "Prof. Cláudio Rezende",
       "Observação": "",
       "Fonte": ""
     },
