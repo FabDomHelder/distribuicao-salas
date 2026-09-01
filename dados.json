@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:04:36Z",
+  "atualizadoEm": "2026-09-01T00:05:11Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10625,7 +10625,7 @@
       "Dia": "Terça",
       "Início": "18:20",
       "Fim": "20:00",
-      "Disciplina": "",
+      "Disciplina": "Engenharia de Prompt",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
@@ -10641,7 +10641,7 @@
       "Dia": "Terça",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
