@@ -210,7 +210,7 @@
       "Turno": ""
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Segunda",
       "Disciplina": "Empreendedorismo I",
@@ -220,13 +220,13 @@
       "Observação": "Andar B corresponde à Biblioteca; sala OAB.",
       "Período": "1º",
       "Professor": "Eli Helberth Penido Bichara Chagas",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Segunda",
       "Disciplina": "Micro Economia",
@@ -236,13 +236,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Mario Sergio Teixeira Marques",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Terça",
       "Disciplina": "Transição Digital",
@@ -252,13 +252,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Terça",
       "Disciplina": "Micro Economia",
@@ -268,13 +268,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Mario Sergio Teixeira Marques",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Quarta",
       "Disciplina": "Engenharia de Prompt",
@@ -284,13 +284,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Mateus de Queiroz Bernardes",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Quarta",
       "Disciplina": "Fundamentos de Administração",
@@ -300,13 +300,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Priscila Malaguti Guerzoni",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Quinta",
       "Disciplina": "Fundamentos de Administração",
@@ -316,13 +316,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Priscila Malaguti Guerzoni",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Quinta",
       "Disciplina": "Empreendedorismo I",
@@ -332,13 +332,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Eli Helberth Penido Bichara Chagas",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Sexta",
       "Disciplina": "Finanças Pessoais",
@@ -348,13 +348,13 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Vinicius de Castro Scotta dos Passos",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
     {
-      "Andar": "Biblioteca",
+      "Andar": "1º",
       "Curso": "Administração",
       "Dia": "Sexta",
       "Disciplina": "Português Empresarial",
@@ -364,7 +364,7 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Maria Carolina Ferreira Reis",
-      "Prédio": "Prédio 1",
+      "Prédio": "Biblioteca",
       "Sala": "OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
