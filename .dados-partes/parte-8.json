@@ -4,6 +4,22 @@
     {
       "Andar": "Biblioteca",
       "Curso": "Administração",
+      "Dia": "Quinta",
+      "Disciplina": "Empreendedorismo I",
+      "Fim": "22:00",
+      "Fonte": "",
+      "Início": "20:20",
+      "Observação": "",
+      "Período": "1º",
+      "Professor": "Eli Helberth Penido Bichara Chagas",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala OAB",
+      "Turma": "ADM1N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "Biblioteca",
+      "Curso": "Administração",
       "Dia": "Sexta",
       "Disciplina": "Finanças Pessoais",
       "Fim": "20:00",
@@ -1582,22 +1598,6 @@
       "Professor": "Marden Cicarelli Pinheiro",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Metodologias Ativas II",
-      "Turma": "CC8N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "Biblioteca",
-      "Curso": "Ciência da Computação",
-      "Dia": "Quinta",
-      "Disciplina": "Empreendedorismo - (junto com 4º e 7º) - Turma A",
-      "Fim": "0.916666666666667",
-      "Fonte": "Planilha Ciência da Computação — horários 19/08/2026",
-      "Início": "0.847222222222222",
-      "Observação": "",
-      "Período": "8º",
-      "Professor": "Mateus de Queiroz Bernardes",
-      "Prédio": "Biblioteca",
-      "Sala": "Lab. Tec 7 - Biblioteca",
       "Turma": "CC8N",
       "Turno": "Noite"
     }
