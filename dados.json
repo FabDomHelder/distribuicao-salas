@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:06:49Z",
+  "atualizadoEm": "2026-09-01T00:07:22Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10641,7 +10641,7 @@
       "Dia": "Terça",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
