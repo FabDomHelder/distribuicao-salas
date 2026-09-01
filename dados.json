@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:53:18Z",
+  "atualizadoEm": "2026-09-01T00:55:17Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -8879,7 +8879,7 @@
       "Fonte": "PDF Distribuição Geral"
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8895,7 +8895,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8911,7 +8911,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8927,7 +8927,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8943,7 +8943,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8959,7 +8959,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8975,7 +8975,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -8991,7 +8991,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -9007,7 +9007,7 @@
       "Fonte": ""
     },
     {
-      "Curso": "Direito",
+      "Curso": "Direito Integral",
       "Turno": "Manhã",
       "Período": "10º",
       "Turma": "10DI",
@@ -9037,198 +9037,6 @@
       "Professor": "",
       "Observação": "",
       "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "2º",
-      "Turma": "D2MB",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 63",
-      "Prédio": "Prédio 2",
-      "Andar": "6º",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "4º",
-      "Turma": "D4MB",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 53",
-      "Prédio": "Prédio 2",
-      "Andar": "5º",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "4º",
-      "Turma": "D4MC",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "Direitos Humanos",
-      "Sala/Laboratório": "Sala 64",
-      "Prédio": "Prédio 2",
-      "Andar": "6º",
-      "Professor": "Adriana Freitas Antunes Camatta",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "4º",
-      "Turma": "D4MD",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 44",
-      "Prédio": "Prédio 2",
-      "Andar": "4º",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "8º",
-      "Turma": "D8MA",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 14",
-      "Prédio": "Prédio 2",
-      "Andar": "1º",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "10º",
-      "Turma": "D10MA",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 13",
-      "Prédio": "Prédio 2",
-      "Andar": "1º",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "10º",
-      "Turma": "D10MB",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "Sala 54",
-      "Prédio": "Prédio 2",
-      "Andar": "5º",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": "PDF Distribuição Geral"
     },
     {
       "Curso": "",
