@@ -2,6 +2,22 @@
   "chunk": 9,
   "records": [
     {
+      "Andar": "2º",
+      "Curso": "Ciência da Computação",
+      "Dia": "Terça",
+      "Disciplina": "Rede de Computadores - (junto com o 6º e 8º) - Turma A",
+      "Fim": "0.916666666666667",
+      "Fonte": "Planilha Ciência da Computação — horários 19/08/2026",
+      "Início": "0.847222222222222",
+      "Observação": "",
+      "Período": "7º",
+      "Professor": "Elson de Abreu Rocha Junior",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Met. Ativas II",
+      "Turma": "CC7N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "Anexo Ceará",
       "Curso": "Ciência da Computação",
       "Dia": "Terça",
@@ -1582,22 +1598,6 @@
       "Professor": "Ricardo Luiz de Freitas",
       "Prédio": "Prédio 1",
       "Sala": "Lab. Met. Ativas II",
-      "Turma": "ENG4N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "7º",
-      "Curso": "Engenharia Civil",
-      "Dia": "Segunda",
-      "Disciplina": "Mecânica dos Fluidos",
-      "Fim": "0.916666666666667",
-      "Fonte": "Planilha Engenharia Civil — horários 26/08/2026",
-      "Início": "0.847222222222222",
-      "Observação": "junto com 3º, 4º e 5º",
-      "Período": "4º",
-      "Professor": "Lino Rodrigues de Freitas",
-      "Prédio": "Prédio 1",
-      "Sala": "Sala 72",
       "Turma": "ENG4N",
       "Turno": "Noite"
     }
