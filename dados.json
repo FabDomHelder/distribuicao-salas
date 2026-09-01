@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T04:34:10Z",
+  "atualizadoEm": "2026-09-01T04:34:09Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -9146,7 +9146,7 @@
       "Sala/Laboratório": "Sala 43",
       "Prédio": "Prédio 2",
       "Andar": "4º",
-      "Professor": "Paulo Antônio Grahl",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
@@ -9162,7 +9162,7 @@
       "Sala/Laboratório": "Sala 43",
       "Prédio": "Prédio 2",
       "Andar": "4º",
-      "Professor": "Marcos Paulo Oliveira",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
@@ -9178,7 +9178,7 @@
       "Sala/Laboratório": "Sala 43",
       "Prédio": "Prédio 2",
       "Andar": "4º",
-      "Professor": "Helen Almeida",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
