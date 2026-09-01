@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T13:15:20Z",
+  "atualizadoEm": "2026-09-01T13:15:51Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -1999,6 +1999,22 @@
       "Fonte": "Salas e Labs ARQ&URB 2026.2_NOITE_p QRCode.xlsx"
     },
     {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
       "Curso": "Arquitetura e Urbanismo",
       "Turno": "Noite",
       "Período": "10º",
@@ -3611,22 +3627,6 @@
       "Prédio": "Prédio 2",
       "Andar": "5º",
       "Professor": "Fernando Lage Tolentino",
-      "Observação": "",
-      "Fonte": "Atualização fornecida em 20/08/2026"
-    },
-    {
-      "Curso": "Direito",
-      "Turno": "Manhã",
-      "Período": "4º",
-      "Turma": "D4MB",
-      "Dia": "Sexta",
-      "Início": "08:00",
-      "Fim": "09:40",
-      "Disciplina": "Direito Civil III",
-      "Sala/Laboratório": "Sala 53",
-      "Prédio": "Prédio 2",
-      "Andar": "5º",
-      "Professor": "Pedro Alexandre Moreira",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
     },
