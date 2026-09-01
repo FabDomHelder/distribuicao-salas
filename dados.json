@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T22:27:34Z",
+  "atualizadoEm": "2026-09-01T22:31:57Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -11752,8 +11752,8 @@
       "Fim": "20:00",
       "Disciplina": "Empreendedorismo I",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Eli Helberth Penido Bichara Chagas",
       "Observação": "Andar B corresponde à Biblioteca; sala OAB.",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11768,8 +11768,8 @@
       "Fim": "22:00",
       "Disciplina": "Micro Economia",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11784,8 +11784,8 @@
       "Fim": "20:00",
       "Disciplina": "Transição Digital",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11800,8 +11800,8 @@
       "Fim": "22:00",
       "Disciplina": "Micro Economia",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11816,8 +11816,8 @@
       "Fim": "20:00",
       "Disciplina": "Engenharia de Prompt",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Mateus de Queiroz Bernardes",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11832,8 +11832,8 @@
       "Fim": "22:00",
       "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Priscila Malaguti Guerzoni",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11848,8 +11848,8 @@
       "Fim": "20:00",
       "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Priscila Malaguti Guerzoni",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11864,8 +11864,8 @@
       "Fim": "22:00",
       "Disciplina": "Empreendedorismo I",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Eli Helberth Penido Bichara Chagas",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11880,8 +11880,8 @@
       "Fim": "20:00",
       "Disciplina": "Finanças Pessoais",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Vinicius de Castro Scotta dos Passos",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
@@ -11896,8 +11896,8 @@
       "Fim": "22:00",
       "Disciplina": "Português Empresarial",
       "Sala/Laboratório": "OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
+      "Prédio": "Biblioteca",
+      "Andar": "1º",
       "Professor": "Maria Carolina Ferreira Reis",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
