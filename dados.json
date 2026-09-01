@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:01:39Z",
+  "atualizadoEm": "2026-09-01T00:04:36Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10593,11 +10593,11 @@
       "Dia": "Segunda",
       "Início": "18:20",
       "Fim": "20:00",
-      "Disciplina": "",
+      "Disciplina": "Empreendedorismo I",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Eli Helberth Penido Bichara Chagas",
       "Observação": "Andar B corresponde à Biblioteca; sala OAB.",
       "Fonte": "Atualização fornecida em 20/08/2026"
     },
@@ -10609,11 +10609,11 @@
       "Dia": "Segunda",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Micro Economia",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": ""
     },
