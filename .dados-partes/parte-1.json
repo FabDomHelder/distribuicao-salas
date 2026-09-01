@@ -944,6 +944,16 @@
       "Sala": "Lab. Engenharia III - S2"
     },
     {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. NeuroAnatomia"
+    },
+    {
+      "Andar": "S2 / laboratórios",
+      "Prédio": "Prédio 1",
+      "Sala": "Lab. Práticas"
+    },
+    {
       "Andar": "1º andar",
       "Prédio": "Prédio 2",
       "Sala": "Sala 13"
