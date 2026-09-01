@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T22:40:15Z",
+  "atualizadoEm": "2026-09-01T22:45:04Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10663,7 +10663,7 @@
       "Início": "10:00",
       "Fim": "11:40",
       "Disciplina": "Anatomia Humana Geral",
-      "Sala/Laboratório": "Sala 51",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "Prof. Bruno Maia",
@@ -11175,7 +11175,7 @@
       "Início": "20:20",
       "Fim": "22:00",
       "Disciplina": "Neuroanatomia Funcional",
-      "Sala/Laboratório": "Sala 13",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 2",
       "Andar": "1º",
       "Professor": "Prof. Joao Luis",
