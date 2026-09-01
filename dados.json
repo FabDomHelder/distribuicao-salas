@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T04:17:14Z",
+  "atualizadoEm": "2026-09-01T04:19:26Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -5466,7 +5466,7 @@
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
-      "Professor": "",
+      "Professor": "NPJ",
       "Observação": "",
       "Fonte": ""
     },
@@ -13916,6 +13916,22 @@
       "Andar": "7º",
       "Professor": "Ruthe Rebello Pires",
       "Observação": "junto com 6º, 7º e 8º",
+      "Fonte": "Planilha Engenharia Civil — horários 26/08/2026"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "7º",
+      "Turma": "ENG7N",
+      "Dia": "Quinta",
+      "Início": "0.763888888888889",
+      "Fim": "0.833333333333333",
+      "Disciplina": "Hidráulica Geral",
+      "Sala/Laboratório": "Sala 24",
+      "Prédio": "Prédio 2",
+      "Andar": "2º",
+      "Professor": "Pedro Gasparini Barbosa Heller",
+      "Observação": "junto com 5º, 6º, 7º e 8º",
       "Fonte": "Planilha Engenharia Civil — horários 26/08/2026"
     },
     {
