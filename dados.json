@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:05:11Z",
+  "atualizadoEm": "2026-09-01T00:06:07Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10610,9 +10610,9 @@
       "Início": "20:20",
       "Fim": "22:00",
       "Disciplina": "Micro Economia",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
+      "Sala/Laboratório": "Sala OAB",
+      "Prédio": "Prédio 1",
+      "Andar": "Biblioteca",
       "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": ""
@@ -10625,7 +10625,7 @@
       "Dia": "Terça",
       "Início": "18:20",
       "Fim": "20:00",
-      "Disciplina": "Engenharia de Prompt",
+      "Disciplina": "Transição Digital",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
@@ -10641,7 +10641,7 @@
       "Dia": "Terça",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "Fundamentos de Administração",
+      "Disciplina": "",
       "Sala/Laboratório": "",
       "Prédio": "",
       "Andar": "",
