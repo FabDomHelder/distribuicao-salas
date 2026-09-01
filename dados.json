@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T22:35:33Z",
+  "atualizadoEm": "2026-09-01T22:37:08Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10903,7 +10903,7 @@
       "Início": "18:20",
       "Fim": "20:00",
       "Disciplina": "Anatomia Humana Geral",
-      "Sala/Laboratório": "Sala 51",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "Prof. Bruno Maia",
@@ -10919,7 +10919,7 @@
       "Início": "20:20",
       "Fim": "22:00",
       "Disciplina": "Anatomia Humana Geral",
-      "Sala/Laboratório": "Sala 51",
+      "Sala/Laboratório": "Lab. NeuroAnatomia",
       "Prédio": "Prédio 1",
       "Andar": "5º",
       "Professor": "Prof. Bruno Maia",
