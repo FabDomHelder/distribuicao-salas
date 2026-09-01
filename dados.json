@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:20:42Z",
+  "atualizadoEm": "2026-09-01T00:25:10Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10410,6 +10410,22 @@
       "Fonte": "Atualização fornecida em 20/08/2026"
     },
     {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
       "Curso": "Fonoaudiologia",
       "Turno": "Noite",
       "Período": "3º",
@@ -11798,22 +11814,6 @@
       "Prédio": "Prédio 1",
       "Andar": "3º",
       "Professor": "Mateus de Queiroz Bernardes",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Fonte": "Capturas Ciência da Computação"
-    },
-    {
-      "Curso": "Ciência da Computação",
-      "Turno": "Noite",
-      "Período": "3º",
-      "Turma": "CC3N",
-      "Dia": "Sexta",
-      "Início": "20:20",
-      "Fim": "22:00",
-      "Disciplina": "Clculo | Sala",
-      "Sala/Laboratório": "Sala 32 - P1",
-      "Prédio": "Prédio 1",
-      "Andar": "3º",
-      "Professor": "João Luiz de Oliveira Gomes",
       "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
       "Fonte": "Capturas Ciência da Computação"
     },
