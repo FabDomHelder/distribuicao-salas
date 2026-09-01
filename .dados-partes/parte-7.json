@@ -1474,7 +1474,7 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "",
+      "Andar": "Biblioteca",
       "Curso": "Administração",
       "Dia": "Segunda",
       "Disciplina": "Micro Economia",
@@ -1484,8 +1484,8 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "Mario Sergio Teixeira Marques",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
