@@ -2,6 +2,38 @@
   "chunk": 8,
   "records": [
     {
+      "Andar": "8º",
+      "Curso": "Fonoaudiologia",
+      "Dia": "Sexta",
+      "Disciplina": "Otorrinolaringologia",
+      "Fim": "20:00",
+      "Fonte": "Atualização fornecida em 20/08/2026",
+      "Início": "18:20",
+      "Observação": "",
+      "Período": "2º",
+      "Professor": "Fernanda Catisani",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 86",
+      "Turma": "FONO2N",
+      "Turno": "Noite"
+    },
+    {
+      "Andar": "8º",
+      "Curso": "Fonoaudiologia",
+      "Dia": "Sexta",
+      "Disciplina": "Saúde e Políticas Públicas",
+      "Fim": "22:00",
+      "Fonte": "Atualização fornecida em 20/08/2026",
+      "Início": "20:20",
+      "Observação": "Junto com a turma FONO1N",
+      "Período": "2º",
+      "Professor": "Antônio Marcondes",
+      "Prédio": "Prédio 3",
+      "Sala": "Sala 86",
+      "Turma": "FONO2N",
+      "Turno": "Noite"
+    },
+    {
       "Andar": "5º",
       "Curso": "Fonoaudiologia",
       "Dia": "Segunda",
@@ -1090,22 +1122,6 @@
       "Turno": "Noite"
     },
     {
-      "Andar": "2º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Sexta",
-      "Disciplina": "Algoritmos e Estruturas de Dados III",
-      "Fim": "0.916666666666667",
-      "Fonte": "Planilha Ciência da Computação — horários 19/08/2026",
-      "Início": "0.847222222222222",
-      "Observação": "",
-      "Período": "4º",
-      "Professor": "Edyene Cely Amaro Oliveira",
-      "Prédio": "Prédio 1",
-      "Sala": "Lab. Met. Ativas III",
-      "Turma": "CC4N",
-      "Turno": "Noite"
-    },
-    {
       "Andar": "",
       "Curso": "Ciência da Computação",
       "Dia": "EAD",
@@ -1582,22 +1598,6 @@
       "Professor": "Marcos Flávio Araújo Assunção",
       "Prédio": "Anexo Ceará",
       "Sala": "Lab. Tec 11 - Anexo Ceará",
-      "Turma": "CC7N",
-      "Turno": "Noite"
-    },
-    {
-      "Andar": "2º",
-      "Curso": "Ciência da Computação",
-      "Dia": "Terça",
-      "Disciplina": "Rede de Computadores - (junto com o 6º e 8º) - Turma A",
-      "Fim": "0.916666666666667",
-      "Fonte": "Planilha Ciência da Computação — horários 19/08/2026",
-      "Início": "0.847222222222222",
-      "Observação": "",
-      "Período": "7º",
-      "Professor": "Elson de Abreu Rocha Junior",
-      "Prédio": "Prédio 1",
-      "Sala": "Lab. Met. Ativas II",
       "Turma": "CC7N",
       "Turno": "Noite"
     }
