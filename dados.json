@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T03:29:45Z",
+  "atualizadoEm": "2026-09-01T03:30:40Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -12863,20 +12863,52 @@
       "Fonte": "Planilha Ciência da Computação — horários 19/08/2026"
     },
     {
-      "Curso": "Ciência da Computação",
-      "Turno": "Noite",
-      "Período": "8º",
-      "Turma": "CC8N",
-      "Dia": "EAD",
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
       "Início": "",
       "Fim": "",
-      "Disciplina": "de Conclusso de Curso Il ED",
-      "Sala/Laboratório": "EAD",
-      "Prédio": "EAD",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
       "Andar": "",
-      "Professor": "Renato Campos",
-      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
-      "Fonte": "Capturas Ciência da Computação"
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
+    },
+    {
+      "Curso": "",
+      "Turno": "",
+      "Período": "",
+      "Turma": "",
+      "Dia": "",
+      "Início": "",
+      "Fim": "",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
+      "Observação": "",
+      "Fonte": ""
     },
     {
       "Curso": "Engenharia Civil",
