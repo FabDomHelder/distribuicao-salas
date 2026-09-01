@@ -2,7 +2,7 @@
   "chunk": 8,
   "records": [
     {
-      "Andar": "",
+      "Andar": "Biblioteca",
       "Curso": "Administração",
       "Dia": "Sexta",
       "Disciplina": "",
@@ -12,8 +12,8 @@
       "Observação": "",
       "Período": "1º",
       "Professor": "",
-      "Prédio": "",
-      "Sala": "",
+      "Prédio": "Prédio 1",
+      "Sala": "Sala OAB",
       "Turma": "ADM1N",
       "Turno": "Noite"
     },
