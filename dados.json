@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:08:50Z",
+  "atualizadoEm": "2026-09-01T00:10:09Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10677,7 +10677,7 @@
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Priscila Malaguti Guerzoni",
       "Observação": "",
       "Fonte": ""
     },
@@ -10693,7 +10693,7 @@
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Priscila Malaguti Guerzoni",
       "Observação": "",
       "Fonte": ""
     },
@@ -10721,7 +10721,7 @@
       "Dia": "Sexta",
       "Início": "18:20",
       "Fim": "20:00",
-      "Disciplina": "",
+      "Disciplina": "Finanças Pessoais",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
@@ -10741,7 +10741,7 @@
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Maria Carolina Ferreira Reis",
       "Observação": "",
       "Fonte": ""
     },
