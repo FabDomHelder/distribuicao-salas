@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:08:06Z",
+  "atualizadoEm": "2026-09-01T00:08:50Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10689,7 +10689,7 @@
       "Dia": "Quinta",
       "Início": "18:20",
       "Fim": "20:00",
-      "Disciplina": "",
+      "Disciplina": "Fundamentos de Administração",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
@@ -10705,11 +10705,11 @@
       "Dia": "Quinta",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Empreendedorismo I",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Eli Helberth Penido Bichara Chagas",
       "Observação": "",
       "Fonte": ""
     },
@@ -10737,7 +10737,7 @@
       "Dia": "Sexta",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Português Empresarial",
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
