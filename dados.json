@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:10:09Z",
+  "atualizadoEm": "2026-09-01T00:10:53Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -10645,7 +10645,7 @@
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Mario Sergio Teixeira Marques",
       "Observação": "",
       "Fonte": ""
     },
@@ -10725,7 +10725,7 @@
       "Sala/Laboratório": "Sala OAB",
       "Prédio": "Prédio 1",
       "Andar": "Biblioteca",
-      "Professor": "",
+      "Professor": "Vinicius de Castro Scotta dos Passos",
       "Observação": "",
       "Fonte": ""
     },
@@ -10737,11 +10737,11 @@
       "Dia": "Sexta",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "Português Empresarial",
-      "Sala/Laboratório": "Sala OAB",
-      "Prédio": "Prédio 1",
-      "Andar": "Biblioteca",
-      "Professor": "Maria Carolina Ferreira Reis",
+      "Disciplina": "",
+      "Sala/Laboratório": "",
+      "Prédio": "",
+      "Andar": "",
+      "Professor": "",
       "Observação": "",
       "Fonte": ""
     },
