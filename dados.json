@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T03:33:27Z",
+  "atualizadoEm": "2026-09-01T03:34:12Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -12863,38 +12863,6 @@
       "Fonte": "Planilha Ciência da Computação — horários 19/08/2026"
     },
     {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
-      "Curso": "",
-      "Turno": "",
-      "Período": "",
-      "Turma": "",
-      "Dia": "",
-      "Início": "",
-      "Fim": "",
-      "Disciplina": "",
-      "Sala/Laboratório": "",
-      "Prédio": "",
-      "Andar": "",
-      "Professor": "",
-      "Observação": "",
-      "Fonte": ""
-    },
-    {
       "Curso": "Ciência da Computação",
       "Turno": "Noite",
       "Período": "8º",
@@ -13931,6 +13899,38 @@
       "Prédio": "Prédio 2",
       "Andar": "2º",
       "Professor": "Pedro Gasparini Barbosa Heller",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "7º",
+      "Turma": "ENG7N",
+      "Dia": "Quarta",
+      "Início": "18:20",
+      "Fim": "20:00",
+      "Disciplina": "Estrutura I unto com 6, 7°68)",
+      "Sala/Laboratório": "Sala 77 - P3",
+      "Prédio": "Prédio 3",
+      "Andar": "7º",
+      "Professor": "Ruthe Rebello Pires",
+      "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
+      "Fonte": "Capturas Engenharia Civil"
+    },
+    {
+      "Curso": "Engenharia Civil",
+      "Turno": "Noite",
+      "Período": "7º",
+      "Turma": "ENG7N",
+      "Dia": "Quarta",
+      "Início": "20:20",
+      "Fim": "22:00",
+      "Disciplina": "Estrutura I unto com 6, 7°68)",
+      "Sala/Laboratório": "Sala 77 - P3",
+      "Prédio": "Prédio 3",
+      "Andar": "7º",
+      "Professor": "Ruthe Rebello Pires",
       "Observação": "Transcrito das telas de horários fornecidas em 20/08/2026.",
       "Fonte": "Capturas Engenharia Civil"
     },
