@@ -431,17 +431,30 @@ select,input{
   .room-panel{
     scroll-margin-top:210px;
   }
+}
 
-  .building-grid .building-biblioteca{
-    grid-column:2;
-    grid-row:2;
+
+/* Colunas independentes dos prédios no desktop */
+@media (min-width:721px){
+  #buildingGrid .building-column{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+    min-width:0;
+  }
+}
+
+/* No celular, os wrappers não alteram o layout existente */
+@media (max-width:720px){
+  #buildingGrid .building-column{
+    display:contents;
   }
 
-  .building-grid .building-anexo-ceara{
-    grid-column:3;
-    grid-row:2;
-  }
-
+  #buildingGrid .building-predio-1{order:1}
+  #buildingGrid .building-predio-2{order:2}
+  #buildingGrid .building-predio-3{order:3}
+  #buildingGrid .building-biblioteca{order:4}
+  #buildingGrid .building-anexo-ceara{order:5}
 }
 
 </style>
@@ -700,17 +713,43 @@ function renderBuildings(){
 
   root.innerHTML = "";
 
+  const col1 = document.createElement("div");
+  const col2 = document.createElement("div");
+  const col3 = document.createElement("div");
+
+  col1.className = "building-column";
+  col2.className = "building-column";
+  col3.className = "building-column";
+
+  root.appendChild(col1);
+  root.appendChild(col2);
+  root.appendChild(col3);
+
   Object.entries(D.buildings).forEach(([key,b]) => {
 
     const c = document.createElement("article");
 
     c.className = "building";
 
-    if(norm(b.label) === "biblioteca"){
+    const label = norm(b.label);
+
+    if(label === "prédio 1" || label === "predio 1"){
+      c.classList.add("building-predio-1");
+    }
+
+    if(label === "prédio 2" || label === "predio 2"){
+      c.classList.add("building-predio-2");
+    }
+
+    if(label === "prédio 3" || label === "predio 3"){
+      c.classList.add("building-predio-3");
+    }
+
+    if(label === "biblioteca"){
       c.classList.add("building-biblioteca");
     }
 
-    if(norm(b.label) === "anexo ceará" || norm(b.label) === "anexo ceara"){
+    if(label === "anexo ceará" || label === "anexo ceara"){
       c.classList.add("building-anexo-ceara");
     }
 
@@ -769,7 +808,21 @@ function renderBuildings(){
 
     });
 
-    root.appendChild(c);
+    if(label === "prédio 1" || label === "predio 1"){
+      col1.appendChild(c);
+    } else if(
+      label === "prédio 2" || label === "predio 2" ||
+      label === "biblioteca"
+    ){
+      col2.appendChild(c);
+    } else if(
+      label === "prédio 3" || label === "predio 3" ||
+      label === "anexo ceará" || label === "anexo ceara"
+    ){
+      col3.appendChild(c);
+    } else {
+      col1.appendChild(c);
+    }
 
   });
 
