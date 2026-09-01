@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T00:28:22Z",
+  "atualizadoEm": "2026-09-01T00:45:37Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -141,6 +141,16 @@
       "Prédio": "Prédio 1",
       "Andar": "S2 / laboratórios",
       "Sala/Laboratório": "Lab. Engenharia III - S2"
+    },
+    {
+      "Prédio": "Prédio 1",
+      "Andar": "S2 / laboratórios",
+      "Sala/Laboratório": "Lab. NeuroAnatomia"
+    },
+    {
+      "Prédio": "Prédio 1",
+      "Andar": "S2 / laboratórios",
+      "Sala/Laboratório": "Lab. Práticas"
     },
     {
       "Prédio": "Prédio 2",
@@ -10300,11 +10310,11 @@
       "Dia": "Terça",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "Fídica acústica",
+      "Disciplina": "Física acústica",
       "Sala/Laboratório": "Sala 86",
       "Prédio": "Prédio 3",
       "Andar": "8º",
-      "Professor": "",
+      "Professor": "Felippe Canuto",
       "Observação": "",
       "Fonte": "Atualização fornecida em 20/08/2026"
     },
