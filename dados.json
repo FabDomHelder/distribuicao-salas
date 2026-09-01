@@ -1,6 +1,6 @@
 {
   "semestre": "2026.2",
-  "atualizadoEm": "2026-09-01T04:01:15Z",
+  "atualizadoEm": "2026-09-01T04:01:44Z",
   "salas": [
     {
       "Prédio": "Prédio 1",
@@ -7942,11 +7942,11 @@
       "Dia": "Sexta",
       "Início": "20:20",
       "Fim": "22:00",
-      "Disciplina": "",
+      "Disciplina": "Estágio IV (Prática Real)",
       "Sala/Laboratório": "Sala 33",
       "Prédio": "Prédio 2",
       "Andar": "3º",
-      "Professor": "",
+      "Professor": "NPJ",
       "Observação": "",
       "Fonte": ""
     },
